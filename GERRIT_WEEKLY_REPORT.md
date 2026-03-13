@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-03-12 07:46:45 UTC
+**Generated:** 2026-03-13 07:45:24 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-03-10 to 2026-03-12 (2 days)
-**Total Changes:** 7
+**Period:** 2026-03-11 to 2026-03-13 (2 days)
+**Total Changes:** 6
 
 ---
 
-## 🔍 Open Changes Awaiting Review (7)
+## 🔍 Open Changes Awaiting Review (6)
 
 ### [Show image name during virtual media redirection](https://gerrit.openbmc.org/c/87876)
 - **Change #:** 87876
@@ -37,11 +37,6 @@
 - **Change #:** 87222
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-03-11 07:29:40.000000000
-
-### [Enforce logout after user password change](https://gerrit.openbmc.org/c/87572)
-- **Change #:** 87572
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-03-10 05:50:16.000000000
 
 ---
 
