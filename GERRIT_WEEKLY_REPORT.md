@@ -1,10 +1,24 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-03-22 07:38:31 UTC
+**Generated:** 2026-03-23 08:02:05 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-03-20 to 2026-03-22 (2 days)
-**Total Changes:** 0
+**Period:** 2026-03-21 to 2026-03-23 (2 days)
+**Total Changes:** 2
 
 ---
+
+## 🚧 Work In Progress (1)
+
+### [Display UserType and privileges in user profile](https://gerrit.openbmc.org/c/88397)
+- **Change #:** 88397
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-03-23 05:56:37.000000000
+
+## ❌ Abandoned Changes (1)
+
+### [Add timeout when setting NTP mode](https://gerrit.openbmc.org/c/69835)
+- **Change #:** 69835
+- **Author:** Hieu Huynh
+- **Updated:** 2026-03-22 19:02:03.000000000
 
 ---
 
