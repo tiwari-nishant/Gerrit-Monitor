@@ -1,18 +1,10 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-03-27 07:59:56 UTC
+**Generated:** 2026-03-28 07:44:01 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-03-25 to 2026-03-27 (2 days)
-**Total Changes:** 1
+**Period:** 2026-03-26 to 2026-03-28 (2 days)
+**Total Changes:** 0
 
 ---
-
-## ✅ Merged Changes (1)
-
-### [Dumps: fix action to delete all dumps](https://gerrit.openbmc.org/c/88406)
-- **Change #:** 88406
-- **Author:** Tan Siewert
-- **Changes:** +1 / -1 lines
-- **Updated:** 2026-03-25 15:34:29.000000000
 
 ---
 
