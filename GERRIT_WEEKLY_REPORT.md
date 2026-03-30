@@ -1,10 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-03-29 07:52:01 UTC
+**Generated:** 2026-03-30 08:21:21 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-03-27 to 2026-03-29 (2 days)
-**Total Changes:** 0
+**Period:** 2026-03-28 to 2026-03-30 (2 days)
+**Total Changes:** 1
 
 ---
+
+## 🔍 Open Changes Awaiting Review (1)
+
+### [Show image name during virtual media redirection](https://gerrit.openbmc.org/c/87876)
+- **Change #:** 87876
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-03-30 07:43:22.000000000
 
 ---
 
