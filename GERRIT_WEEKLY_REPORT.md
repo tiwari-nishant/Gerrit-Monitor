@@ -1,8 +1,8 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-03-31 08:08:45 UTC
+**Generated:** 2026-04-01 08:15:58 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-03-29 to 2026-03-31 (2 days)
-**Total Changes:** 5
+**Period:** 2026-03-30 to 2026-04-01 (2 days)
+**Total Changes:** 6
 
 ---
 
@@ -20,7 +20,12 @@
 - **Changes:** +5 / -3 lines
 - **Updated:** 2026-03-30 10:55:58.000000000
 
-## 🔍 Open Changes Awaiting Review (3)
+## 🔍 Open Changes Awaiting Review (4)
+
+### [Keep the selected interface when refreshing Ethernet data](https://gerrit.openbmc.org/c/87647)
+- **Change #:** 87647
+- **Author:** khangng-ampere
+- **Updated:** 2026-04-01 04:08:40.000000000
 
 ### [Fix UI alignment issues on Logs and Dumps pages](https://gerrit.openbmc.org/c/87222)
 - **Change #:** 87222
