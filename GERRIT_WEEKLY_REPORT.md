@@ -1,17 +1,10 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-04-03 08:02:13 UTC
+**Generated:** 2026-04-04 07:48:49 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-04-01 to 2026-04-03 (2 days)
-**Total Changes:** 1
+**Period:** 2026-04-02 to 2026-04-04 (2 days)
+**Total Changes:** 0
 
 ---
-
-## 🔍 Open Changes Awaiting Review (1)
-
-### [Keep the selected interface when refreshing Ethernet data](https://gerrit.openbmc.org/c/87647)
-- **Change #:** 87647
-- **Author:** khangng-ampere
-- **Updated:** 2026-04-01 04:08:40.000000000
 
 ---
 
