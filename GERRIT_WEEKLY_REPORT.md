@@ -1,10 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-04-05 07:54:47 UTC
+**Generated:** 2026-04-06 08:22:15 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-04-03 to 2026-04-05 (2 days)
-**Total Changes:** 0
+**Period:** 2026-04-04 to 2026-04-06 (2 days)
+**Total Changes:** 1
 
 ---
+
+## 🔍 Open Changes Awaiting Review (1)
+
+### [Fix UI alignment issues on Logs and Dumps pages](https://gerrit.openbmc.org/c/87222)
+- **Change #:** 87222
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-04-04 12:06:33.000000000
 
 ---
 
