@@ -1,17 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-04-06 08:22:15 UTC
+**Generated:** 2026-04-07 08:12:54 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-04-04 to 2026-04-06 (2 days)
+**Period:** 2026-04-05 to 2026-04-07 (2 days)
 **Total Changes:** 1
 
 ---
 
 ## 🔍 Open Changes Awaiting Review (1)
 
-### [Fix UI alignment issues on Logs and Dumps pages](https://gerrit.openbmc.org/c/87222)
-- **Change #:** 87222
+### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
+- **Change #:** 87472
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-04-04 12:06:33.000000000
+- **Updated:** 2026-04-06 09:08:09.000000000
 
 ---
 
