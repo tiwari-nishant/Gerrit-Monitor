@@ -1,27 +1,32 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-04-15 08:27:24 UTC
+**Generated:** 2026-04-16 08:26:41 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-04-13 to 2026-04-15 (2 days)
-**Total Changes:** 4
+**Period:** 2026-04-14 to 2026-04-16 (2 days)
+**Total Changes:** 5
 
 ---
 
-## 🔍 Open Changes Awaiting Review (4)
+## 🔍 Open Changes Awaiting Review (5)
+
+### [Fix UI alignment issues on Logs and Dumps pages](https://gerrit.openbmc.org/c/87222)
+- **Change #:** 87222
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-04-15 10:49:32.000000000
 
 ### [Enforce logout after user password change](https://gerrit.openbmc.org/c/87572)
 - **Change #:** 87572
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-04-15 06:35:42.000000000
+- **Updated:** 2026-04-15 10:43:31.000000000
+
+### [Show image name during virtual media redirection](https://gerrit.openbmc.org/c/87876)
+- **Change #:** 87876
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-04-15 10:35:22.000000000
 
 ### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
 - **Change #:** 87472
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-04-15 06:34:52.000000000
-
-### [Show image name during virtual media redirection](https://gerrit.openbmc.org/c/87876)
-- **Change #:** 87876
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-04-15 06:11:42.000000000
 
 ### [Implemented Power page with VueQuery and Composition API](https://gerrit.openbmc.org/c/87281)
 - **Change #:** 87281
