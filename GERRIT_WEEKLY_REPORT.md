@@ -1,17 +1,10 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-04-19 08:05:15 UTC
+**Generated:** 2026-04-20 09:06:41 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-04-17 to 2026-04-19 (2 days)
-**Total Changes:** 1
+**Period:** 2026-04-18 to 2026-04-20 (2 days)
+**Total Changes:** 0
 
 ---
-
-## 🔍 Open Changes Awaiting Review (1)
-
-### [Prevent root user from bulk selection](https://gerrit.openbmc.org/c/89398)
-- **Change #:** 89398
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-04-17 09:41:05.000000000
 
 ---
 
