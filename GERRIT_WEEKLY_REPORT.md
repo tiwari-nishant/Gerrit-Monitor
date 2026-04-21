@@ -1,10 +1,27 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-04-20 09:06:41 UTC
+**Generated:** 2026-04-21 08:52:38 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-04-18 to 2026-04-20 (2 days)
-**Total Changes:** 0
+**Period:** 2026-04-19 to 2026-04-21 (2 days)
+**Total Changes:** 3
 
 ---
+
+## 🔍 Open Changes Awaiting Review (3)
+
+### [Display user privilege in profile settings](https://gerrit.openbmc.org/c/89123)
+- **Change #:** 89123
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-04-20 16:31:06.000000000
+
+### [Implemented Power page with VueQuery and Composition API](https://gerrit.openbmc.org/c/87281)
+- **Change #:** 87281
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-04-20 16:25:07.000000000
+
+### [Fix UI alignment issues on Logs and Dumps pages](https://gerrit.openbmc.org/c/87222)
+- **Change #:** 87222
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-04-20 16:23:26.000000000
 
 ---
 
