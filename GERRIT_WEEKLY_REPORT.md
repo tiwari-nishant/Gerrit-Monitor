@@ -1,27 +1,29 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-04-22 08:48:42 UTC
+**Generated:** 2026-04-23 08:52:34 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-04-20 to 2026-04-22 (2 days)
+**Period:** 2026-04-21 to 2026-04-23 (2 days)
 **Total Changes:** 3
 
 ---
 
-## 🔍 Open Changes Awaiting Review (3)
+## 🔍 Open Changes Awaiting Review (2)
+
+### [Implemented Basic Auth in Policies](https://gerrit.openbmc.org/c/89544)
+- **Change #:** 89544
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-04-23 05:32:40.000000000
+
+### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
+- **Change #:** 89535
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-04-22 21:04:31.000000000
+
+## ❌ Abandoned Changes (1)
 
 ### [Fix UI alignment issues on Logs and Dumps pages](https://gerrit.openbmc.org/c/87222)
 - **Change #:** 87222
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-04-22 06:40:16.000000000
-
-### [Display user privilege in profile settings](https://gerrit.openbmc.org/c/89123)
-- **Change #:** 89123
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-04-20 16:31:06.000000000
-
-### [Implemented Power page with VueQuery and Composition API](https://gerrit.openbmc.org/c/87281)
-- **Change #:** 87281
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-04-20 16:25:07.000000000
+- **Updated:** 2026-04-22 12:22:16.000000000
 
 ---
 
