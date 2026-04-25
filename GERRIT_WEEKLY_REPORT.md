@@ -1,29 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-04-24 08:59:58 UTC
+**Generated:** 2026-04-25 08:04:52 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-04-22 to 2026-04-24 (2 days)
-**Total Changes:** 3
+**Period:** 2026-04-23 to 2026-04-25 (2 days)
+**Total Changes:** 1
 
 ---
 
-## 🔍 Open Changes Awaiting Review (2)
+## 🔍 Open Changes Awaiting Review (1)
 
 ### [Implemented Basic Auth in Policies](https://gerrit.openbmc.org/c/89544)
 - **Change #:** 89544
 - **Author:** Nikhil Ashoka
 - **Updated:** 2026-04-23 05:32:40.000000000
-
-### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
-- **Change #:** 89535
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-04-22 21:04:31.000000000
-
-## ❌ Abandoned Changes (1)
-
-### [Fix UI alignment issues on Logs and Dumps pages](https://gerrit.openbmc.org/c/87222)
-- **Change #:** 87222
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-04-22 12:22:16.000000000
 
 ---
 
