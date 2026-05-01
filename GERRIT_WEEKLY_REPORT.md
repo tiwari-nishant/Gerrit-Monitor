@@ -1,22 +1,62 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-04-30 09:11:29 UTC
+**Generated:** 2026-05-01 09:00:49 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-04-28 to 2026-04-30 (2 days)
-**Total Changes:** 3
+**Period:** 2026-04-29 to 2026-05-01 (2 days)
+**Total Changes:** 11
 
 ---
 
-## 🔍 Open Changes Awaiting Review (2)
+## 🔍 Open Changes Awaiting Review (10)
+
+### [OWNERS: Promote Jason Westover to maintainer](https://gerrit.openbmc.org/c/89838)
+- **Change #:** 89838
+- **Author:** Jason Westover
+- **Updated:** 2026-05-01 03:17:27.000000000
+
+### [Fix UI alignment issues on Logs and Dumps pages](https://gerrit.openbmc.org/c/77545)
+- **Change #:** 77545
+- **Author:** Surya Venkatesan
+- **Updated:** 2026-05-01 02:51:06.000000000
+
+### [Keep the selected interface when refreshing Ethernet data](https://gerrit.openbmc.org/c/87647)
+- **Change #:** 87647
+- **Author:** khangng-ampere
+- **Updated:** 2026-05-01 02:44:50.000000000
+
+### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
+- **Change #:** 87472
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-01 01:57:31.000000000
+
+### [Show image name during virtual media redirection](https://gerrit.openbmc.org/c/87876)
+- **Change #:** 87876
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-01 01:14:08.000000000
+
+### [Enforce logout after user password change](https://gerrit.openbmc.org/c/87572)
+- **Change #:** 87572
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-01 00:43:34.000000000
+
+### [Prevent root user from bulk selection](https://gerrit.openbmc.org/c/89398)
+- **Change #:** 89398
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-01 00:00:14.000000000
+
+### [Implemented Basic Auth in Policies](https://gerrit.openbmc.org/c/89544)
+- **Change #:** 89544
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-04-30 23:18:05.000000000
+
+### [Display user privilege in profile settings](https://gerrit.openbmc.org/c/89123)
+- **Change #:** 89123
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-04-30 16:10:10.000000000
 
 ### [Implemented Power page with VueQuery and Composition API](https://gerrit.openbmc.org/c/87281)
 - **Change #:** 87281
 - **Author:** Nikhil Ashoka
 - **Updated:** 2026-04-29 15:48:11.000000000
-
-### [Display user privilege in profile settings](https://gerrit.openbmc.org/c/89123)
-- **Change #:** 89123
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-04-29 11:44:53.000000000
 
 ## 🚧 Work In Progress (1)
 
