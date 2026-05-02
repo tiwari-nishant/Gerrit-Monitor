@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-01 09:00:49 UTC
+**Generated:** 2026-05-02 08:20:41 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-04-29 to 2026-05-01 (2 days)
-**Total Changes:** 11
+**Period:** 2026-04-30 to 2026-05-02 (2 days)
+**Total Changes:** 9
 
 ---
 
-## 🔍 Open Changes Awaiting Review (10)
+## 🔍 Open Changes Awaiting Review (9)
 
 ### [OWNERS: Promote Jason Westover to maintainer](https://gerrit.openbmc.org/c/89838)
 - **Change #:** 89838
@@ -52,18 +52,6 @@
 - **Change #:** 89123
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-04-30 16:10:10.000000000
-
-### [Implemented Power page with VueQuery and Composition API](https://gerrit.openbmc.org/c/87281)
-- **Change #:** 87281
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-04-29 15:48:11.000000000
-
-## 🚧 Work In Progress (1)
-
-### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
-- **Change #:** 89535
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-04-29 06:31:54.000000000
 
 ---
 
