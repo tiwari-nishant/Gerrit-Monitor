@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-02 08:20:41 UTC
+**Generated:** 2026-05-03 08:46:08 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-04-30 to 2026-05-02 (2 days)
+**Period:** 2026-05-01 to 2026-05-03 (2 days)
 **Total Changes:** 9
 
 ---
 
-## 🔍 Open Changes Awaiting Review (9)
+## 🔍 Open Changes Awaiting Review (7)
 
 ### [OWNERS: Promote Jason Westover to maintainer](https://gerrit.openbmc.org/c/89838)
 - **Change #:** 89838
@@ -43,15 +43,17 @@
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-05-01 00:00:14.000000000
 
-### [Implemented Basic Auth in Policies](https://gerrit.openbmc.org/c/89544)
-- **Change #:** 89544
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-04-30 23:18:05.000000000
+## ❌ Abandoned Changes (2)
 
-### [Display user privilege in profile settings](https://gerrit.openbmc.org/c/89123)
-- **Change #:** 89123
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-04-30 16:10:10.000000000
+### [Fix Date and Time sync when switching manual to NTP](https://gerrit.openbmc.org/c/60500)
+- **Change #:** 60500
+- **Author:** Kiran Kumar Ballapalli
+- **Updated:** 2026-05-03 02:29:15.000000000
+
+### [Fix payload setting error in delete function](https://gerrit.openbmc.org/c/58684)
+- **Change #:** 58684
+- **Author:** Qi Wang 
+- **Updated:** 2026-05-03 02:29:14.000000000
 
 ---
 
