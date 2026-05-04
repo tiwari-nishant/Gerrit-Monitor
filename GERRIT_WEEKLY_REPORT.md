@@ -1,59 +1,10 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-03 08:46:08 UTC
+**Generated:** 2026-05-04 09:19:38 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-01 to 2026-05-03 (2 days)
-**Total Changes:** 9
+**Period:** 2026-05-02 to 2026-05-04 (2 days)
+**Total Changes:** 0
 
 ---
-
-## 🔍 Open Changes Awaiting Review (7)
-
-### [OWNERS: Promote Jason Westover to maintainer](https://gerrit.openbmc.org/c/89838)
-- **Change #:** 89838
-- **Author:** Jason Westover
-- **Updated:** 2026-05-01 03:17:27.000000000
-
-### [Fix UI alignment issues on Logs and Dumps pages](https://gerrit.openbmc.org/c/77545)
-- **Change #:** 77545
-- **Author:** Surya Venkatesan
-- **Updated:** 2026-05-01 02:51:06.000000000
-
-### [Keep the selected interface when refreshing Ethernet data](https://gerrit.openbmc.org/c/87647)
-- **Change #:** 87647
-- **Author:** khangng-ampere
-- **Updated:** 2026-05-01 02:44:50.000000000
-
-### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
-- **Change #:** 87472
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-01 01:57:31.000000000
-
-### [Show image name during virtual media redirection](https://gerrit.openbmc.org/c/87876)
-- **Change #:** 87876
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-01 01:14:08.000000000
-
-### [Enforce logout after user password change](https://gerrit.openbmc.org/c/87572)
-- **Change #:** 87572
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-01 00:43:34.000000000
-
-### [Prevent root user from bulk selection](https://gerrit.openbmc.org/c/89398)
-- **Change #:** 89398
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-01 00:00:14.000000000
-
-## ❌ Abandoned Changes (2)
-
-### [Fix Date and Time sync when switching manual to NTP](https://gerrit.openbmc.org/c/60500)
-- **Change #:** 60500
-- **Author:** Kiran Kumar Ballapalli
-- **Updated:** 2026-05-03 02:29:15.000000000
-
-### [Fix payload setting error in delete function](https://gerrit.openbmc.org/c/58684)
-- **Change #:** 58684
-- **Author:** Qi Wang 
-- **Updated:** 2026-05-03 02:29:14.000000000
 
 ---
 
