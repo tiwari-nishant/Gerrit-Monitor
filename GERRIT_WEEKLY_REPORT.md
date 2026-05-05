@@ -1,10 +1,27 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-04 09:19:38 UTC
+**Generated:** 2026-05-05 09:06:53 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-02 to 2026-05-04 (2 days)
-**Total Changes:** 0
+**Period:** 2026-05-03 to 2026-05-05 (2 days)
+**Total Changes:** 3
 
 ---
+
+## ❌ Abandoned Changes (3)
+
+### [Update Server status in Server power operations page](https://gerrit.openbmc.org/c/64481)
+- **Change #:** 64481
+- **Author:** Hieu Huynh
+- **Updated:** 2026-05-04 17:53:27.000000000
+
+### [Fix Date and Time sync when switching manual to NTP](https://gerrit.openbmc.org/c/60500)
+- **Change #:** 60500
+- **Author:** Kiran Kumar Ballapalli
+- **Updated:** 2026-05-03 02:29:15.000000000
+
+### [Fix payload setting error in delete function](https://gerrit.openbmc.org/c/58684)
+- **Change #:** 58684
+- **Author:** Qi Wang 
+- **Updated:** 2026-05-03 02:29:14.000000000
 
 ---
 
