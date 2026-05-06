@@ -1,27 +1,24 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-05 09:06:53 UTC
+**Generated:** 2026-05-06 09:22:36 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-03 to 2026-05-05 (2 days)
-**Total Changes:** 3
+**Period:** 2026-05-04 to 2026-05-06 (2 days)
+**Total Changes:** 2
 
 ---
 
-## ❌ Abandoned Changes (3)
+## 🔍 Open Changes Awaiting Review (1)
+
+### [Add screenshot capture button to KVM console](https://gerrit.openbmc.org/c/89928)
+- **Change #:** 89928
+- **Author:** Hariharan Rangasamy
+- **Updated:** 2026-05-05 10:44:10.000000000
+
+## ❌ Abandoned Changes (1)
 
 ### [Update Server status in Server power operations page](https://gerrit.openbmc.org/c/64481)
 - **Change #:** 64481
 - **Author:** Hieu Huynh
 - **Updated:** 2026-05-04 17:53:27.000000000
-
-### [Fix Date and Time sync when switching manual to NTP](https://gerrit.openbmc.org/c/60500)
-- **Change #:** 60500
-- **Author:** Kiran Kumar Ballapalli
-- **Updated:** 2026-05-03 02:29:15.000000000
-
-### [Fix payload setting error in delete function](https://gerrit.openbmc.org/c/58684)
-- **Change #:** 58684
-- **Author:** Qi Wang 
-- **Updated:** 2026-05-03 02:29:14.000000000
 
 ---
 
