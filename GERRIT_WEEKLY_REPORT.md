@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-08 08:20:48 UTC
+**Generated:** 2026-05-09 08:26:21 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-06 to 2026-05-08 (2 days)
+**Period:** 2026-05-07 to 2026-05-09 (2 days)
 **Total Changes:** 5
 
 ---
 
-## 🔍 Open Changes Awaiting Review (4)
+## 🔍 Open Changes Awaiting Review (3)
 
 ### [Add screenshot capture button to KVM console](https://gerrit.openbmc.org/c/89928)
 - **Change #:** 89928
@@ -23,12 +23,12 @@
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-05-07 13:12:20.000000000
 
-### [Add dynamic language selector in header](https://gerrit.openbmc.org/c/89992)
-- **Change #:** 89992
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-06 16:20:42.000000000
+## ❌ Abandoned Changes (2)
 
-## ❌ Abandoned Changes (1)
+### [Implemented Identify LEDs for Fans and Power supplies](https://gerrit.openbmc.org/c/70052)
+- **Change #:** 70052
+- **Author:** Renuka9527
+- **Updated:** 2026-05-08 17:55:19.000000000
 
 ### [Fix unit data inconsistencies](https://gerrit.openbmc.org/c/69645)
 - **Change #:** 69645
