@@ -1,39 +1,24 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-09 08:26:21 UTC
+**Generated:** 2026-05-10 08:53:36 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-07 to 2026-05-09 (2 days)
-**Total Changes:** 5
+**Period:** 2026-05-08 to 2026-05-10 (2 days)
+**Total Changes:** 2
 
 ---
 
-## 🔍 Open Changes Awaiting Review (3)
+## 🔍 Open Changes Awaiting Review (1)
 
 ### [Add screenshot capture button to KVM console](https://gerrit.openbmc.org/c/89928)
 - **Change #:** 89928
 - **Author:** Hariharan Rangasamy
 - **Updated:** 2026-05-08 07:01:10.000000000
 
-### [ProfileSettings: show current session privilege](https://gerrit.openbmc.org/c/89123)
-- **Change #:** 89123
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-07 16:52:13.000000000
-
-### [Prevent root user from bulk selection](https://gerrit.openbmc.org/c/89398)
-- **Change #:** 89398
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-07 13:12:20.000000000
-
-## ❌ Abandoned Changes (2)
+## ❌ Abandoned Changes (1)
 
 ### [Implemented Identify LEDs for Fans and Power supplies](https://gerrit.openbmc.org/c/70052)
 - **Change #:** 70052
 - **Author:** Renuka9527
 - **Updated:** 2026-05-08 17:55:19.000000000
-
-### [Fix unit data inconsistencies](https://gerrit.openbmc.org/c/69645)
-- **Change #:** 69645
-- **Author:** GinnieZhang
-- **Updated:** 2026-05-07 17:54:58.000000000
 
 ---
 
