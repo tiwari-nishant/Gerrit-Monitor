@@ -1,8 +1,8 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-10 08:53:36 UTC
+**Generated:** 2026-05-11 10:37:59 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-08 to 2026-05-10 (2 days)
-**Total Changes:** 2
+**Period:** 2026-05-09 to 2026-05-11 (2 days)
+**Total Changes:** 1
 
 ---
 
@@ -11,14 +11,7 @@
 ### [Add screenshot capture button to KVM console](https://gerrit.openbmc.org/c/89928)
 - **Change #:** 89928
 - **Author:** Hariharan Rangasamy
-- **Updated:** 2026-05-08 07:01:10.000000000
-
-## ❌ Abandoned Changes (1)
-
-### [Implemented Identify LEDs for Fans and Power supplies](https://gerrit.openbmc.org/c/70052)
-- **Change #:** 70052
-- **Author:** Renuka9527
-- **Updated:** 2026-05-08 17:55:19.000000000
+- **Updated:** 2026-05-11 05:17:27.000000000
 
 ---
 
