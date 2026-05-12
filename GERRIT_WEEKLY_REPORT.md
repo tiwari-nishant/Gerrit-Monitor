@@ -1,17 +1,32 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-11 10:37:59 UTC
+**Generated:** 2026-05-12 09:39:36 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-09 to 2026-05-11 (2 days)
-**Total Changes:** 1
+**Period:** 2026-05-10 to 2026-05-12 (2 days)
+**Total Changes:** 4
 
 ---
 
-## 🔍 Open Changes Awaiting Review (1)
+## 🔍 Open Changes Awaiting Review (4)
 
 ### [Add screenshot capture button to KVM console](https://gerrit.openbmc.org/c/89928)
 - **Change #:** 89928
 - **Author:** Hariharan Rangasamy
-- **Updated:** 2026-05-11 05:17:27.000000000
+- **Updated:** 2026-05-12 06:42:04.000000000
+
+### [Add dynamic language selector in header](https://gerrit.openbmc.org/c/89992)
+- **Change #:** 89992
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-12 00:48:27.000000000
+
+### [ProfileSettings: show current session privilege](https://gerrit.openbmc.org/c/89123)
+- **Change #:** 89123
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-11 13:28:56.000000000
+
+### [Prevent root user from bulk selection](https://gerrit.openbmc.org/c/89398)
+- **Change #:** 89398
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-11 13:17:35.000000000
 
 ---
 
