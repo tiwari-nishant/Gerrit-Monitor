@@ -1,32 +1,42 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-12 09:39:36 UTC
+**Generated:** 2026-05-13 09:44:31 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-10 to 2026-05-12 (2 days)
-**Total Changes:** 4
+**Period:** 2026-05-11 to 2026-05-13 (2 days)
+**Total Changes:** 6
 
 ---
 
-## 🔍 Open Changes Awaiting Review (4)
+## 🔍 Open Changes Awaiting Review (6)
+
+### [Prevent root user from bulk selection](https://gerrit.openbmc.org/c/89398)
+- **Change #:** 89398
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-12 23:26:59.000000000
+
+### [ProfileSettings: show current session privilege](https://gerrit.openbmc.org/c/89123)
+- **Change #:** 89123
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-12 23:26:43.000000000
+
+### [Show image name during virtual media redirection](https://gerrit.openbmc.org/c/87876)
+- **Change #:** 87876
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-12 16:04:58.000000000
+
+### [Implemented Basic Auth in Policies](https://gerrit.openbmc.org/c/89544)
+- **Change #:** 89544
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-05-12 15:45:57.000000000
 
 ### [Add screenshot capture button to KVM console](https://gerrit.openbmc.org/c/89928)
 - **Change #:** 89928
 - **Author:** Hariharan Rangasamy
-- **Updated:** 2026-05-12 06:42:04.000000000
+- **Updated:** 2026-05-12 13:41:24.000000000
 
 ### [Add dynamic language selector in header](https://gerrit.openbmc.org/c/89992)
 - **Change #:** 89992
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-05-12 00:48:27.000000000
-
-### [ProfileSettings: show current session privilege](https://gerrit.openbmc.org/c/89123)
-- **Change #:** 89123
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-11 13:28:56.000000000
-
-### [Prevent root user from bulk selection](https://gerrit.openbmc.org/c/89398)
-- **Change #:** 89398
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-11 13:17:35.000000000
 
 ---
 
