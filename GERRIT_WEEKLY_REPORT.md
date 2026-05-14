@@ -1,22 +1,31 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-13 09:44:31 UTC
+**Generated:** 2026-05-14 09:34:39 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-11 to 2026-05-13 (2 days)
-**Total Changes:** 6
+**Period:** 2026-05-12 to 2026-05-14 (2 days)
+**Total Changes:** 7
 
 ---
 
-## 🔍 Open Changes Awaiting Review (6)
-
-### [Prevent root user from bulk selection](https://gerrit.openbmc.org/c/89398)
-- **Change #:** 89398
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-12 23:26:59.000000000
+## ✅ Merged Changes (2)
 
 ### [ProfileSettings: show current session privilege](https://gerrit.openbmc.org/c/89123)
 - **Change #:** 89123
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-12 23:26:43.000000000
+- **Changes:** +282 / -5 lines
+- **Updated:** 2026-05-14 07:13:19.000000000
+
+### [Prevent root user from bulk selection](https://gerrit.openbmc.org/c/89398)
+- **Change #:** 89398
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Changes:** +103 / -13 lines
+- **Updated:** 2026-05-14 07:13:01.000000000
+
+## 🔍 Open Changes Awaiting Review (5)
+
+### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
+- **Change #:** 87472
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-13 13:29:13.000000000
 
 ### [Show image name during virtual media redirection](https://gerrit.openbmc.org/c/87876)
 - **Change #:** 87876
