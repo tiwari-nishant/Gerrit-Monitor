@@ -1,12 +1,18 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-14 09:34:39 UTC
+**Generated:** 2026-05-15 09:48:10 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-12 to 2026-05-14 (2 days)
-**Total Changes:** 7
+**Period:** 2026-05-13 to 2026-05-15 (2 days)
+**Total Changes:** 8
 
 ---
 
-## ✅ Merged Changes (2)
+## ✅ Merged Changes (3)
+
+### [OWNERS: Promote Jason Westover to maintainer](https://gerrit.openbmc.org/c/89838)
+- **Change #:** 89838
+- **Author:** Jason Westover
+- **Changes:** +1 / -1 lines
+- **Updated:** 2026-05-14 20:39:37.000000000
 
 ### [ProfileSettings: show current session privilege](https://gerrit.openbmc.org/c/89123)
 - **Change #:** 89123
@@ -20,32 +26,34 @@
 - **Changes:** +103 / -13 lines
 - **Updated:** 2026-05-14 07:13:01.000000000
 
-## 🔍 Open Changes Awaiting Review (5)
+## 🔍 Open Changes Awaiting Review (4)
 
-### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
-- **Change #:** 87472
+### [Add privilege check for firmware update page](https://gerrit.openbmc.org/c/83738)
+- **Change #:** 83738
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-13 13:29:13.000000000
-
-### [Show image name during virtual media redirection](https://gerrit.openbmc.org/c/87876)
-- **Change #:** 87876
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-12 16:04:58.000000000
-
-### [Implemented Basic Auth in Policies](https://gerrit.openbmc.org/c/89544)
-- **Change #:** 89544
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-05-12 15:45:57.000000000
-
-### [Add screenshot capture button to KVM console](https://gerrit.openbmc.org/c/89928)
-- **Change #:** 89928
-- **Author:** Hariharan Rangasamy
-- **Updated:** 2026-05-12 13:41:24.000000000
+- **Updated:** 2026-05-15 06:32:50.000000000
 
 ### [Add dynamic language selector in header](https://gerrit.openbmc.org/c/89992)
 - **Change #:** 89992
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-12 00:48:27.000000000
+- **Updated:** 2026-05-15 06:14:42.000000000
+
+### [Show image name during virtual media redirection](https://gerrit.openbmc.org/c/87876)
+- **Change #:** 87876
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-15 06:14:10.000000000
+
+### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
+- **Change #:** 87472
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-15 06:14:06.000000000
+
+## ❌ Abandoned Changes (1)
+
+### [Add kvm connection retries](https://gerrit.openbmc.org/c/71225)
+- **Change #:** 71225
+- **Author:** Konstantin Maskov
+- **Updated:** 2026-05-14 17:58:16.000000000
 
 ---
 
