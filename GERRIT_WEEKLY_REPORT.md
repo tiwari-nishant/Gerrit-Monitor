@@ -1,8 +1,8 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-15 09:48:10 UTC
+**Generated:** 2026-05-16 08:47:30 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-13 to 2026-05-15 (2 days)
-**Total Changes:** 8
+**Period:** 2026-05-14 to 2026-05-16 (2 days)
+**Total Changes:** 9
 
 ---
 
@@ -26,12 +26,17 @@
 - **Changes:** +103 / -13 lines
 - **Updated:** 2026-05-14 07:13:01.000000000
 
-## 🔍 Open Changes Awaiting Review (4)
+## 🔍 Open Changes Awaiting Review (5)
+
+### [Enforce logout after user password change](https://gerrit.openbmc.org/c/87572)
+- **Change #:** 87572
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-15 12:49:02.000000000
 
 ### [Add privilege check for firmware update page](https://gerrit.openbmc.org/c/83738)
 - **Change #:** 83738
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-15 06:32:50.000000000
+- **Updated:** 2026-05-15 12:47:32.000000000
 
 ### [Add dynamic language selector in header](https://gerrit.openbmc.org/c/89992)
 - **Change #:** 89992
