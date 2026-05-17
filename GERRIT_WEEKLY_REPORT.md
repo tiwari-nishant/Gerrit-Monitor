@@ -1,30 +1,10 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-16 08:47:30 UTC
+**Generated:** 2026-05-17 09:05:18 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-14 to 2026-05-16 (2 days)
-**Total Changes:** 9
+**Period:** 2026-05-15 to 2026-05-17 (2 days)
+**Total Changes:** 5
 
 ---
-
-## ✅ Merged Changes (3)
-
-### [OWNERS: Promote Jason Westover to maintainer](https://gerrit.openbmc.org/c/89838)
-- **Change #:** 89838
-- **Author:** Jason Westover
-- **Changes:** +1 / -1 lines
-- **Updated:** 2026-05-14 20:39:37.000000000
-
-### [ProfileSettings: show current session privilege](https://gerrit.openbmc.org/c/89123)
-- **Change #:** 89123
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Changes:** +282 / -5 lines
-- **Updated:** 2026-05-14 07:13:19.000000000
-
-### [Prevent root user from bulk selection](https://gerrit.openbmc.org/c/89398)
-- **Change #:** 89398
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Changes:** +103 / -13 lines
-- **Updated:** 2026-05-14 07:13:01.000000000
 
 ## 🔍 Open Changes Awaiting Review (5)
 
@@ -52,13 +32,6 @@
 - **Change #:** 87472
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-05-15 06:14:06.000000000
-
-## ❌ Abandoned Changes (1)
-
-### [Add kvm connection retries](https://gerrit.openbmc.org/c/71225)
-- **Change #:** 71225
-- **Author:** Konstantin Maskov
-- **Updated:** 2026-05-14 17:58:16.000000000
 
 ---
 
