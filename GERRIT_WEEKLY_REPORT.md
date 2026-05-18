@@ -1,37 +1,29 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-17 09:05:18 UTC
+**Generated:** 2026-05-18 11:06:46 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-15 to 2026-05-17 (2 days)
-**Total Changes:** 5
+**Period:** 2026-05-16 to 2026-05-18 (2 days)
+**Total Changes:** 3
 
 ---
 
-## 🔍 Open Changes Awaiting Review (5)
+## 🔍 Open Changes Awaiting Review (2)
 
 ### [Enforce logout after user password change](https://gerrit.openbmc.org/c/87572)
 - **Change #:** 87572
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-15 12:49:02.000000000
+- **Updated:** 2026-05-18 09:25:50.000000000
 
-### [Add privilege check for firmware update page](https://gerrit.openbmc.org/c/83738)
-- **Change #:** 83738
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-15 12:47:32.000000000
+### [Add screenshot capture button to KVM console](https://gerrit.openbmc.org/c/89928)
+- **Change #:** 89928
+- **Author:** Hariharan Rangasamy
+- **Updated:** 2026-05-18 08:33:53.000000000
 
-### [Add dynamic language selector in header](https://gerrit.openbmc.org/c/89992)
-- **Change #:** 89992
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-15 06:14:42.000000000
+## 🚧 Work In Progress (1)
 
-### [Show image name during virtual media redirection](https://gerrit.openbmc.org/c/87876)
-- **Change #:** 87876
+### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
+- **Change #:** 89535
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-15 06:14:10.000000000
-
-### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
-- **Change #:** 87472
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-15 06:14:06.000000000
+- **Updated:** 2026-05-18 09:40:17.000000000
 
 ---
 
