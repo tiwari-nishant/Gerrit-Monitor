@@ -1,29 +1,50 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-18 11:06:46 UTC
+**Generated:** 2026-05-19 10:36:51 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-16 to 2026-05-18 (2 days)
-**Total Changes:** 3
+**Period:** 2026-05-17 to 2026-05-19 (2 days)
+**Total Changes:** 7
 
 ---
 
-## 🔍 Open Changes Awaiting Review (2)
-
-### [Enforce logout after user password change](https://gerrit.openbmc.org/c/87572)
-- **Change #:** 87572
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-18 09:25:50.000000000
+## ✅ Merged Changes (1)
 
 ### [Add screenshot capture button to KVM console](https://gerrit.openbmc.org/c/89928)
 - **Change #:** 89928
 - **Author:** Hariharan Rangasamy
-- **Updated:** 2026-05-18 08:33:53.000000000
+- **Changes:** +36 / -1 lines
+- **Updated:** 2026-05-19 02:03:56.000000000
 
-## 🚧 Work In Progress (1)
+## 🔍 Open Changes Awaiting Review (6)
+
+### [Show image name during virtual media redirection](https://gerrit.openbmc.org/c/87876)
+- **Change #:** 87876
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-19 07:15:11.000000000
+
+### [Add dynamic language selector in header](https://gerrit.openbmc.org/c/89992)
+- **Change #:** 89992
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-19 06:01:29.000000000
 
 ### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
 - **Change #:** 89535
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-18 09:40:17.000000000
+- **Updated:** 2026-05-19 06:01:26.000000000
+
+### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
+- **Change #:** 87472
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-19 06:01:01.000000000
+
+### [Add privilege check for firmware update page](https://gerrit.openbmc.org/c/83738)
+- **Change #:** 83738
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-19 06:00:34.000000000
+
+### [Add password change confirmation for own user](https://gerrit.openbmc.org/c/87572)
+- **Change #:** 87572
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-19 06:00:12.000000000
 
 ---
 
