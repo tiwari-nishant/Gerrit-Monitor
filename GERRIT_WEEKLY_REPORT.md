@@ -1,7 +1,7 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-19 10:36:51 UTC
+**Generated:** 2026-05-20 10:24:01 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-17 to 2026-05-19 (2 days)
+**Period:** 2026-05-18 to 2026-05-20 (2 days)
 **Total Changes:** 7
 
 ---
@@ -15,6 +15,11 @@
 - **Updated:** 2026-05-19 02:03:56.000000000
 
 ## 🔍 Open Changes Awaiting Review (6)
+
+### [Add password change confirmation for own user](https://gerrit.openbmc.org/c/87572)
+- **Change #:** 87572
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-19 14:57:20.000000000
 
 ### [Show image name during virtual media redirection](https://gerrit.openbmc.org/c/87876)
 - **Change #:** 87876
@@ -40,11 +45,6 @@
 - **Change #:** 83738
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-05-19 06:00:34.000000000
-
-### [Add password change confirmation for own user](https://gerrit.openbmc.org/c/87572)
-- **Change #:** 87572
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-19 06:00:12.000000000
 
 ---
 
