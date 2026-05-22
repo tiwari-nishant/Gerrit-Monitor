@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-21 10:39:16 UTC
+**Generated:** 2026-05-22 10:23:50 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-19 to 2026-05-21 (2 days)
-**Total Changes:** 9
+**Period:** 2026-05-20 to 2026-05-22 (2 days)
+**Total Changes:** 10
 
 ---
 
-## ✅ Merged Changes (2)
+## ✅ Merged Changes (1)
 
 ### [Show image name during virtual media redirection](https://gerrit.openbmc.org/c/87876)
 - **Change #:** 87876
@@ -14,13 +14,12 @@
 - **Changes:** +128 / -9 lines
 - **Updated:** 2026-05-20 12:38:45.000000000
 
-### [Add screenshot capture button to KVM console](https://gerrit.openbmc.org/c/89928)
-- **Change #:** 89928
-- **Author:** Hariharan Rangasamy
-- **Changes:** +36 / -1 lines
-- **Updated:** 2026-05-19 02:03:56.000000000
+## 🔍 Open Changes Awaiting Review (7)
 
-## 🔍 Open Changes Awaiting Review (6)
+### [Hide SOL Console button for non-admin users](https://gerrit.openbmc.org/c/90453)
+- **Change #:** 90453
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-21 12:00:58.000000000
 
 ### [Add password change confirmation for own user](https://gerrit.openbmc.org/c/87572)
 - **Change #:** 87572
@@ -52,7 +51,12 @@
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-05-20 12:49:37.000000000
 
-## ❌ Abandoned Changes (1)
+## ❌ Abandoned Changes (2)
+
+### [Add event destination settings page](https://gerrit.openbmc.org/c/70047)
+- **Change #:** 70047
+- **Author:** Konstantin Maskov
+- **Updated:** 2026-05-21 18:02:02.000000000
 
 ### [Keep the selected interface when refreshing Ethernet data](https://gerrit.openbmc.org/c/87647)
 - **Change #:** 87647
