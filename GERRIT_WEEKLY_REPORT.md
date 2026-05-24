@@ -1,34 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-23 09:01:17 UTC
+**Generated:** 2026-05-24 09:21:22 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-21 to 2026-05-23 (2 days)
-**Total Changes:** 4
+**Period:** 2026-05-22 to 2026-05-24 (2 days)
+**Total Changes:** 1
 
 ---
 
-## 🔍 Open Changes Awaiting Review (2)
+## 🔍 Open Changes Awaiting Review (1)
 
 ### [Add privilege check for firmware update page](https://gerrit.openbmc.org/c/83738)
 - **Change #:** 83738
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-05-22 13:48:03.000000000
-
-### [Hide SOL Console button for non-admin users](https://gerrit.openbmc.org/c/90453)
-- **Change #:** 90453
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-21 12:00:58.000000000
-
-## ❌ Abandoned Changes (2)
-
-### [Add event destination settings page](https://gerrit.openbmc.org/c/70047)
-- **Change #:** 70047
-- **Author:** Konstantin Maskov
-- **Updated:** 2026-05-21 18:02:02.000000000
-
-### [Keep the selected interface when refreshing Ethernet data](https://gerrit.openbmc.org/c/87647)
-- **Change #:** 87647
-- **Author:** khangng-ampere
-- **Updated:** 2026-05-21 03:24:50.000000000
 
 ---
 
