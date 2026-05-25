@@ -1,17 +1,10 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-24 09:21:22 UTC
+**Generated:** 2026-05-25 11:10:27 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-22 to 2026-05-24 (2 days)
-**Total Changes:** 1
+**Period:** 2026-05-23 to 2026-05-25 (2 days)
+**Total Changes:** 0
 
 ---
-
-## 🔍 Open Changes Awaiting Review (1)
-
-### [Add privilege check for firmware update page](https://gerrit.openbmc.org/c/83738)
-- **Change #:** 83738
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-22 13:48:03.000000000
 
 ---
 
