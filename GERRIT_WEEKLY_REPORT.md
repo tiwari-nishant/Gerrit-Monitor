@@ -1,10 +1,52 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-25 11:10:27 UTC
+**Generated:** 2026-05-27 10:55:12 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-23 to 2026-05-25 (2 days)
-**Total Changes:** 0
+**Period:** 2026-05-25 to 2026-05-27 (2 days)
+**Total Changes:** 8
 
 ---
+
+## 🔍 Open Changes Awaiting Review (8)
+
+### [Implemented Power page with VueQuery and Composition API](https://gerrit.openbmc.org/c/87281)
+- **Change #:** 87281
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-05-27 05:30:38.000000000
+
+### [Downgrade xterm to v4 for bmcweb CSP compatibility](https://gerrit.openbmc.org/c/90565)
+- **Change #:** 90565
+- **Author:** Jason Westover
+- **Updated:** 2026-05-27 05:01:19.000000000
+
+### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
+- **Change #:** 87472
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-27 04:30:58.000000000
+
+### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
+- **Change #:** 89535
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-27 03:52:25.000000000
+
+### [Add privilege check for firmware update page](https://gerrit.openbmc.org/c/83738)
+- **Change #:** 83738
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-27 03:21:14.000000000
+
+### [Add dynamic language selector in header](https://gerrit.openbmc.org/c/89992)
+- **Change #:** 89992
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-27 03:18:45.000000000
+
+### [Add password change confirmation for own user](https://gerrit.openbmc.org/c/87572)
+- **Change #:** 87572
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-27 03:12:10.000000000
+
+### [Hide SOL Console button for non-admin users](https://gerrit.openbmc.org/c/90453)
+- **Change #:** 90453
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-27 02:57:49.000000000
 
 ---
 
