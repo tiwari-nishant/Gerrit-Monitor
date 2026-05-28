@@ -1,22 +1,27 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-05-27 10:55:12 UTC
+**Generated:** 2026-05-28 10:56:15 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-25 to 2026-05-27 (2 days)
+**Period:** 2026-05-26 to 2026-05-28 (2 days)
 **Total Changes:** 8
 
 ---
 
 ## 🔍 Open Changes Awaiting Review (8)
 
-### [Implemented Power page with VueQuery and Composition API](https://gerrit.openbmc.org/c/87281)
-- **Change #:** 87281
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-05-27 05:30:38.000000000
-
 ### [Downgrade xterm to v4 for bmcweb CSP compatibility](https://gerrit.openbmc.org/c/90565)
 - **Change #:** 90565
 - **Author:** Jason Westover
-- **Updated:** 2026-05-27 05:01:19.000000000
+- **Updated:** 2026-05-27 15:05:25.000000000
+
+### [Add privilege check for firmware update page](https://gerrit.openbmc.org/c/83738)
+- **Change #:** 83738
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-05-27 14:10:41.000000000
+
+### [Implemented Power page with VueQuery and Composition API](https://gerrit.openbmc.org/c/87281)
+- **Change #:** 87281
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-05-27 13:18:01.000000000
 
 ### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
 - **Change #:** 87472
@@ -27,11 +32,6 @@
 - **Change #:** 89535
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-05-27 03:52:25.000000000
-
-### [Add privilege check for firmware update page](https://gerrit.openbmc.org/c/83738)
-- **Change #:** 83738
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-05-27 03:21:14.000000000
 
 ### [Add dynamic language selector in header](https://gerrit.openbmc.org/c/89992)
 - **Change #:** 89992
