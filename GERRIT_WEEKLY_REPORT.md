@@ -1,17 +1,45 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-01 12:36:52 UTC
+**Generated:** 2026-06-02 11:17:58 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-30 to 2026-06-01 (2 days)
-**Total Changes:** 1
+**Period:** 2026-05-31 to 2026-06-02 (2 days)
+**Total Changes:** 6
 
 ---
 
-## 🔍 Open Changes Awaiting Review (1)
+## ✅ Merged Changes (1)
 
 ### [Add privilege check for firmware update page](https://gerrit.openbmc.org/c/83738)
 - **Change #:** 83738
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-01 05:46:17.000000000
+- **Changes:** +83 / -0 lines
+- **Updated:** 2026-06-01 16:11:07.000000000
+
+## 🔍 Open Changes Awaiting Review (5)
+
+### [Hide SOL Console button for non-admin users](https://gerrit.openbmc.org/c/90453)
+- **Change #:** 90453
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-02 09:59:30.000000000
+
+### [Add dynamic language selector in header](https://gerrit.openbmc.org/c/89992)
+- **Change #:** 89992
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-02 09:35:24.000000000
+
+### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
+- **Change #:** 89535
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-02 09:35:11.000000000
+
+### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
+- **Change #:** 87472
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-02 09:34:24.000000000
+
+### [Add password change confirmation for own user](https://gerrit.openbmc.org/c/87572)
+- **Change #:** 87572
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-02 09:33:48.000000000
 
 ---
 
