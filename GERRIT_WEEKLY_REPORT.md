@@ -1,12 +1,18 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-02 11:17:58 UTC
+**Generated:** 2026-06-03 11:55:51 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-05-31 to 2026-06-02 (2 days)
-**Total Changes:** 6
+**Period:** 2026-06-01 to 2026-06-03 (2 days)
+**Total Changes:** 8
 
 ---
 
-## ✅ Merged Changes (1)
+## ✅ Merged Changes (2)
+
+### [Add dynamic language selector in header](https://gerrit.openbmc.org/c/89992)
+- **Change #:** 89992
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Changes:** +188 / -53 lines
+- **Updated:** 2026-06-03 10:53:21.000000000
 
 ### [Add privilege check for firmware update page](https://gerrit.openbmc.org/c/83738)
 - **Change #:** 83738
@@ -16,15 +22,15 @@
 
 ## 🔍 Open Changes Awaiting Review (5)
 
+### [Implemented Power page with VueQuery and Composition API](https://gerrit.openbmc.org/c/87281)
+- **Change #:** 87281
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-06-03 07:03:42.000000000
+
 ### [Hide SOL Console button for non-admin users](https://gerrit.openbmc.org/c/90453)
 - **Change #:** 90453
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-06-02 09:59:30.000000000
-
-### [Add dynamic language selector in header](https://gerrit.openbmc.org/c/89992)
-- **Change #:** 89992
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-02 09:35:24.000000000
 
 ### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
 - **Change #:** 89535
@@ -40,6 +46,13 @@
 - **Change #:** 87572
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-06-02 09:33:48.000000000
+
+## ❌ Abandoned Changes (1)
+
+### [Update factory reset help text and form interaction](https://gerrit.openbmc.org/c/50738)
+- **Change #:** 50738
+- **Author:** Kenneth Fullbright
+- **Updated:** 2026-06-02 18:08:20.000000000
 
 ---
 
