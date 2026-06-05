@@ -1,8 +1,8 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-04 10:38:23 UTC
+**Generated:** 2026-06-05 10:46:25 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-02 to 2026-06-04 (2 days)
-**Total Changes:** 9
+**Period:** 2026-06-03 to 2026-06-05 (2 days)
+**Total Changes:** 8
 
 ---
 
@@ -16,32 +16,32 @@
 
 ## 🔍 Open Changes Awaiting Review (5)
 
-### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
-- **Change #:** 90453
+### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
+- **Change #:** 89535
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-04 09:28:36.000000000
+- **Updated:** 2026-06-05 10:10:06.000000000
 
 ### [Add password change confirmation for own user](https://gerrit.openbmc.org/c/87572)
 - **Change #:** 87572
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-04 05:16:44.000000000
+- **Updated:** 2026-06-04 18:48:01.000000000
+
+### [Downgrade xterm to v4 for bmcweb CSP compatibility](https://gerrit.openbmc.org/c/90565)
+- **Change #:** 90565
+- **Author:** Jason Westover
+- **Updated:** 2026-06-04 14:10:42.000000000
+
+### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
+- **Change #:** 90453
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-04 09:28:36.000000000
 
 ### [Implemented Power page with VueQuery and Composition API](https://gerrit.openbmc.org/c/87281)
 - **Change #:** 87281
 - **Author:** Nikhil Ashoka
 - **Updated:** 2026-06-03 12:41:09.000000000
 
-### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
-- **Change #:** 89535
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-02 09:35:11.000000000
-
-### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
-- **Change #:** 87472
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-02 09:34:24.000000000
-
-## ❌ Abandoned Changes (3)
+## ❌ Abandoned Changes (2)
 
 ### [Fix UI alignment issues on Logs and Dumps pages](https://gerrit.openbmc.org/c/77545)
 - **Change #:** 77545
@@ -52,11 +52,6 @@
 - **Change #:** 45199
 - **Author:** Paul Fertser
 - **Updated:** 2026-06-03 18:08:36.000000000
-
-### [Update factory reset help text and form interaction](https://gerrit.openbmc.org/c/50738)
-- **Change #:** 50738
-- **Author:** Kenneth Fullbright
-- **Updated:** 2026-06-02 18:08:20.000000000
 
 ---
 
