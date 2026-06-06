@@ -1,20 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-05 10:46:25 UTC
+**Generated:** 2026-06-06 09:25:34 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-03 to 2026-06-05 (2 days)
-**Total Changes:** 8
+**Period:** 2026-06-04 to 2026-06-06 (2 days)
+**Total Changes:** 6
 
 ---
 
-## ✅ Merged Changes (1)
-
-### [Add dynamic language selector in header](https://gerrit.openbmc.org/c/89992)
-- **Change #:** 89992
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Changes:** +188 / -53 lines
-- **Updated:** 2026-06-03 10:53:21.000000000
-
-## 🔍 Open Changes Awaiting Review (5)
+## 🔍 Open Changes Awaiting Review (4)
 
 ### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
 - **Change #:** 89535
@@ -36,22 +28,17 @@
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-06-04 09:28:36.000000000
 
-### [Implemented Power page with VueQuery and Composition API](https://gerrit.openbmc.org/c/87281)
-- **Change #:** 87281
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-06-03 12:41:09.000000000
-
 ## ❌ Abandoned Changes (2)
+
+### [Added delay to get the updated Network IPMI value](https://gerrit.openbmc.org/c/66173)
+- **Change #:** 66173
+- **Author:** Renuka9527
+- **Updated:** 2026-06-05 18:09:17.000000000
 
 ### [Fix UI alignment issues on Logs and Dumps pages](https://gerrit.openbmc.org/c/77545)
 - **Change #:** 77545
 - **Author:** Surya Venkatesan
 - **Updated:** 2026-06-04 06:34:30.000000000
-
-### [[RFC] CI: do not allow missing and unused translation keys](https://gerrit.openbmc.org/c/45199)
-- **Change #:** 45199
-- **Author:** Paul Fertser
-- **Updated:** 2026-06-03 18:08:36.000000000
 
 ---
 
