@@ -1,44 +1,24 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-06 09:25:34 UTC
+**Generated:** 2026-06-07 10:04:50 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-04 to 2026-06-06 (2 days)
-**Total Changes:** 6
+**Period:** 2026-06-05 to 2026-06-07 (2 days)
+**Total Changes:** 2
 
 ---
 
-## 🔍 Open Changes Awaiting Review (4)
+## 🔍 Open Changes Awaiting Review (1)
 
 ### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
 - **Change #:** 89535
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-06-05 10:10:06.000000000
 
-### [Add password change confirmation for own user](https://gerrit.openbmc.org/c/87572)
-- **Change #:** 87572
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-04 18:48:01.000000000
-
-### [Downgrade xterm to v4 for bmcweb CSP compatibility](https://gerrit.openbmc.org/c/90565)
-- **Change #:** 90565
-- **Author:** Jason Westover
-- **Updated:** 2026-06-04 14:10:42.000000000
-
-### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
-- **Change #:** 90453
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-04 09:28:36.000000000
-
-## ❌ Abandoned Changes (2)
+## ❌ Abandoned Changes (1)
 
 ### [Added delay to get the updated Network IPMI value](https://gerrit.openbmc.org/c/66173)
 - **Change #:** 66173
 - **Author:** Renuka9527
 - **Updated:** 2026-06-05 18:09:17.000000000
-
-### [Fix UI alignment issues on Logs and Dumps pages](https://gerrit.openbmc.org/c/77545)
-- **Change #:** 77545
-- **Author:** Surya Venkatesan
-- **Updated:** 2026-06-04 06:34:30.000000000
 
 ---
 
