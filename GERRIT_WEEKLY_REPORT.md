@@ -1,24 +1,27 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-07 10:04:50 UTC
+**Generated:** 2026-06-08 11:57:46 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-05 to 2026-06-07 (2 days)
-**Total Changes:** 2
+**Period:** 2026-06-06 to 2026-06-08 (2 days)
+**Total Changes:** 3
 
 ---
 
-## 🔍 Open Changes Awaiting Review (1)
+## 🔍 Open Changes Awaiting Review (3)
 
-### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
-- **Change #:** 89535
+### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
+- **Change #:** 87472
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-05 10:10:06.000000000
+- **Updated:** 2026-06-08 10:47:12.000000000
 
-## ❌ Abandoned Changes (1)
+### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
+- **Change #:** 90453
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-08 09:26:43.000000000
 
-### [Added delay to get the updated Network IPMI value](https://gerrit.openbmc.org/c/66173)
-- **Change #:** 66173
-- **Author:** Renuka9527
-- **Updated:** 2026-06-05 18:09:17.000000000
+### [Downgrade xterm to v4 for bmcweb CSP compatibility](https://gerrit.openbmc.org/c/90565)
+- **Change #:** 90565
+- **Author:** Jason Westover
+- **Updated:** 2026-06-08 04:47:26.000000000
 
 ---
 
