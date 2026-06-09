@@ -1,12 +1,27 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-08 11:57:46 UTC
+**Generated:** 2026-06-09 10:34:22 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-06 to 2026-06-08 (2 days)
-**Total Changes:** 3
+**Period:** 2026-06-07 to 2026-06-09 (2 days)
+**Total Changes:** 5
 
 ---
 
-## 🔍 Open Changes Awaiting Review (3)
+## 🔍 Open Changes Awaiting Review (5)
+
+### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
+- **Change #:** 91086
+- **Author:** Nishant Tiwari
+- **Updated:** 2026-06-09 08:15:55.000000000
+
+### [Implemented Power page with VueQuery and Composition API](https://gerrit.openbmc.org/c/87281)
+- **Change #:** 87281
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-06-09 06:27:15.000000000
+
+### [Downgrade xterm to v4 for bmcweb CSP compatibility](https://gerrit.openbmc.org/c/90565)
+- **Change #:** 90565
+- **Author:** Jason Westover
+- **Updated:** 2026-06-08 14:02:19.000000000
 
 ### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
 - **Change #:** 87472
@@ -17,11 +32,6 @@
 - **Change #:** 90453
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-06-08 09:26:43.000000000
-
-### [Downgrade xterm to v4 for bmcweb CSP compatibility](https://gerrit.openbmc.org/c/90565)
-- **Change #:** 90565
-- **Author:** Jason Westover
-- **Updated:** 2026-06-08 04:47:26.000000000
 
 ---
 
