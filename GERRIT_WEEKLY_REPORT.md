@@ -1,37 +1,50 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-09 10:34:22 UTC
+**Generated:** 2026-06-10 10:55:44 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-07 to 2026-06-09 (2 days)
-**Total Changes:** 5
+**Period:** 2026-06-08 to 2026-06-10 (2 days)
+**Total Changes:** 7
 
 ---
 
-## 🔍 Open Changes Awaiting Review (5)
-
-### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
-- **Change #:** 91086
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-06-09 08:15:55.000000000
+## ✅ Merged Changes (1)
 
 ### [Implemented Power page with VueQuery and Composition API](https://gerrit.openbmc.org/c/87281)
 - **Change #:** 87281
 - **Author:** Nikhil Ashoka
-- **Updated:** 2026-06-09 06:27:15.000000000
+- **Changes:** +505 / -210 lines
+- **Updated:** 2026-06-09 16:55:25.000000000
+
+## 🔍 Open Changes Awaiting Review (6)
 
 ### [Downgrade xterm to v4 for bmcweb CSP compatibility](https://gerrit.openbmc.org/c/90565)
 - **Change #:** 90565
 - **Author:** Jason Westover
-- **Updated:** 2026-06-08 14:02:19.000000000
+- **Updated:** 2026-06-10 10:12:53.000000000
 
-### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
-- **Change #:** 87472
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-08 10:47:12.000000000
+### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
+- **Change #:** 91086
+- **Author:** Nishant Tiwari
+- **Updated:** 2026-06-10 09:04:03.000000000
 
 ### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
 - **Change #:** 90453
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-08 09:26:43.000000000
+- **Updated:** 2026-06-10 07:14:47.000000000
+
+### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
+- **Change #:** 89535
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-10 07:14:37.000000000
+
+### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
+- **Change #:** 87472
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-10 07:14:28.000000000
+
+### [Add password change confirmation for own user](https://gerrit.openbmc.org/c/87572)
+- **Change #:** 87572
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-10 07:14:10.000000000
 
 ---
 
