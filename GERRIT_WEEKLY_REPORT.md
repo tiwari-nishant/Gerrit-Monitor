@@ -1,8 +1,8 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-10 10:55:44 UTC
+**Generated:** 2026-06-11 11:22:08 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-08 to 2026-06-10 (2 days)
-**Total Changes:** 7
+**Period:** 2026-06-09 to 2026-06-11 (2 days)
+**Total Changes:** 9
 
 ---
 
@@ -14,7 +14,22 @@
 - **Changes:** +505 / -210 lines
 - **Updated:** 2026-06-09 16:55:25.000000000
 
-## 🔍 Open Changes Awaiting Review (6)
+## 🔍 Open Changes Awaiting Review (8)
+
+### [Fix network interface reset on data refresh](https://gerrit.openbmc.org/c/91166)
+- **Change #:** 91166
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-11 05:26:16.000000000
+
+### [Implemented Basic Auth in Policies](https://gerrit.openbmc.org/c/89544)
+- **Change #:** 89544
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-06-10 15:10:29.000000000
+
+### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
+- **Change #:** 90453
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-10 14:45:42.000000000
 
 ### [Downgrade xterm to v4 for bmcweb CSP compatibility](https://gerrit.openbmc.org/c/90565)
 - **Change #:** 90565
@@ -25,11 +40,6 @@
 - **Change #:** 91086
 - **Author:** Nishant Tiwari
 - **Updated:** 2026-06-10 09:04:03.000000000
-
-### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
-- **Change #:** 90453
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-10 07:14:47.000000000
 
 ### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
 - **Change #:** 89535
