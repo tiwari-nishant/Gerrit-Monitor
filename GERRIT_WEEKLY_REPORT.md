@@ -1,12 +1,18 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-12 11:00:49 UTC
+**Generated:** 2026-06-13 09:55:44 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-10 to 2026-06-12 (2 days)
-**Total Changes:** 11
+**Period:** 2026-06-11 to 2026-06-13 (2 days)
+**Total Changes:** 14
 
 ---
 
-## ✅ Merged Changes (1)
+## ✅ Merged Changes (2)
+
+### [Downgrade xterm to v4 for bmcweb CSP compatibility](https://gerrit.openbmc.org/c/90565)
+- **Change #:** 90565
+- **Author:** Jason Westover
+- **Changes:** +41 / -39 lines
+- **Updated:** 2026-06-12 12:21:10.000000000
 
 ### [Register missing Bootstrap-Vue dropdown component](https://gerrit.openbmc.org/c/91208)
 - **Change #:** 91208
@@ -14,12 +20,22 @@
 - **Changes:** +4 / -0 lines
 - **Updated:** 2026-06-12 03:44:34.000000000
 
-## 🔍 Open Changes Awaiting Review (9)
+## 🔍 Open Changes Awaiting Review (10)
+
+### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
+- **Change #:** 91277
+- **Author:** Jason Westover
+- **Updated:** 2026-06-12 22:11:07.000000000
+
+### [Refactor Redfish API client](https://gerrit.openbmc.org/c/91267)
+- **Change #:** 91267
+- **Author:** Jason Westover
+- **Updated:** 2026-06-12 22:07:35.000000000
 
 ### [Implemented Sessions page with VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
 - **Change #:** 91253
 - **Author:** Vedangi Mittal
-- **Updated:** 2026-06-12 10:29:56.000000000
+- **Updated:** 2026-06-12 18:04:55.000000000
 
 ### [Implemented Basic Auth in Policies](https://gerrit.openbmc.org/c/89544)
 - **Change #:** 89544
@@ -41,11 +57,6 @@
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-06-12 06:56:02.000000000
 
-### [Downgrade xterm to v4 for bmcweb CSP compatibility](https://gerrit.openbmc.org/c/90565)
-- **Change #:** 90565
-- **Author:** Jason Westover
-- **Updated:** 2026-06-12 06:48:03.000000000
-
 ### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
 - **Change #:** 90453
 - **Author:** Aravinth Sri Krishna Raja Raghavan
@@ -61,7 +72,12 @@
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-06-12 06:44:10.000000000
 
-## ❌ Abandoned Changes (1)
+## ❌ Abandoned Changes (2)
+
+### [Implemented Sessions page with VueQuery and Composition API](https://gerrit.openbmc.org/c/87382)
+- **Change #:** 87382
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-06-12 12:09:03.000000000
 
 ### [Handle invalid date instance](https://gerrit.openbmc.org/c/45800)
 - **Change #:** 45800
