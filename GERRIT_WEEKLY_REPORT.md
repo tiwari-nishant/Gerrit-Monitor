@@ -1,8 +1,8 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-13 09:55:44 UTC
+**Generated:** 2026-06-14 10:24:27 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-11 to 2026-06-13 (2 days)
-**Total Changes:** 14
+**Period:** 2026-06-12 to 2026-06-14 (2 days)
+**Total Changes:** 13
 
 ---
 
@@ -72,17 +72,12 @@
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-06-12 06:44:10.000000000
 
-## ❌ Abandoned Changes (2)
+## ❌ Abandoned Changes (1)
 
 ### [Implemented Sessions page with VueQuery and Composition API](https://gerrit.openbmc.org/c/87382)
 - **Change #:** 87382
 - **Author:** Vedangi Mittal
 - **Updated:** 2026-06-12 12:09:03.000000000
-
-### [Handle invalid date instance](https://gerrit.openbmc.org/c/45800)
-- **Change #:** 45800
-- **Author:** John Liu
-- **Updated:** 2026-06-11 18:12:44.000000000
 
 ---
 
