@@ -1,83 +1,55 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-14 10:24:27 UTC
+**Generated:** 2026-06-15 13:13:33 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-12 to 2026-06-14 (2 days)
-**Total Changes:** 13
+**Period:** 2026-06-13 to 2026-06-15 (2 days)
+**Total Changes:** 8
 
 ---
 
-## ✅ Merged Changes (2)
-
-### [Downgrade xterm to v4 for bmcweb CSP compatibility](https://gerrit.openbmc.org/c/90565)
-- **Change #:** 90565
-- **Author:** Jason Westover
-- **Changes:** +41 / -39 lines
-- **Updated:** 2026-06-12 12:21:10.000000000
-
-### [Register missing Bootstrap-Vue dropdown component](https://gerrit.openbmc.org/c/91208)
-- **Change #:** 91208
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Changes:** +4 / -0 lines
-- **Updated:** 2026-06-12 03:44:34.000000000
-
-## 🔍 Open Changes Awaiting Review (10)
-
-### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
-- **Change #:** 91277
-- **Author:** Jason Westover
-- **Updated:** 2026-06-12 22:11:07.000000000
-
-### [Refactor Redfish API client](https://gerrit.openbmc.org/c/91267)
-- **Change #:** 91267
-- **Author:** Jason Westover
-- **Updated:** 2026-06-12 22:07:35.000000000
-
-### [Implemented Sessions page with VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
-- **Change #:** 91253
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-06-12 18:04:55.000000000
+## ✅ Merged Changes (1)
 
 ### [Implemented Basic Auth in Policies](https://gerrit.openbmc.org/c/89544)
 - **Change #:** 89544
 - **Author:** Nikhil Ashoka
-- **Updated:** 2026-06-12 10:15:36.000000000
+- **Changes:** +125 / -0 lines
+- **Updated:** 2026-06-14 15:59:13.000000000
 
-### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
-- **Change #:** 91086
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-06-12 08:47:41.000000000
-
-### [Fix network interface reset on data refresh](https://gerrit.openbmc.org/c/91166)
-- **Change #:** 91166
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-12 07:29:13.000000000
-
-### [Add password change confirmation for own user](https://gerrit.openbmc.org/c/87572)
-- **Change #:** 87572
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-12 06:56:02.000000000
+## 🔍 Open Changes Awaiting Review (7)
 
 ### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
 - **Change #:** 90453
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-12 06:44:42.000000000
+- **Updated:** 2026-06-15 10:33:49.000000000
+
+### [Fix network interface reset on data refresh](https://gerrit.openbmc.org/c/91166)
+- **Change #:** 91166
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-15 10:28:22.000000000
+
+### [Implemented Sessions page with VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
+- **Change #:** 91253
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-06-15 09:59:29.000000000
 
 ### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
 - **Change #:** 89535
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-12 06:44:19.000000000
+- **Updated:** 2026-06-15 09:44:01.000000000
+
+### [Add password change confirmation for own user](https://gerrit.openbmc.org/c/87572)
+- **Change #:** 87572
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-15 09:26:42.000000000
 
 ### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
 - **Change #:** 87472
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-12 06:44:10.000000000
+- **Updated:** 2026-06-15 04:57:52.000000000
 
-## ❌ Abandoned Changes (1)
-
-### [Implemented Sessions page with VueQuery and Composition API](https://gerrit.openbmc.org/c/87382)
-- **Change #:** 87382
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-06-12 12:09:03.000000000
+### [Refactor Redfish API client](https://gerrit.openbmc.org/c/91267)
+- **Change #:** 91267
+- **Author:** Jason Westover
+- **Updated:** 2026-06-14 15:01:32.000000000
 
 ---
 
