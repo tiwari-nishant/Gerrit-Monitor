@@ -1,12 +1,18 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-15 13:13:33 UTC
+**Generated:** 2026-06-16 12:11:33 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-13 to 2026-06-15 (2 days)
-**Total Changes:** 8
+**Period:** 2026-06-14 to 2026-06-16 (2 days)
+**Total Changes:** 11
 
 ---
 
-## ✅ Merged Changes (1)
+## ✅ Merged Changes (2)
+
+### [Fix network interface reset on data refresh](https://gerrit.openbmc.org/c/91166)
+- **Change #:** 91166
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Changes:** +8 / -2 lines
+- **Updated:** 2026-06-16 06:52:54.000000000
 
 ### [Implemented Basic Auth in Policies](https://gerrit.openbmc.org/c/89544)
 - **Change #:** 89544
@@ -14,42 +20,54 @@
 - **Changes:** +125 / -0 lines
 - **Updated:** 2026-06-14 15:59:13.000000000
 
-## 🔍 Open Changes Awaiting Review (7)
-
-### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
-- **Change #:** 90453
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-15 10:33:49.000000000
-
-### [Fix network interface reset on data refresh](https://gerrit.openbmc.org/c/91166)
-- **Change #:** 91166
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-15 10:28:22.000000000
-
-### [Implemented Sessions page with VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
-- **Change #:** 91253
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-06-15 09:59:29.000000000
-
-### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
-- **Change #:** 89535
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-15 09:44:01.000000000
+## 🔍 Open Changes Awaiting Review (8)
 
 ### [Add password change confirmation for own user](https://gerrit.openbmc.org/c/87572)
 - **Change #:** 87572
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-15 09:26:42.000000000
+- **Updated:** 2026-06-16 11:44:27.000000000
+
+### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
+- **Change #:** 90453
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-16 10:25:46.000000000
 
 ### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
 - **Change #:** 87472
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-15 04:57:52.000000000
+- **Updated:** 2026-06-16 09:48:28.000000000
+
+### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
+- **Change #:** 89535
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-16 05:11:41.000000000
+
+### [Implemented Sessions page with VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
+- **Change #:** 91253
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-06-15 14:46:46.000000000
+
+### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
+- **Change #:** 91277
+- **Author:** Jason Westover
+- **Updated:** 2026-06-15 14:44:27.000000000
 
 ### [Refactor Redfish API client](https://gerrit.openbmc.org/c/91267)
 - **Change #:** 91267
 - **Author:** Jason Westover
-- **Updated:** 2026-06-14 15:01:32.000000000
+- **Updated:** 2026-06-15 14:25:13.000000000
+
+### [Sort package.json dependencies alphabetically](https://gerrit.openbmc.org/c/91317)
+- **Change #:** 91317
+- **Author:** Jason Westover
+- **Updated:** 2026-06-15 14:20:25.000000000
+
+## ❌ Abandoned Changes (1)
+
+### [Address Gerrit review feedback on 91267](https://gerrit.openbmc.org/c/91316)
+- **Change #:** 91316
+- **Author:** Jason Westover
+- **Updated:** 2026-06-15 14:15:08.000000000
 
 ---
 
