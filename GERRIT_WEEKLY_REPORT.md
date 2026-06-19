@@ -1,12 +1,18 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-18 11:07:51 UTC
+**Generated:** 2026-06-19 11:22:47 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-16 to 2026-06-18 (2 days)
-**Total Changes:** 12
+**Period:** 2026-06-17 to 2026-06-19 (2 days)
+**Total Changes:** 10
 
 ---
 
-## ✅ Merged Changes (3)
+## ✅ Merged Changes (2)
+
+### [Fix sensors page being empty](https://gerrit.openbmc.org/c/91429)
+- **Change #:** 91429
+- **Author:** Grégoire Layet
+- **Changes:** +1 / -2 lines
+- **Updated:** 2026-06-18 14:19:37.000000000
 
 ### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
 - **Change #:** 89535
@@ -14,34 +20,17 @@
 - **Changes:** +649 / -3 lines
 - **Updated:** 2026-06-17 15:29:31.000000000
 
-### [Add password change confirmation for own user](https://gerrit.openbmc.org/c/87572)
-- **Change #:** 87572
+## 🔍 Open Changes Awaiting Review (8)
+
+### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
+- **Change #:** 90453
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Changes:** +40 / -9 lines
-- **Updated:** 2026-06-16 13:03:27.000000000
-
-### [Fix network interface reset on data refresh](https://gerrit.openbmc.org/c/91166)
-- **Change #:** 91166
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Changes:** +8 / -2 lines
-- **Updated:** 2026-06-16 06:52:54.000000000
-
-## 🔍 Open Changes Awaiting Review (9)
-
-### [Fix sensors page being empty](https://gerrit.openbmc.org/c/91429)
-- **Change #:** 91429
-- **Author:** Grégoire Layet
-- **Updated:** 2026-06-18 10:59:16.000000000
+- **Updated:** 2026-06-19 10:02:30.000000000
 
 ### [Preserve Content-Encoding header on dev proxy response](https://gerrit.openbmc.org/c/91395)
 - **Change #:** 91395
 - **Author:** Grégoire Layet
 - **Updated:** 2026-06-18 10:42:58.000000000
-
-### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
-- **Change #:** 90453
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-18 09:42:49.000000000
 
 ### [Add openapi-ts codegen tooling scaffold](https://gerrit.openbmc.org/c/91407)
 - **Change #:** 91407
