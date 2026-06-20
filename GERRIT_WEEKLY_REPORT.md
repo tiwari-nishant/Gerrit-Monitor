@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-19 11:22:47 UTC
+**Generated:** 2026-06-20 10:08:38 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-17 to 2026-06-19 (2 days)
-**Total Changes:** 10
+**Period:** 2026-06-18 to 2026-06-20 (2 days)
+**Total Changes:** 3
 
 ---
 
-## ✅ Merged Changes (2)
+## ✅ Merged Changes (1)
 
 ### [Fix sensors page being empty](https://gerrit.openbmc.org/c/91429)
 - **Change #:** 91429
@@ -14,13 +14,7 @@
 - **Changes:** +1 / -2 lines
 - **Updated:** 2026-06-18 14:19:37.000000000
 
-### [Add expandable rows to Certificates page](https://gerrit.openbmc.org/c/89535)
-- **Change #:** 89535
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Changes:** +649 / -3 lines
-- **Updated:** 2026-06-17 15:29:31.000000000
-
-## 🔍 Open Changes Awaiting Review (8)
+## 🔍 Open Changes Awaiting Review (2)
 
 ### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
 - **Change #:** 90453
@@ -31,36 +25,6 @@
 - **Change #:** 91395
 - **Author:** Grégoire Layet
 - **Updated:** 2026-06-18 10:42:58.000000000
-
-### [Add openapi-ts codegen tooling scaffold](https://gerrit.openbmc.org/c/91407)
-- **Change #:** 91407
-- **Author:** Jason Westover
-- **Updated:** 2026-06-17 19:21:26.000000000
-
-### [Implemented Sessions page with VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
-- **Change #:** 91253
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-06-17 19:13:09.000000000
-
-### [Sort package.json dependencies alphabetically](https://gerrit.openbmc.org/c/91317)
-- **Change #:** 91317
-- **Author:** Jason Westover
-- **Updated:** 2026-06-17 19:12:25.000000000
-
-### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
-- **Change #:** 91277
-- **Author:** Jason Westover
-- **Updated:** 2026-06-17 19:09:15.000000000
-
-### [Refactor Redfish API client](https://gerrit.openbmc.org/c/91267)
-- **Change #:** 91267
-- **Author:** Jason Westover
-- **Updated:** 2026-06-17 19:08:35.000000000
-
-### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
-- **Change #:** 87472
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-17 15:28:38.000000000
 
 ---
 
