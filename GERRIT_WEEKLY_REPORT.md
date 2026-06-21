@@ -1,30 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-20 10:08:38 UTC
+**Generated:** 2026-06-21 10:28:57 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-18 to 2026-06-20 (2 days)
-**Total Changes:** 3
+**Period:** 2026-06-19 to 2026-06-21 (2 days)
+**Total Changes:** 1
 
 ---
 
-## ✅ Merged Changes (1)
-
-### [Fix sensors page being empty](https://gerrit.openbmc.org/c/91429)
-- **Change #:** 91429
-- **Author:** Grégoire Layet
-- **Changes:** +1 / -2 lines
-- **Updated:** 2026-06-18 14:19:37.000000000
-
-## 🔍 Open Changes Awaiting Review (2)
+## 🔍 Open Changes Awaiting Review (1)
 
 ### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
 - **Change #:** 90453
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-06-19 10:02:30.000000000
-
-### [Preserve Content-Encoding header on dev proxy response](https://gerrit.openbmc.org/c/91395)
-- **Change #:** 91395
-- **Author:** Grégoire Layet
-- **Updated:** 2026-06-18 10:42:58.000000000
 
 ---
 
