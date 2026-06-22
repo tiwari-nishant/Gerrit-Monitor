@@ -1,17 +1,40 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-21 10:28:57 UTC
+**Generated:** 2026-06-22 12:49:40 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-19 to 2026-06-21 (2 days)
-**Total Changes:** 1
+**Period:** 2026-06-20 to 2026-06-22 (2 days)
+**Total Changes:** 5
 
 ---
 
-## 🔍 Open Changes Awaiting Review (1)
+## ✅ Merged Changes (1)
+
+### [Implemented Power page with VueQuery and Composition API](https://gerrit.openbmc.org/c/87281)
+- **Change #:** 87281
+- **Author:** Nikhil Ashoka
+- **Changes:** +505 / -210 lines
+- **Updated:** 2026-06-22 09:51:15.000000000
+
+## 🔍 Open Changes Awaiting Review (4)
+
+### [Fix typo in useDnsStateIpv6 computed property](https://gerrit.openbmc.org/c/91574)
+- **Change #:** 91574
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-22 10:28:41.000000000
+
+### [OWNERS: Add myself as a reviewer](https://gerrit.openbmc.org/c/91573)
+- **Change #:** 91573
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-22 09:40:39.000000000
+
+### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
+- **Change #:** 87472
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-06-22 06:58:04.000000000
 
 ### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
 - **Change #:** 90453
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-19 10:02:30.000000000
+- **Updated:** 2026-06-22 06:57:55.000000000
 
 ---
 
