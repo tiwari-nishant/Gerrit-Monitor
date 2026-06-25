@@ -1,12 +1,30 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-24 10:22:38 UTC
+**Generated:** 2026-06-25 10:14:45 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-22 to 2026-06-24 (2 days)
-**Total Changes:** 7
+**Period:** 2026-06-23 to 2026-06-25 (2 days)
+**Total Changes:** 5
 
 ---
 
-## ✅ Merged Changes (3)
+## ✅ Merged Changes (4)
+
+### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
+- **Change #:** 90453
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Changes:** +150 / -71 lines
+- **Updated:** 2026-06-25 10:01:01.000000000
+
+### [OWNERS: Add myself as a reviewer](https://gerrit.openbmc.org/c/91573)
+- **Change #:** 91573
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Changes:** +4 / -0 lines
+- **Updated:** 2026-06-25 01:52:00.000000000
+
+### [Add password change confirmation for own user](https://gerrit.openbmc.org/c/87572)
+- **Change #:** 87572
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Changes:** +40 / -9 lines
+- **Updated:** 2026-06-24 18:42:37.000000000
 
 ### [Preserve Content-Encoding header on dev proxy response](https://gerrit.openbmc.org/c/91395)
 - **Change #:** 91395
@@ -14,39 +32,12 @@
 - **Changes:** +0 / -1 lines
 - **Updated:** 2026-06-23 08:52:45.000000000
 
-### [Fix typo in useDnsStateIpv6 computed property](https://gerrit.openbmc.org/c/91574)
-- **Change #:** 91574
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Changes:** +1 / -1 lines
-- **Updated:** 2026-06-22 18:21:45.000000000
-
-### [Implemented Power page with VueQuery and Composition API](https://gerrit.openbmc.org/c/87281)
-- **Change #:** 87281
-- **Author:** Nikhil Ashoka
-- **Changes:** +505 / -210 lines
-- **Updated:** 2026-06-22 13:52:51.000000000
-
-## 🔍 Open Changes Awaiting Review (4)
-
-### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
-- **Change #:** 90453
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-23 09:19:16.000000000
-
-### [OWNERS: Add myself as a reviewer](https://gerrit.openbmc.org/c/91573)
-- **Change #:** 91573
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-23 09:14:10.000000000
+## 🔍 Open Changes Awaiting Review (1)
 
 ### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
 - **Change #:** 87472
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-06-23 09:12:24.000000000
-
-### [Add openapi-ts codegen tooling scaffold](https://gerrit.openbmc.org/c/91407)
-- **Change #:** 91407
-- **Author:** Jason Westover
-- **Updated:** 2026-06-22 17:43:11.000000000
 
 ---
 
