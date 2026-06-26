@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-25 10:14:45 UTC
+**Generated:** 2026-06-26 10:22:40 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-23 to 2026-06-25 (2 days)
-**Total Changes:** 5
+**Period:** 2026-06-24 to 2026-06-26 (2 days)
+**Total Changes:** 3
 
 ---
 
-## ✅ Merged Changes (4)
+## ✅ Merged Changes (3)
 
 ### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
 - **Change #:** 90453
@@ -25,19 +25,6 @@
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Changes:** +40 / -9 lines
 - **Updated:** 2026-06-24 18:42:37.000000000
-
-### [Preserve Content-Encoding header on dev proxy response](https://gerrit.openbmc.org/c/91395)
-- **Change #:** 91395
-- **Author:** Grégoire Layet
-- **Changes:** +0 / -1 lines
-- **Updated:** 2026-06-23 08:52:45.000000000
-
-## 🔍 Open Changes Awaiting Review (1)
-
-### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
-- **Change #:** 87472
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-06-23 09:12:24.000000000
 
 ---
 
