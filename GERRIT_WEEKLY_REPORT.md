@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-26 10:22:40 UTC
+**Generated:** 2026-06-27 09:28:16 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-24 to 2026-06-26 (2 days)
-**Total Changes:** 3
+**Period:** 2026-06-25 to 2026-06-27 (2 days)
+**Total Changes:** 2
 
 ---
 
-## ✅ Merged Changes (3)
+## ✅ Merged Changes (2)
 
 ### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
 - **Change #:** 90453
@@ -19,12 +19,6 @@
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Changes:** +4 / -0 lines
 - **Updated:** 2026-06-25 01:52:00.000000000
-
-### [Add password change confirmation for own user](https://gerrit.openbmc.org/c/87572)
-- **Change #:** 87572
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Changes:** +40 / -9 lines
-- **Updated:** 2026-06-24 18:42:37.000000000
 
 ---
 
