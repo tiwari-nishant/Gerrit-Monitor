@@ -1,24 +1,64 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-27 09:28:16 UTC
+**Generated:** 2026-06-28 09:56:29 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-25 to 2026-06-27 (2 days)
-**Total Changes:** 2
+**Period:** 2026-06-26 to 2026-06-28 (2 days)
+**Total Changes:** 10
 
 ---
 
-## ✅ Merged Changes (2)
+## 🔍 Open Changes Awaiting Review (9)
 
-### [Add Access Denied alert to SOL console](https://gerrit.openbmc.org/c/90453)
-- **Change #:** 90453
+### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
+- **Change #:** 87472
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Changes:** +150 / -71 lines
-- **Updated:** 2026-06-25 10:01:01.000000000
+- **Updated:** 2026-06-27 23:24:43.000000000
 
-### [OWNERS: Add myself as a reviewer](https://gerrit.openbmc.org/c/91573)
-- **Change #:** 91573
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Changes:** +4 / -0 lines
-- **Updated:** 2026-06-25 01:52:00.000000000
+### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
+- **Change #:** 91277
+- **Author:** Jason Westover
+- **Updated:** 2026-06-27 23:19:58.000000000
+
+### [build: Generate OSS license manifest and SBOM](https://gerrit.openbmc.org/c/91792)
+- **Change #:** 91792
+- **Author:** Jason Westover
+- **Updated:** 2026-06-27 17:52:03.000000000
+
+### [build: Move @vue/vue3-jest to devDependencies](https://gerrit.openbmc.org/c/91791)
+- **Change #:** 91791
+- **Author:** Jason Westover
+- **Updated:** 2026-06-27 17:43:56.000000000
+
+### [Implemented Sessions page with VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
+- **Change #:** 91253
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-06-27 17:38:31.000000000
+
+### [Add openapi-ts codegen tooling scaffold](https://gerrit.openbmc.org/c/91407)
+- **Change #:** 91407
+- **Author:** Jason Westover
+- **Updated:** 2026-06-27 17:37:36.000000000
+
+### [Sort package.json dependencies alphabetically](https://gerrit.openbmc.org/c/91317)
+- **Change #:** 91317
+- **Author:** Jason Westover
+- **Updated:** 2026-06-27 17:37:29.000000000
+
+### [Refactor Redfish API client](https://gerrit.openbmc.org/c/91267)
+- **Change #:** 91267
+- **Author:** Jason Westover
+- **Updated:** 2026-06-27 17:35:47.000000000
+
+### [docs: Add OSS license manifest and SBOM design](https://gerrit.openbmc.org/c/91790)
+- **Change #:** 91790
+- **Author:** Jason Westover
+- **Updated:** 2026-06-27 17:22:06.000000000
+
+## ❌ Abandoned Changes (1)
+
+### [Fix SOL console frozen rows, scrollbar, and text selection](https://gerrit.openbmc.org/c/88367)
+- **Change #:** 88367
+- **Author:** Jason Westover
+- **Updated:** 2026-06-27 18:20:42.000000000
 
 ---
 
