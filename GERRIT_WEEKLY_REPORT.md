@@ -1,12 +1,27 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-28 09:56:29 UTC
+**Generated:** 2026-06-29 11:58:46 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-26 to 2026-06-28 (2 days)
+**Period:** 2026-06-27 to 2026-06-29 (2 days)
 **Total Changes:** 10
 
 ---
 
 ## 🔍 Open Changes Awaiting Review (9)
+
+### [Add openapi-ts codegen tooling scaffold](https://gerrit.openbmc.org/c/91407)
+- **Change #:** 91407
+- **Author:** Jason Westover
+- **Updated:** 2026-06-29 10:44:58.000000000
+
+### [Implemented Sessions page with VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
+- **Change #:** 91253
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-06-29 08:16:32.000000000
+
+### [docs: Revise OSS license/SBOM design for offline build](https://gerrit.openbmc.org/c/91790)
+- **Change #:** 91790
+- **Author:** Jason Westover
+- **Updated:** 2026-06-29 04:22:00.000000000
 
 ### [Fix redirect handling to prevent Redfish logout](https://gerrit.openbmc.org/c/87472)
 - **Change #:** 87472
@@ -28,16 +43,6 @@
 - **Author:** Jason Westover
 - **Updated:** 2026-06-27 17:43:56.000000000
 
-### [Implemented Sessions page with VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
-- **Change #:** 91253
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-06-27 17:38:31.000000000
-
-### [Add openapi-ts codegen tooling scaffold](https://gerrit.openbmc.org/c/91407)
-- **Change #:** 91407
-- **Author:** Jason Westover
-- **Updated:** 2026-06-27 17:37:36.000000000
-
 ### [Sort package.json dependencies alphabetically](https://gerrit.openbmc.org/c/91317)
 - **Change #:** 91317
 - **Author:** Jason Westover
@@ -47,11 +52,6 @@
 - **Change #:** 91267
 - **Author:** Jason Westover
 - **Updated:** 2026-06-27 17:35:47.000000000
-
-### [docs: Add OSS license manifest and SBOM design](https://gerrit.openbmc.org/c/91790)
-- **Change #:** 91790
-- **Author:** Jason Westover
-- **Updated:** 2026-06-27 17:22:06.000000000
 
 ## ❌ Abandoned Changes (1)
 
