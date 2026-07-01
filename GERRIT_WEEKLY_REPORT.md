@@ -1,12 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-06-30 10:31:03 UTC
+**Generated:** 2026-07-01 10:41:46 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-28 to 2026-06-30 (2 days)
-**Total Changes:** 4
+**Period:** 2026-06-29 to 2026-07-01 (2 days)
+**Total Changes:** 5
 
 ---
 
-## 🔍 Open Changes Awaiting Review (4)
+## 🔍 Open Changes Awaiting Review (5)
+
+### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
+- **Change #:** 91863
+- **Author:** Tan Siewert
+- **Updated:** 2026-07-01 10:07:28.000000000
 
 ### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
 - **Change #:** 91277
