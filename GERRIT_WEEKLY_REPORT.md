@@ -1,37 +1,22 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-01 10:41:46 UTC
+**Generated:** 2026-07-02 10:09:34 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-06-29 to 2026-07-01 (2 days)
-**Total Changes:** 5
+**Period:** 2026-06-30 to 2026-07-02 (2 days)
+**Total Changes:** 2
 
 ---
 
-## 🔍 Open Changes Awaiting Review (5)
+## 🔍 Open Changes Awaiting Review (2)
 
 ### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
 - **Change #:** 91863
 - **Author:** Tan Siewert
-- **Updated:** 2026-07-01 10:07:28.000000000
+- **Updated:** 2026-07-02 05:06:17.000000000
 
 ### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
 - **Change #:** 91277
 - **Author:** Jason Westover
 - **Updated:** 2026-06-30 07:33:59.000000000
-
-### [Implemented Sessions page with VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
-- **Change #:** 91253
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-06-29 18:06:48.000000000
-
-### [Add openapi-ts codegen tooling scaffold](https://gerrit.openbmc.org/c/91407)
-- **Change #:** 91407
-- **Author:** Jason Westover
-- **Updated:** 2026-06-29 10:44:58.000000000
-
-### [docs: Revise OSS license/SBOM design for offline build](https://gerrit.openbmc.org/c/91790)
-- **Change #:** 91790
-- **Author:** Jason Westover
-- **Updated:** 2026-06-29 04:22:00.000000000
 
 ---
 
