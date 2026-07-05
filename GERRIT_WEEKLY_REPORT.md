@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-04 09:22:49 UTC
+**Generated:** 2026-07-05 09:42:17 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-02 to 2026-07-04 (2 days)
-**Total Changes:** 3
+**Period:** 2026-07-03 to 2026-07-05 (2 days)
+**Total Changes:** 2
 
 ---
 
-## 🔍 Open Changes Awaiting Review (3)
+## 🔍 Open Changes Awaiting Review (2)
 
 ### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
 - **Change #:** 91863
@@ -17,11 +17,6 @@
 - **Change #:** 91980
 - **Author:** Lakshmana Kumar Velusamy
 - **Updated:** 2026-07-03 13:43:22.000000000
-
-### [Sort package.json dependencies alphabetically](https://gerrit.openbmc.org/c/91317)
-- **Change #:** 91317
-- **Author:** Jason Westover
-- **Updated:** 2026-07-02 10:15:14.000000000
 
 ---
 
