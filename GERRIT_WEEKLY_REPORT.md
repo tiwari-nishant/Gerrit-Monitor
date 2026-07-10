@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-09 10:25:00 UTC
+**Generated:** 2026-07-10 10:23:26 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-07 to 2026-07-09 (2 days)
-**Total Changes:** 3
+**Period:** 2026-07-08 to 2026-07-10 (2 days)
+**Total Changes:** 2
 
 ---
 
-## 🔍 Open Changes Awaiting Review (3)
+## 🔍 Open Changes Awaiting Review (2)
 
 ### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
 - **Change #:** 91863
@@ -17,11 +17,6 @@
 - **Change #:** 91790
 - **Author:** Jason Westover
 - **Updated:** 2026-07-08 12:28:52.000000000
-
-### [Fix toast visibility and auto-hide behavior](https://gerrit.openbmc.org/c/92120)
-- **Change #:** 92120
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-07-07 18:30:17.000000000
 
 ---
 
