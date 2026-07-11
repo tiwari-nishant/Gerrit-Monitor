@@ -1,22 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-10 10:23:26 UTC
+**Generated:** 2026-07-11 08:46:15 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-08 to 2026-07-10 (2 days)
-**Total Changes:** 2
+**Period:** 2026-07-09 to 2026-07-11 (2 days)
+**Total Changes:** 1
 
 ---
 
-## 🔍 Open Changes Awaiting Review (2)
+## 🔍 Open Changes Awaiting Review (1)
 
 ### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
 - **Change #:** 91863
 - **Author:** Tan Siewert
 - **Updated:** 2026-07-09 07:19:46.000000000
-
-### [docs: Rework webui-vue offline build/SBOM design](https://gerrit.openbmc.org/c/91790)
-- **Change #:** 91790
-- **Author:** Jason Westover
-- **Updated:** 2026-07-08 12:28:52.000000000
 
 ---
 
