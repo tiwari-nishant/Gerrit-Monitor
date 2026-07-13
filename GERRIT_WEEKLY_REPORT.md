@@ -1,10 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-12 09:02:02 UTC
+**Generated:** 2026-07-13 10:25:57 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-10 to 2026-07-12 (2 days)
-**Total Changes:** 0
+**Period:** 2026-07-11 to 2026-07-13 (2 days)
+**Total Changes:** 1
 
 ---
+
+## 🔍 Open Changes Awaiting Review (1)
+
+### [docs: Rework webui-vue offline build/SBOM design](https://gerrit.openbmc.org/c/91790)
+- **Change #:** 91790
+- **Author:** Jason Westover
+- **Updated:** 2026-07-13 02:56:01.000000000
 
 ---
 
