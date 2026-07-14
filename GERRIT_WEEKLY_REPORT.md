@@ -1,17 +1,22 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-13 10:25:57 UTC
+**Generated:** 2026-07-14 09:04:02 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-11 to 2026-07-13 (2 days)
-**Total Changes:** 1
+**Period:** 2026-07-12 to 2026-07-14 (2 days)
+**Total Changes:** 2
 
 ---
 
-## 🔍 Open Changes Awaiting Review (1)
+## 🔍 Open Changes Awaiting Review (2)
+
+### [build: Move @vue/vue3-jest to devDependencies](https://gerrit.openbmc.org/c/91791)
+- **Change #:** 91791
+- **Author:** Jason Westover
+- **Updated:** 2026-07-13 19:03:25.000000000
 
 ### [docs: Rework webui-vue offline build/SBOM design](https://gerrit.openbmc.org/c/91790)
 - **Change #:** 91790
 - **Author:** Jason Westover
-- **Updated:** 2026-07-13 02:56:01.000000000
+- **Updated:** 2026-07-13 18:48:08.000000000
 
 ---
 
