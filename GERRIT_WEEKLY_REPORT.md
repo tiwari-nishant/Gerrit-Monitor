@@ -1,12 +1,32 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-14 09:04:02 UTC
+**Generated:** 2026-07-15 09:08:52 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-12 to 2026-07-14 (2 days)
-**Total Changes:** 2
+**Period:** 2026-07-13 to 2026-07-15 (2 days)
+**Total Changes:** 6
 
 ---
 
-## 🔍 Open Changes Awaiting Review (2)
+## 🔍 Open Changes Awaiting Review (6)
+
+### [Add openapi-ts codegen tooling scaffold](https://gerrit.openbmc.org/c/91407)
+- **Change #:** 91407
+- **Author:** Jason Westover
+- **Updated:** 2026-07-15 09:03:06.000000000
+
+### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
+- **Change #:** 91086
+- **Author:** Nishant Tiwari
+- **Updated:** 2026-07-15 07:02:17.000000000
+
+### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
+- **Change #:** 92370
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-07-15 06:47:53.000000000
+
+### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
+- **Change #:** 91863
+- **Author:** Tan Siewert
+- **Updated:** 2026-07-14 17:45:14.000000000
 
 ### [build: Move @vue/vue3-jest to devDependencies](https://gerrit.openbmc.org/c/91791)
 - **Change #:** 91791
