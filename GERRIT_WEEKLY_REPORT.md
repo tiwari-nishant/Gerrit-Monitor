@@ -1,42 +1,47 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-15 09:08:52 UTC
+**Generated:** 2026-07-16 09:12:45 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-13 to 2026-07-15 (2 days)
-**Total Changes:** 6
+**Period:** 2026-07-14 to 2026-07-16 (2 days)
+**Total Changes:** 7
 
 ---
 
-## 🔍 Open Changes Awaiting Review (6)
+## 🔍 Open Changes Awaiting Review (7)
 
-### [Add openapi-ts codegen tooling scaffold](https://gerrit.openbmc.org/c/91407)
-- **Change #:** 91407
-- **Author:** Jason Westover
-- **Updated:** 2026-07-15 09:03:06.000000000
-
-### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
-- **Change #:** 91086
+### [Add asset tag edit functionality to overview page](https://gerrit.openbmc.org/c/92419)
+- **Change #:** 92419
 - **Author:** Nishant Tiwari
-- **Updated:** 2026-07-15 07:02:17.000000000
+- **Updated:** 2026-07-16 08:30:50.000000000
 
 ### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
 - **Change #:** 92370
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-07-15 06:47:53.000000000
+- **Updated:** 2026-07-16 06:35:33.000000000
+
+### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
+- **Change #:** 91086
+- **Author:** Nishant Tiwari
+- **Updated:** 2026-07-15 11:38:21.000000000
+
+### [Fix toast visibility and auto-hide behavior](https://gerrit.openbmc.org/c/92120)
+- **Change #:** 92120
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-07-15 11:26:13.000000000
+
+### [build: Move @vue/vue3-jest to devDependencies](https://gerrit.openbmc.org/c/91791)
+- **Change #:** 91791
+- **Author:** Jason Westover
+- **Updated:** 2026-07-15 09:37:40.000000000
+
+### [Add openapi-ts codegen tooling scaffold](https://gerrit.openbmc.org/c/91407)
+- **Change #:** 91407
+- **Author:** Jason Westover
+- **Updated:** 2026-07-15 09:15:21.000000000
 
 ### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
 - **Change #:** 91863
 - **Author:** Tan Siewert
 - **Updated:** 2026-07-14 17:45:14.000000000
-
-### [build: Move @vue/vue3-jest to devDependencies](https://gerrit.openbmc.org/c/91791)
-- **Change #:** 91791
-- **Author:** Jason Westover
-- **Updated:** 2026-07-13 19:03:25.000000000
-
-### [docs: Rework webui-vue offline build/SBOM design](https://gerrit.openbmc.org/c/91790)
-- **Change #:** 91790
-- **Author:** Jason Westover
-- **Updated:** 2026-07-13 18:48:08.000000000
 
 ---
 
