@@ -1,17 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-16 09:12:45 UTC
+**Generated:** 2026-07-17 09:09:02 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-14 to 2026-07-16 (2 days)
-**Total Changes:** 7
+**Period:** 2026-07-15 to 2026-07-17 (2 days)
+**Total Changes:** 6
 
 ---
 
-## 🔍 Open Changes Awaiting Review (7)
+## 🔍 Open Changes Awaiting Review (6)
 
 ### [Add asset tag edit functionality to overview page](https://gerrit.openbmc.org/c/92419)
 - **Change #:** 92419
 - **Author:** Nishant Tiwari
-- **Updated:** 2026-07-16 08:30:50.000000000
+- **Updated:** 2026-07-16 20:57:34.000000000
 
 ### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
 - **Change #:** 92370
@@ -37,11 +37,6 @@
 - **Change #:** 91407
 - **Author:** Jason Westover
 - **Updated:** 2026-07-15 09:15:21.000000000
-
-### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
-- **Change #:** 91863
-- **Author:** Tan Siewert
-- **Updated:** 2026-07-14 17:45:14.000000000
 
 ---
 
