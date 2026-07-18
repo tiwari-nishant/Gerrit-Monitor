@@ -1,12 +1,22 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-17 09:09:02 UTC
+**Generated:** 2026-07-18 08:48:03 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-15 to 2026-07-17 (2 days)
-**Total Changes:** 6
+**Period:** 2026-07-16 to 2026-07-18 (2 days)
+**Total Changes:** 5
 
 ---
 
-## 🔍 Open Changes Awaiting Review (6)
+## 🔍 Open Changes Awaiting Review (4)
+
+### [Implemented Sessions page with VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
+- **Change #:** 91253
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-07-17 13:25:10.000000000
+
+### [Fix header checkbox select-all in View All mode](https://gerrit.openbmc.org/c/92473)
+- **Change #:** 92473
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-07-17 11:10:04.000000000
 
 ### [Add asset tag edit functionality to overview page](https://gerrit.openbmc.org/c/92419)
 - **Change #:** 92419
@@ -18,25 +28,12 @@
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-07-16 06:35:33.000000000
 
-### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
-- **Change #:** 91086
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-07-15 11:38:21.000000000
+## ❌ Abandoned Changes (1)
 
-### [Fix toast visibility and auto-hide behavior](https://gerrit.openbmc.org/c/92120)
-- **Change #:** 92120
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-07-15 11:26:13.000000000
-
-### [build: Move @vue/vue3-jest to devDependencies](https://gerrit.openbmc.org/c/91791)
-- **Change #:** 91791
-- **Author:** Jason Westover
-- **Updated:** 2026-07-15 09:37:40.000000000
-
-### [Add openapi-ts codegen tooling scaffold](https://gerrit.openbmc.org/c/91407)
-- **Change #:** 91407
-- **Author:** Jason Westover
-- **Updated:** 2026-07-15 09:15:21.000000000
+### [Fixed current session row](https://gerrit.openbmc.org/c/92474)
+- **Change #:** 92474
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-07-17 13:28:54.000000000
 
 ---
 
