@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-18 08:48:03 UTC
+**Generated:** 2026-07-19 09:04:16 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-16 to 2026-07-18 (2 days)
-**Total Changes:** 5
+**Period:** 2026-07-17 to 2026-07-19 (2 days)
+**Total Changes:** 3
 
 ---
 
-## 🔍 Open Changes Awaiting Review (4)
+## 🔍 Open Changes Awaiting Review (2)
 
 ### [Implemented Sessions page with VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
 - **Change #:** 91253
@@ -17,16 +17,6 @@
 - **Change #:** 92473
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-07-17 11:10:04.000000000
-
-### [Add asset tag edit functionality to overview page](https://gerrit.openbmc.org/c/92419)
-- **Change #:** 92419
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-07-16 20:57:34.000000000
-
-### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
-- **Change #:** 92370
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-07-16 06:35:33.000000000
 
 ## ❌ Abandoned Changes (1)
 
