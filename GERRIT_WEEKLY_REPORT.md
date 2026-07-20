@@ -1,29 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-19 09:04:16 UTC
+**Generated:** 2026-07-20 10:10:09 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-17 to 2026-07-19 (2 days)
-**Total Changes:** 3
+**Period:** 2026-07-18 to 2026-07-20 (2 days)
+**Total Changes:** 1
 
 ---
 
-## 🔍 Open Changes Awaiting Review (2)
+## 🔍 Open Changes Awaiting Review (1)
 
-### [Implemented Sessions page with VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
-- **Change #:** 91253
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-07-17 13:25:10.000000000
-
-### [Fix header checkbox select-all in View All mode](https://gerrit.openbmc.org/c/92473)
-- **Change #:** 92473
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-07-17 11:10:04.000000000
-
-## ❌ Abandoned Changes (1)
-
-### [Fixed current session row](https://gerrit.openbmc.org/c/92474)
-- **Change #:** 92474
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-07-17 13:28:54.000000000
+### [Add asset tag edit functionality to overview page](https://gerrit.openbmc.org/c/92419)
+- **Change #:** 92419
+- **Author:** Nishant Tiwari
+- **Updated:** 2026-07-20 06:03:31.000000000
 
 ---
 
