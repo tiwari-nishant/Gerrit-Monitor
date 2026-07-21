@@ -1,17 +1,30 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-20 10:10:09 UTC
+**Generated:** 2026-07-21 09:26:18 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-18 to 2026-07-20 (2 days)
-**Total Changes:** 1
+**Period:** 2026-07-19 to 2026-07-21 (2 days)
+**Total Changes:** 3
 
 ---
 
-## 🔍 Open Changes Awaiting Review (1)
+## ✅ Merged Changes (1)
+
+### [Fix toast visibility and auto-hide behavior](https://gerrit.openbmc.org/c/92120)
+- **Change #:** 92120
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Changes:** +5 / -3 lines
+- **Updated:** 2026-07-21 06:17:25.000000000
+
+## 🔍 Open Changes Awaiting Review (2)
+
+### [Replace v-model with :model-value in Policies](https://gerrit.openbmc.org/c/92502)
+- **Change #:** 92502
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-07-21 08:48:38.000000000
 
 ### [Add asset tag edit functionality to overview page](https://gerrit.openbmc.org/c/92419)
 - **Change #:** 92419
 - **Author:** Nishant Tiwari
-- **Updated:** 2026-07-20 06:03:31.000000000
+- **Updated:** 2026-07-20 15:53:14.000000000
 
 ---
 
