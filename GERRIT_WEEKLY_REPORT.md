@@ -1,50 +1,32 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-23 09:23:29 UTC
+**Generated:** 2026-07-24 09:20:56 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-21 to 2026-07-23 (2 days)
-**Total Changes:** 7
+**Period:** 2026-07-22 to 2026-07-24 (2 days)
+**Total Changes:** 4
 
 ---
 
-## ✅ Merged Changes (1)
-
-### [Fix toast visibility and auto-hide behavior](https://gerrit.openbmc.org/c/92120)
-- **Change #:** 92120
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Changes:** +5 / -3 lines
-- **Updated:** 2026-07-21 06:17:25.000000000
-
-## 🔍 Open Changes Awaiting Review (6)
+## 🔍 Open Changes Awaiting Review (4)
 
 ### [Add asset tag edit functionality to overview page](https://gerrit.openbmc.org/c/92419)
 - **Change #:** 92419
 - **Author:** Nishant Tiwari
-- **Updated:** 2026-07-22 09:08:07.000000000
+- **Updated:** 2026-07-24 02:49:20.000000000
 
 ### [Fix header checkbox select-all in View All mode](https://gerrit.openbmc.org/c/92473)
 - **Change #:** 92473
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-07-22 08:50:49.000000000
+- **Updated:** 2026-07-23 15:51:26.000000000
+
+### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
+- **Change #:** 91863
+- **Author:** Tan Siewert
+- **Updated:** 2026-07-23 14:10:18.000000000
 
 ### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
 - **Change #:** 91086
 - **Author:** Nishant Tiwari
 - **Updated:** 2026-07-22 08:24:39.000000000
-
-### [Replace v-model with :model-value in Policies](https://gerrit.openbmc.org/c/92502)
-- **Change #:** 92502
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-07-21 11:45:41.000000000
-
-### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
-- **Change #:** 92551
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-07-21 11:16:36.000000000
-
-### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
-- **Change #:** 92370
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-07-21 09:50:31.000000000
 
 ---
 
