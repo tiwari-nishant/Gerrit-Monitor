@@ -1,32 +1,37 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-24 09:20:56 UTC
+**Generated:** 2026-07-25 08:59:57 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-22 to 2026-07-24 (2 days)
-**Total Changes:** 4
+**Period:** 2026-07-23 to 2026-07-25 (2 days)
+**Total Changes:** 5
 
 ---
 
-## 🔍 Open Changes Awaiting Review (4)
+## 🔍 Open Changes Awaiting Review (5)
+
+### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
+- **Change #:** 92551
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-07-24 10:52:56.000000000
+
+### [Fix header checkbox select-all in View All mode](https://gerrit.openbmc.org/c/92473)
+- **Change #:** 92473
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-07-24 10:16:34.000000000
+
+### [Implemented Sessions page with VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
+- **Change #:** 91253
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-07-24 10:07:50.000000000
+
+### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
+- **Change #:** 91863
+- **Author:** Tan Siewert
+- **Updated:** 2026-07-24 09:35:17.000000000
 
 ### [Add asset tag edit functionality to overview page](https://gerrit.openbmc.org/c/92419)
 - **Change #:** 92419
 - **Author:** Nishant Tiwari
 - **Updated:** 2026-07-24 02:49:20.000000000
-
-### [Fix header checkbox select-all in View All mode](https://gerrit.openbmc.org/c/92473)
-- **Change #:** 92473
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-07-23 15:51:26.000000000
-
-### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
-- **Change #:** 91863
-- **Author:** Tan Siewert
-- **Updated:** 2026-07-23 14:10:18.000000000
-
-### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
-- **Change #:** 91086
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-07-22 08:24:39.000000000
 
 ---
 
