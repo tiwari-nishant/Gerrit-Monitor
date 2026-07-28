@@ -1,10 +1,27 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-27 10:42:23 UTC
+**Generated:** 2026-07-28 09:36:09 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-25 to 2026-07-27 (2 days)
-**Total Changes:** 0
+**Period:** 2026-07-26 to 2026-07-28 (2 days)
+**Total Changes:** 3
 
 ---
+
+## 🔍 Open Changes Awaiting Review (3)
+
+### [Replace v-model with :model-value in Policies](https://gerrit.openbmc.org/c/92502)
+- **Change #:** 92502
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-07-27 12:22:39.000000000
+
+### [Add openapi-ts codegen tooling scaffold](https://gerrit.openbmc.org/c/91407)
+- **Change #:** 91407
+- **Author:** Jason Westover
+- **Updated:** 2026-07-27 12:07:37.000000000
+
+### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
+- **Change #:** 92551
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-07-27 11:17:51.000000000
 
 ---
 
