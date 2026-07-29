@@ -1,22 +1,32 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-28 09:36:09 UTC
+**Generated:** 2026-07-29 09:36:40 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-26 to 2026-07-28 (2 days)
-**Total Changes:** 3
+**Period:** 2026-07-27 to 2026-07-29 (2 days)
+**Total Changes:** 5
 
 ---
 
-## 🔍 Open Changes Awaiting Review (3)
+## 🔍 Open Changes Awaiting Review (5)
 
-### [Replace v-model with :model-value in Policies](https://gerrit.openbmc.org/c/92502)
-- **Change #:** 92502
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-07-27 12:22:39.000000000
+### [Add Socket Security CLI integration for supply-chain checks](https://gerrit.openbmc.org/c/92831)
+- **Change #:** 92831
+- **Author:** Nishant Tiwari
+- **Updated:** 2026-07-29 07:53:03.000000000
+
+### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
+- **Change #:** 91277
+- **Author:** Jason Westover
+- **Updated:** 2026-07-29 07:22:38.000000000
 
 ### [Add openapi-ts codegen tooling scaffold](https://gerrit.openbmc.org/c/91407)
 - **Change #:** 91407
 - **Author:** Jason Westover
-- **Updated:** 2026-07-27 12:07:37.000000000
+- **Updated:** 2026-07-28 15:42:32.000000000
+
+### [Replace v-model with :model-value in Policies](https://gerrit.openbmc.org/c/92502)
+- **Change #:** 92502
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-07-28 12:41:22.000000000
 
 ### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
 - **Change #:** 92551
