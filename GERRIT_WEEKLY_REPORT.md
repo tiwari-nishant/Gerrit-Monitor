@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-29 09:36:40 UTC
+**Generated:** 2026-07-30 09:29:52 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-27 to 2026-07-29 (2 days)
-**Total Changes:** 5
+**Period:** 2026-07-28 to 2026-07-30 (2 days)
+**Total Changes:** 4
 
 ---
 
-## 🔍 Open Changes Awaiting Review (5)
+## 🔍 Open Changes Awaiting Review (4)
 
 ### [Add Socket Security CLI integration for supply-chain checks](https://gerrit.openbmc.org/c/92831)
 - **Change #:** 92831
@@ -27,11 +27,6 @@
 - **Change #:** 92502
 - **Author:** Nikhil Ashoka
 - **Updated:** 2026-07-28 12:41:22.000000000
-
-### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
-- **Change #:** 92551
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-07-27 11:17:51.000000000
 
 ---
 
