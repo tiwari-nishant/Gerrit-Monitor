@@ -1,12 +1,22 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-30 09:29:52 UTC
+**Generated:** 2026-07-31 09:44:20 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-28 to 2026-07-30 (2 days)
+**Period:** 2026-07-29 to 2026-07-31 (2 days)
 **Total Changes:** 4
 
 ---
 
 ## 🔍 Open Changes Awaiting Review (4)
+
+### [Add Chinese translation](https://gerrit.openbmc.org/c/92930)
+- **Change #:** 92930
+- **Author:** SKYCATV587
+- **Updated:** 2026-07-31 08:23:39.000000000
+
+### [OWNERS: prune inactive members](https://gerrit.openbmc.org/c/92987)
+- **Change #:** 92987
+- **Author:** Patrick Williams
+- **Updated:** 2026-07-31 02:08:09.000000000
 
 ### [Add Socket Security CLI integration for supply-chain checks](https://gerrit.openbmc.org/c/92831)
 - **Change #:** 92831
@@ -17,16 +27,6 @@
 - **Change #:** 91277
 - **Author:** Jason Westover
 - **Updated:** 2026-07-29 07:22:38.000000000
-
-### [Add openapi-ts codegen tooling scaffold](https://gerrit.openbmc.org/c/91407)
-- **Change #:** 91407
-- **Author:** Jason Westover
-- **Updated:** 2026-07-28 15:42:32.000000000
-
-### [Replace v-model with :model-value in Policies](https://gerrit.openbmc.org/c/92502)
-- **Change #:** 92502
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-07-28 12:41:22.000000000
 
 ---
 
