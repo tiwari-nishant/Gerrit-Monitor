@@ -1,32 +1,37 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-07-31 09:44:20 UTC
+**Generated:** 2026-08-01 09:05:23 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-07-29 to 2026-07-31 (2 days)
-**Total Changes:** 4
+**Period:** 2026-07-30 to 2026-08-01 (2 days)
+**Total Changes:** 5
 
 ---
 
-## 🔍 Open Changes Awaiting Review (4)
+## 🔍 Open Changes Awaiting Review (5)
+
+### [OWNERS: prune inactive members](https://gerrit.openbmc.org/c/92987)
+- **Change #:** 92987
+- **Author:** Patrick Williams
+- **Updated:** 2026-07-31 17:20:52.000000000
+
+### [Add Socket Security CLI integration for supply-chain checks](https://gerrit.openbmc.org/c/92831)
+- **Change #:** 92831
+- **Author:** Nishant Tiwari
+- **Updated:** 2026-07-31 14:57:23.000000000
+
+### [Fix translation bugs and remove unused keys](https://gerrit.openbmc.org/c/93049)
+- **Change #:** 93049
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-07-31 14:13:28.000000000
+
+### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
+- **Change #:** 92551
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-07-31 12:59:21.000000000
 
 ### [Add Chinese translation](https://gerrit.openbmc.org/c/92930)
 - **Change #:** 92930
 - **Author:** SKYCATV587
 - **Updated:** 2026-07-31 08:23:39.000000000
-
-### [OWNERS: prune inactive members](https://gerrit.openbmc.org/c/92987)
-- **Change #:** 92987
-- **Author:** Patrick Williams
-- **Updated:** 2026-07-31 02:08:09.000000000
-
-### [Add Socket Security CLI integration for supply-chain checks](https://gerrit.openbmc.org/c/92831)
-- **Change #:** 92831
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-07-29 07:53:03.000000000
-
-### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
-- **Change #:** 91277
-- **Author:** Jason Westover
-- **Updated:** 2026-07-29 07:22:38.000000000
 
 ---
 
