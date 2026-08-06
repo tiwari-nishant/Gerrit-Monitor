@@ -1,10 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-08-05 09:36:29 UTC
+**Generated:** 2026-08-06 09:38:59 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-08-03 to 2026-08-05 (2 days)
-**Total Changes:** 0
+**Period:** 2026-08-04 to 2026-08-06 (2 days)
+**Total Changes:** 1
 
 ---
+
+## 🔍 Open Changes Awaiting Review (1)
+
+### [OWNERS: prune inactive members](https://gerrit.openbmc.org/c/92987)
+- **Change #:** 92987
+- **Author:** Patrick Williams
+- **Updated:** 2026-08-06 04:16:27.000000000
 
 ---
 
