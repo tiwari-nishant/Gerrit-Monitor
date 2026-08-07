@@ -1,17 +1,29 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-08-06 09:38:59 UTC
+**Generated:** 2026-08-07 08:13:36 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-08-04 to 2026-08-06 (2 days)
-**Total Changes:** 1
+**Period:** 2026-08-05 to 2026-08-07 (2 days)
+**Total Changes:** 3
 
 ---
 
-## 🔍 Open Changes Awaiting Review (1)
+## 🔍 Open Changes Awaiting Review (2)
+
+### [Replace v-model with :model-value in Policies](https://gerrit.openbmc.org/c/92502)
+- **Change #:** 92502
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-08-07 01:43:52.000000000
+
+### [Add Chinese translation](https://gerrit.openbmc.org/c/92930)
+- **Change #:** 92930
+- **Author:** SKYCATV587
+- **Updated:** 2026-08-06 14:08:36.000000000
+
+## ❌ Abandoned Changes (1)
 
 ### [OWNERS: prune inactive members](https://gerrit.openbmc.org/c/92987)
 - **Change #:** 92987
 - **Author:** Patrick Williams
-- **Updated:** 2026-08-06 04:16:27.000000000
+- **Updated:** 2026-08-06 14:00:47.000000000
 
 ---
 
