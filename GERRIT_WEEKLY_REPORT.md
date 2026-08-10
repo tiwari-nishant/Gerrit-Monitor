@@ -1,22 +1,10 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-08-09 07:53:18 UTC
+**Generated:** 2026-08-10 08:25:42 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-08-07 to 2026-08-09 (2 days)
-**Total Changes:** 2
+**Period:** 2026-08-08 to 2026-08-10 (2 days)
+**Total Changes:** 0
 
 ---
-
-## 🔍 Open Changes Awaiting Review (2)
-
-### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
-- **Change #:** 92370
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-08-07 11:17:59.000000000
-
-### [Replace v-model with :model-value in Policies](https://gerrit.openbmc.org/c/92502)
-- **Change #:** 92502
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-08-07 01:43:52.000000000
 
 ---
 
