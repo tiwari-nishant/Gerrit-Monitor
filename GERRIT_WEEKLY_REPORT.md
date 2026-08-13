@@ -1,32 +1,51 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-08-12 08:16:38 UTC
+**Generated:** 2026-08-13 08:20:05 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-08-10 to 2026-08-12 (2 days)
-**Total Changes:** 7
+**Period:** 2026-08-11 to 2026-08-13 (2 days)
+**Total Changes:** 9
 
 ---
 
-## 🔍 Open Changes Awaiting Review (7)
+## ✅ Merged Changes (2)
 
 ### [show specific error for duplicate SNMP alert destination](https://gerrit.openbmc.org/c/93409)
 - **Change #:** 93409
 - **Author:** Vijaysankar Ravi
-- **Updated:** 2026-08-12 07:30:43.000000000
+- **Changes:** +9 / -1 lines
+- **Updated:** 2026-08-12 13:44:58.000000000
+
+### [Replace v-model with :model-value in Policies](https://gerrit.openbmc.org/c/92502)
+- **Change #:** 92502
+- **Author:** Nikhil Ashoka
+- **Changes:** +16 / -49 lines
+- **Updated:** 2026-08-12 13:31:34.000000000
+
+## 🔍 Open Changes Awaiting Review (7)
+
+### [Fix header checkbox select-all in View All mode](https://gerrit.openbmc.org/c/92473)
+- **Change #:** 92473
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-08-13 07:44:20.000000000
+
+### [Add Socket Security CLI integration for supply-chain checks](https://gerrit.openbmc.org/c/92831)
+- **Change #:** 92831
+- **Author:** Nishant Tiwari
+- **Updated:** 2026-08-13 06:16:50.000000000
+
+### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
+- **Change #:** 91086
+- **Author:** Nishant Tiwari
+- **Updated:** 2026-08-13 06:12:23.000000000
+
+### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
+- **Change #:** 92551
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-08-12 08:36:46.000000000
 
 ### [Implemented Sessions page with VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
 - **Change #:** 91253
 - **Author:** Vedangi Mittal
 - **Updated:** 2026-08-12 07:29:51.000000000
-
-### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
-- **Change #:** 91086
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-08-12 07:09:11.000000000
-
-### [Add Socket Security CLI integration for supply-chain checks](https://gerrit.openbmc.org/c/92831)
-- **Change #:** 92831
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-08-12 06:33:22.000000000
 
 ### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
 - **Change #:** 93394
@@ -37,11 +56,6 @@
 - **Change #:** 93049
 - **Author:** Nikhil Ashoka
 - **Updated:** 2026-08-11 09:14:37.000000000
-
-### [Replace v-model with :model-value in Policies](https://gerrit.openbmc.org/c/92502)
-- **Change #:** 92502
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-08-11 08:20:07.000000000
 
 ---
 
