@@ -1,12 +1,18 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-08-13 08:20:05 UTC
+**Generated:** 2026-08-14 08:14:52 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-08-11 to 2026-08-13 (2 days)
-**Total Changes:** 9
+**Period:** 2026-08-12 to 2026-08-14 (2 days)
+**Total Changes:** 10
 
 ---
 
-## ✅ Merged Changes (2)
+## ✅ Merged Changes (3)
+
+### [Fix header checkbox select-all in View All mode](https://gerrit.openbmc.org/c/92473)
+- **Change #:** 92473
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Changes:** +16 / -8 lines
+- **Updated:** 2026-08-14 04:40:01.000000000
 
 ### [show specific error for duplicate SNMP alert destination](https://gerrit.openbmc.org/c/93409)
 - **Change #:** 93409
@@ -22,10 +28,20 @@
 
 ## 🔍 Open Changes Awaiting Review (7)
 
-### [Fix header checkbox select-all in View All mode](https://gerrit.openbmc.org/c/92473)
-- **Change #:** 92473
+### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
+- **Change #:** 92370
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-08-13 07:44:20.000000000
+- **Updated:** 2026-08-14 06:06:07.000000000
+
+### [Pin floating package versions and add automated security audit](https://gerrit.openbmc.org/c/93490)
+- **Change #:** 93490
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-08-14 05:59:48.000000000
+
+### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
+- **Change #:** 93394
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-08-14 05:55:05.000000000
 
 ### [Add Socket Security CLI integration for supply-chain checks](https://gerrit.openbmc.org/c/92831)
 - **Change #:** 92831
@@ -46,16 +62,6 @@
 - **Change #:** 91253
 - **Author:** Vedangi Mittal
 - **Updated:** 2026-08-12 07:29:51.000000000
-
-### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
-- **Change #:** 93394
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-08-12 05:38:00.000000000
-
-### [Fix translation bugs and remove unused keys](https://gerrit.openbmc.org/c/93049)
-- **Change #:** 93049
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-08-11 09:14:37.000000000
 
 ---
 
