@@ -1,8 +1,8 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-08-15 07:30:22 UTC
+**Generated:** 2026-08-16 07:30:00 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-08-13 to 2026-08-15 (2 days)
-**Total Changes:** 9
+**Period:** 2026-08-14 to 2026-08-16 (2 days)
+**Total Changes:** 7
 
 ---
 
@@ -14,7 +14,7 @@
 - **Changes:** +16 / -8 lines
 - **Updated:** 2026-08-14 04:40:01.000000000
 
-## 🔍 Open Changes Awaiting Review (8)
+## 🔍 Open Changes Awaiting Review (6)
 
 ### [Pin floating package versions and add automated security audit](https://gerrit.openbmc.org/c/93490)
 - **Change #:** 93490
@@ -45,16 +45,6 @@
 - **Change #:** 93394
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-08-14 05:55:05.000000000
-
-### [Add Socket Security CLI integration for supply-chain checks](https://gerrit.openbmc.org/c/92831)
-- **Change #:** 92831
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-08-13 06:16:50.000000000
-
-### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
-- **Change #:** 91086
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-08-13 06:12:23.000000000
 
 ---
 
