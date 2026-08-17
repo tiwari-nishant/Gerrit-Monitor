@@ -1,50 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-08-16 07:30:00 UTC
+**Generated:** 2026-08-17 07:52:13 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-08-14 to 2026-08-16 (2 days)
-**Total Changes:** 7
+**Period:** 2026-08-15 to 2026-08-17 (2 days)
+**Total Changes:** 1
 
 ---
 
-## ✅ Merged Changes (1)
-
-### [Fix header checkbox select-all in View All mode](https://gerrit.openbmc.org/c/92473)
-- **Change #:** 92473
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Changes:** +16 / -8 lines
-- **Updated:** 2026-08-14 04:40:01.000000000
-
-## 🔍 Open Changes Awaiting Review (6)
-
-### [Pin floating package versions and add automated security audit](https://gerrit.openbmc.org/c/93490)
-- **Change #:** 93490
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-08-14 20:09:05.000000000
-
-### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
-- **Change #:** 92370
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-08-14 10:59:48.000000000
+## 🔍 Open Changes Awaiting Review (1)
 
 ### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
 - **Change #:** 92551
 - **Author:** Nikhil Ashoka
-- **Updated:** 2026-08-14 10:35:39.000000000
-
-### [Add asset tag edit functionality to overview page](https://gerrit.openbmc.org/c/92419)
-- **Change #:** 92419
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-08-14 09:50:22.000000000
-
-### [Fix translation bugs and remove unused keys](https://gerrit.openbmc.org/c/93049)
-- **Change #:** 93049
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-08-14 09:35:52.000000000
-
-### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
-- **Change #:** 93394
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-08-14 05:55:05.000000000
+- **Updated:** 2026-08-17 07:21:03.000000000
 
 ---
 
