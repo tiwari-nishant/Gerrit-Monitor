@@ -1,17 +1,47 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-08-17 07:52:13 UTC
+**Generated:** 2026-08-18 07:36:52 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-08-15 to 2026-08-17 (2 days)
-**Total Changes:** 1
+**Period:** 2026-08-16 to 2026-08-18 (2 days)
+**Total Changes:** 7
 
 ---
 
-## 🔍 Open Changes Awaiting Review (1)
+## 🔍 Open Changes Awaiting Review (7)
+
+### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
+- **Change #:** 93490
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-08-18 07:14:18.000000000
+
+### [Add Socket Security CLI integration for supply-chain checks](https://gerrit.openbmc.org/c/92831)
+- **Change #:** 92831
+- **Author:** Nishant Tiwari
+- **Updated:** 2026-08-18 07:13:21.000000000
+
+### [Fix translation bugs and remove unused keys](https://gerrit.openbmc.org/c/93049)
+- **Change #:** 93049
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-08-18 07:00:36.000000000
+
+### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
+- **Change #:** 92370
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-08-18 05:18:54.000000000
+
+### [Security: Pin floating package versions](https://gerrit.openbmc.org/c/93620)
+- **Change #:** 93620
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-08-17 15:47:52.000000000
 
 ### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
 - **Change #:** 92551
 - **Author:** Nikhil Ashoka
-- **Updated:** 2026-08-17 07:21:03.000000000
+- **Updated:** 2026-08-17 15:38:35.000000000
+
+### [Sessions page - VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
+- **Change #:** 91253
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-08-17 11:05:03.000000000
 
 ---
 
