@@ -1,12 +1,27 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-08-18 07:36:52 UTC
+**Generated:** 2026-08-19 07:37:10 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-08-16 to 2026-08-18 (2 days)
-**Total Changes:** 7
+**Period:** 2026-08-17 to 2026-08-19 (2 days)
+**Total Changes:** 9
 
 ---
 
-## 🔍 Open Changes Awaiting Review (7)
+## 🔍 Open Changes Awaiting Review (9)
+
+### [Fix auth popup on login page with env builds](https://gerrit.openbmc.org/c/93682)
+- **Change #:** 93682
+- **Author:** Jason Bills
+- **Updated:** 2026-08-19 07:19:21.000000000
+
+### [Fix translation bugs and remove unused keys](https://gerrit.openbmc.org/c/93049)
+- **Change #:** 93049
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-08-19 06:59:44.000000000
+
+### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
+- **Change #:** 91086
+- **Author:** Nishant Tiwari
+- **Updated:** 2026-08-18 10:59:12.000000000
 
 ### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
 - **Change #:** 93490
@@ -17,11 +32,6 @@
 - **Change #:** 92831
 - **Author:** Nishant Tiwari
 - **Updated:** 2026-08-18 07:13:21.000000000
-
-### [Fix translation bugs and remove unused keys](https://gerrit.openbmc.org/c/93049)
-- **Change #:** 93049
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-08-18 07:00:36.000000000
 
 ### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
 - **Change #:** 92370
