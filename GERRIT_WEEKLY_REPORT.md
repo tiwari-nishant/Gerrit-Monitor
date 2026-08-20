@@ -1,22 +1,22 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-08-19 07:37:10 UTC
+**Generated:** 2026-08-20 07:39:40 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-08-17 to 2026-08-19 (2 days)
-**Total Changes:** 9
+**Period:** 2026-08-18 to 2026-08-20 (2 days)
+**Total Changes:** 6
 
 ---
 
-## 🔍 Open Changes Awaiting Review (9)
-
-### [Fix auth popup on login page with env builds](https://gerrit.openbmc.org/c/93682)
-- **Change #:** 93682
-- **Author:** Jason Bills
-- **Updated:** 2026-08-19 07:19:21.000000000
+## 🔍 Open Changes Awaiting Review (6)
 
 ### [Fix translation bugs and remove unused keys](https://gerrit.openbmc.org/c/93049)
 - **Change #:** 93049
 - **Author:** Nikhil Ashoka
-- **Updated:** 2026-08-19 06:59:44.000000000
+- **Updated:** 2026-08-20 05:39:49.000000000
+
+### [Fix auth popup on login page with env builds](https://gerrit.openbmc.org/c/93682)
+- **Change #:** 93682
+- **Author:** Jason Bills
+- **Updated:** 2026-08-20 04:08:19.000000000
 
 ### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
 - **Change #:** 91086
@@ -37,21 +37,6 @@
 - **Change #:** 92370
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-08-18 05:18:54.000000000
-
-### [Security: Pin floating package versions](https://gerrit.openbmc.org/c/93620)
-- **Change #:** 93620
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-08-17 15:47:52.000000000
-
-### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
-- **Change #:** 92551
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-08-17 15:38:35.000000000
-
-### [Sessions page - VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
-- **Change #:** 91253
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-08-17 11:05:03.000000000
 
 ---
 
