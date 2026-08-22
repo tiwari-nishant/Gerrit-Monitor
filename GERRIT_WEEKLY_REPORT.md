@@ -1,7 +1,7 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-08-21 07:41:02 UTC
+**Generated:** 2026-08-22 07:30:36 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-08-19 to 2026-08-21 (2 days)
+**Period:** 2026-08-20 to 2026-08-22 (2 days)
 **Total Changes:** 8
 
 ---
@@ -22,15 +22,15 @@
 
 ## 🔍 Open Changes Awaiting Review (6)
 
+### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
+- **Change #:** 91863
+- **Author:** Tan Siewert
+- **Updated:** 2026-08-21 19:44:08.000000000
+
 ### [Security: Pin floating package versions](https://gerrit.openbmc.org/c/93620)
 - **Change #:** 93620
 - **Author:** Nikhil Ashoka
 - **Updated:** 2026-08-21 04:24:57.000000000
-
-### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
-- **Change #:** 91863
-- **Author:** Tan Siewert
-- **Updated:** 2026-08-21 03:53:44.000000000
 
 ### [Sessions page - VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
 - **Change #:** 91253
