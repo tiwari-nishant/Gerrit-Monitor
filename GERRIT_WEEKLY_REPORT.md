@@ -1,26 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-08-22 07:30:36 UTC
+**Generated:** 2026-08-23 07:32:26 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-08-20 to 2026-08-22 (2 days)
-**Total Changes:** 8
+**Period:** 2026-08-21 to 2026-08-23 (2 days)
+**Total Changes:** 2
 
 ---
 
-## ✅ Merged Changes (2)
-
-### [Fix auth popup on login page with env builds](https://gerrit.openbmc.org/c/93682)
-- **Change #:** 93682
-- **Author:** Jason Bills
-- **Changes:** +9 / -9 lines
-- **Updated:** 2026-08-20 14:29:19.000000000
-
-### [Fix translation bugs and remove unused keys](https://gerrit.openbmc.org/c/93049)
-- **Change #:** 93049
-- **Author:** Nikhil Ashoka
-- **Changes:** +22 / -132 lines
-- **Updated:** 2026-08-20 09:27:27.000000000
-
-## 🔍 Open Changes Awaiting Review (6)
+## 🔍 Open Changes Awaiting Review (2)
 
 ### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
 - **Change #:** 91863
@@ -31,26 +17,6 @@
 - **Change #:** 93620
 - **Author:** Nikhil Ashoka
 - **Updated:** 2026-08-21 04:24:57.000000000
-
-### [Sessions page - VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
-- **Change #:** 91253
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-08-20 15:37:39.000000000
-
-### [Revert policy selection on save error](https://gerrit.openbmc.org/c/93772)
-- **Change #:** 93772
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-08-20 15:35:56.000000000
-
-### [Add Socket Security CLI integration for supply-chain checks](https://gerrit.openbmc.org/c/92831)
-- **Change #:** 92831
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-08-20 15:24:00.000000000
-
-### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
-- **Change #:** 93394
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-08-20 15:21:41.000000000
 
 ---
 
