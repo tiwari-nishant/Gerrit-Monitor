@@ -1,22 +1,27 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-08-23 07:32:26 UTC
+**Generated:** 2026-08-24 07:57:10 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-08-21 to 2026-08-23 (2 days)
-**Total Changes:** 2
+**Period:** 2026-08-22 to 2026-08-24 (2 days)
+**Total Changes:** 3
 
 ---
 
-## 🔍 Open Changes Awaiting Review (2)
+## 🔍 Open Changes Awaiting Review (3)
 
-### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
-- **Change #:** 91863
-- **Author:** Tan Siewert
-- **Updated:** 2026-08-21 19:44:08.000000000
+### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
+- **Change #:** 93490
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-08-24 06:56:09.000000000
+
+### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
+- **Change #:** 93394
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-08-24 06:43:31.000000000
 
 ### [Security: Pin floating package versions](https://gerrit.openbmc.org/c/93620)
 - **Change #:** 93620
 - **Author:** Nikhil Ashoka
-- **Updated:** 2026-08-21 04:24:57.000000000
+- **Updated:** 2026-08-24 05:03:19.000000000
 
 ---
 
