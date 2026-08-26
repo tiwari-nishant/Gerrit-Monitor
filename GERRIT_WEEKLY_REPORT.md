@@ -1,12 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-08-25 07:42:15 UTC
+**Generated:** 2026-08-26 07:44:57 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-08-23 to 2026-08-25 (2 days)
+**Period:** 2026-08-24 to 2026-08-26 (2 days)
 **Total Changes:** 3
 
 ---
 
 ## 🔍 Open Changes Awaiting Review (3)
+
+### [Security: Pin floating package versions](https://gerrit.openbmc.org/c/93620)
+- **Change #:** 93620
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-08-25 17:44:28.000000000
 
 ### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
 - **Change #:** 93490
@@ -17,11 +22,6 @@
 - **Change #:** 93394
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-08-24 13:30:57.000000000
-
-### [Security: Pin floating package versions](https://gerrit.openbmc.org/c/93620)
-- **Change #:** 93620
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-08-24 13:24:29.000000000
 
 ---
 
