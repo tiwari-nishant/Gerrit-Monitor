@@ -1,27 +1,25 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-08-27 18:06:24 UTC
+**Generated:** 2026-08-28 19:16:18 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-08-25 to 2026-08-27 (2 days)
-**Total Changes:** 3
+**Period:** 2026-08-26 to 2026-08-28 (2 days)
+**Total Changes:** 2
 
 ---
 
-## 🔍 Open Changes Awaiting Review (3)
+## ✅ Merged Changes (1)
+
+### [Fix form conditions that test nonexistent properties](https://gerrit.openbmc.org/c/94011)
+- **Change #:** 94011
+- **Author:** BillChanJabil
+- **Changes:** +9 / -11 lines
+- **Updated:** 2026-08-28 03:19:32.000000000
+
+## 🔍 Open Changes Awaiting Review (1)
 
 ### [Add Socket Firewall workflow for supply-chain checks](https://gerrit.openbmc.org/c/92831)
 - **Change #:** 92831
 - **Author:** Nishant Tiwari
 - **Updated:** 2026-08-27 12:40:07.000000000
-
-### [Fix misspelled property references in forms](https://gerrit.openbmc.org/c/94011)
-- **Change #:** 94011
-- **Author:** BillChanJabil
-- **Updated:** 2026-08-27 07:35:01.000000000
-
-### [Security: Pin floating package versions](https://gerrit.openbmc.org/c/93620)
-- **Change #:** 93620
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-08-25 17:44:28.000000000
 
 ---
 
