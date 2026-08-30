@@ -1,8 +1,8 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-08-29 12:58:17 UTC
+**Generated:** 2026-08-30 12:37:09 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-08-27 to 2026-08-29 (2 days)
-**Total Changes:** 2
+**Period:** 2026-08-28 to 2026-08-30 (2 days)
+**Total Changes:** 1
 
 ---
 
@@ -13,13 +13,6 @@
 - **Author:** BillChanJabil
 - **Changes:** +9 / -11 lines
 - **Updated:** 2026-08-28 03:19:32.000000000
-
-## 🔍 Open Changes Awaiting Review (1)
-
-### [Add Socket Firewall workflow for supply-chain checks](https://gerrit.openbmc.org/c/92831)
-- **Change #:** 92831
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-08-27 12:40:07.000000000
 
 ---
 
