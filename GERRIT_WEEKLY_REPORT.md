@@ -1,35 +1,22 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-02 11:57:43 UTC
+**Generated:** 2026-09-03 11:57:23 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-08-31 to 2026-09-02 (2 days)
-**Total Changes:** 4
+**Period:** 2026-09-01 to 2026-09-03 (2 days)
+**Total Changes:** 2
 
 ---
 
-## ✅ Merged Changes (1)
+## 🔍 Open Changes Awaiting Review (2)
 
-### [Security: Pin floating package versions](https://gerrit.openbmc.org/c/93620)
-- **Change #:** 93620
-- **Author:** Nikhil Ashoka
-- **Changes:** +4 / -4 lines
-- **Updated:** 2026-08-31 14:20:23.000000000
-
-## 🔍 Open Changes Awaiting Review (3)
+### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
+- **Change #:** 92370
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-09-03 05:35:00.000000000
 
 ### [docs: Rework webui-vue offline build/SBOM design](https://gerrit.openbmc.org/c/91790)
 - **Change #:** 91790
 - **Author:** Jason Westover
 - **Updated:** 2026-09-01 16:53:21.000000000
-
-### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
-- **Change #:** 93490
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-08-31 14:20:59.000000000
-
-### [Add Socket Firewall workflow for supply-chain checks](https://gerrit.openbmc.org/c/92831)
-- **Change #:** 92831
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-08-31 07:02:32.000000000
 
 ---
 
