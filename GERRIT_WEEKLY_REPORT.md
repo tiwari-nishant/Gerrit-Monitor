@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-05 11:08:28 UTC
+**Generated:** 2026-09-06 11:31:29 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-03 to 2026-09-05 (2 days)
-**Total Changes:** 3
+**Period:** 2026-09-04 to 2026-09-06 (2 days)
+**Total Changes:** 2
 
 ---
 
-## 🔍 Open Changes Awaiting Review (3)
+## 🔍 Open Changes Awaiting Review (2)
 
 ### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
 - **Change #:** 92551
@@ -17,11 +17,6 @@
 - **Change #:** 93490
 - **Author:** Nikhil Ashoka
 - **Updated:** 2026-09-04 05:41:15.000000000
-
-### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
-- **Change #:** 92370
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-03 05:35:00.000000000
 
 ---
 
