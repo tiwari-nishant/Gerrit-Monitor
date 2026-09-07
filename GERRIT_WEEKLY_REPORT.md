@@ -1,22 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-06 11:31:29 UTC
+**Generated:** 2026-09-07 13:18:04 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-04 to 2026-09-06 (2 days)
-**Total Changes:** 2
+**Period:** 2026-09-05 to 2026-09-07 (2 days)
+**Total Changes:** 1
 
 ---
 
-## 🔍 Open Changes Awaiting Review (2)
+## 🔍 Open Changes Awaiting Review (1)
 
-### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
-- **Change #:** 92551
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-09-04 06:18:00.000000000
-
-### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
-- **Change #:** 93490
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-09-04 05:41:15.000000000
+### [Add Socket Firewall workflow for supply-chain checks](https://gerrit.openbmc.org/c/92831)
+- **Change #:** 92831
+- **Author:** Nishant Tiwari
+- **Updated:** 2026-09-07 06:24:55.000000000
 
 ---
 
