@@ -1,12 +1,32 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-07 13:18:04 UTC
+**Generated:** 2026-09-08 11:59:13 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-05 to 2026-09-07 (2 days)
-**Total Changes:** 1
+**Period:** 2026-09-06 to 2026-09-08 (2 days)
+**Total Changes:** 5
 
 ---
 
-## 🔍 Open Changes Awaiting Review (1)
+## 🔍 Open Changes Awaiting Review (5)
+
+### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
+- **Change #:** 91863
+- **Author:** Tan Siewert
+- **Updated:** 2026-09-08 11:03:51.000000000
+
+### [Sessions page - VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
+- **Change #:** 91253
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-09-08 09:56:46.000000000
+
+### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
+- **Change #:** 92551
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-09-08 06:04:12.000000000
+
+### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
+- **Change #:** 93490
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-09-07 16:52:21.000000000
 
 ### [Add Socket Firewall workflow for supply-chain checks](https://gerrit.openbmc.org/c/92831)
 - **Change #:** 92831
