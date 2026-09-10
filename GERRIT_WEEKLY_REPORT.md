@@ -1,17 +1,37 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-09 12:10:13 UTC
+**Generated:** 2026-09-10 12:03:57 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-07 to 2026-09-09 (2 days)
-**Total Changes:** 5
+**Period:** 2026-09-08 to 2026-09-10 (2 days)
+**Total Changes:** 8
 
 ---
 
-## 🔍 Open Changes Awaiting Review (5)
+## 🔍 Open Changes Awaiting Review (7)
+
+### [Add asset tag edit functionality to overview page](https://gerrit.openbmc.org/c/92419)
+- **Change #:** 92419
+- **Author:** Nishant Tiwari
+- **Updated:** 2026-09-10 10:31:18.000000000
+
+### [Revert policy selection on save error](https://gerrit.openbmc.org/c/93772)
+- **Change #:** 93772
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-09-10 07:25:46.000000000
 
 ### [Add Socket Firewall workflow for supply-chain checks](https://gerrit.openbmc.org/c/92831)
 - **Change #:** 92831
 - **Author:** Nishant Tiwari
-- **Updated:** 2026-09-09 09:35:09.000000000
+- **Updated:** 2026-09-10 06:36:50.000000000
+
+### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
+- **Change #:** 93394
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-09-10 05:41:42.000000000
+
+### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
+- **Change #:** 92551
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-09-09 13:09:49.000000000
 
 ### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
 - **Change #:** 91863
@@ -23,15 +43,12 @@
 - **Author:** Vedangi Mittal
 - **Updated:** 2026-09-08 09:56:46.000000000
 
-### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
-- **Change #:** 92551
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-09-08 06:04:12.000000000
+## ❌ Abandoned Changes (1)
 
-### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
-- **Change #:** 93490
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-09-07 16:52:21.000000000
+### [Prevent whitespace in role group names and tidy up input](https://gerrit.openbmc.org/c/72463)
+- **Change #:** 72463
+- **Author:** Farah Rasheed
+- **Updated:** 2026-09-09 21:33:08.000000000
 
 ---
 
