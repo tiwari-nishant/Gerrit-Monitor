@@ -1,27 +1,65 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-10 12:03:57 UTC
+**Generated:** 2026-09-11 12:02:13 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-08 to 2026-09-10 (2 days)
-**Total Changes:** 8
+**Period:** 2026-09-09 to 2026-09-11 (2 days)
+**Total Changes:** 13
 
 ---
 
-## 🔍 Open Changes Awaiting Review (7)
+## ✅ Merged Changes (1)
+
+### [docs: Rework webui-vue offline build/SBOM design](https://gerrit.openbmc.org/c/91790)
+- **Change #:** 91790
+- **Author:** Jason Westover
+- **Changes:** +116 / -0 lines
+- **Updated:** 2026-09-11 01:12:10.000000000
+
+## 🔍 Open Changes Awaiting Review (11)
+
+### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
+- **Change #:** 92370
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-09-11 10:01:17.000000000
 
 ### [Add asset tag edit functionality to overview page](https://gerrit.openbmc.org/c/92419)
 - **Change #:** 92419
 - **Author:** Nishant Tiwari
-- **Updated:** 2026-09-10 10:31:18.000000000
+- **Updated:** 2026-09-11 09:12:01.000000000
+
+### [Sessions page - VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
+- **Change #:** 91253
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-09-11 07:27:18.000000000
+
+### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
+- **Change #:** 91277
+- **Author:** Jason Westover
+- **Updated:** 2026-09-11 07:27:15.000000000
+
+### [Sort package.json dependencies alphabetically](https://gerrit.openbmc.org/c/91317)
+- **Change #:** 91317
+- **Author:** Jason Westover
+- **Updated:** 2026-09-11 07:27:05.000000000
+
+### [Refactor Redfish API client](https://gerrit.openbmc.org/c/91267)
+- **Change #:** 91267
+- **Author:** Jason Westover
+- **Updated:** 2026-09-11 07:26:50.000000000
+
+### [Lock table columns and fix Event Logs buttons](https://gerrit.openbmc.org/c/94432)
+- **Change #:** 94432
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-09-11 07:25:42.000000000
 
 ### [Revert policy selection on save error](https://gerrit.openbmc.org/c/93772)
 - **Change #:** 93772
 - **Author:** Vedangi Mittal
-- **Updated:** 2026-09-10 07:25:46.000000000
+- **Updated:** 2026-09-11 06:45:36.000000000
 
 ### [Add Socket Firewall workflow for supply-chain checks](https://gerrit.openbmc.org/c/92831)
 - **Change #:** 92831
 - **Author:** Nishant Tiwari
-- **Updated:** 2026-09-10 06:36:50.000000000
+- **Updated:** 2026-09-11 06:44:06.000000000
 
 ### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
 - **Change #:** 93394
@@ -32,16 +70,6 @@
 - **Change #:** 92551
 - **Author:** Nikhil Ashoka
 - **Updated:** 2026-09-09 13:09:49.000000000
-
-### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
-- **Change #:** 91863
-- **Author:** Tan Siewert
-- **Updated:** 2026-09-08 11:03:51.000000000
-
-### [Sessions page - VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
-- **Change #:** 91253
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-09-08 09:56:46.000000000
 
 ## ❌ Abandoned Changes (1)
 
