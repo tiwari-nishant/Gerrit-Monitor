@@ -1,8 +1,8 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-11 12:02:13 UTC
+**Generated:** 2026-09-12 11:29:24 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-09 to 2026-09-11 (2 days)
-**Total Changes:** 13
+**Period:** 2026-09-10 to 2026-09-12 (2 days)
+**Total Changes:** 12
 
 ---
 
@@ -15,6 +15,16 @@
 - **Updated:** 2026-09-11 01:12:10.000000000
 
 ## 🔍 Open Changes Awaiting Review (11)
+
+### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
+- **Change #:** 91863
+- **Author:** Tan Siewert
+- **Updated:** 2026-09-11 22:45:09.000000000
+
+### [Sort package.json dependencies alphabetically](https://gerrit.openbmc.org/c/91317)
+- **Change #:** 91317
+- **Author:** Jason Westover
+- **Updated:** 2026-09-11 13:33:38.000000000
 
 ### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
 - **Change #:** 92370
@@ -35,11 +45,6 @@
 - **Change #:** 91277
 - **Author:** Jason Westover
 - **Updated:** 2026-09-11 07:27:15.000000000
-
-### [Sort package.json dependencies alphabetically](https://gerrit.openbmc.org/c/91317)
-- **Change #:** 91317
-- **Author:** Jason Westover
-- **Updated:** 2026-09-11 07:27:05.000000000
 
 ### [Refactor Redfish API client](https://gerrit.openbmc.org/c/91267)
 - **Change #:** 91267
@@ -65,18 +70,6 @@
 - **Change #:** 93394
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-09-10 05:41:42.000000000
-
-### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
-- **Change #:** 92551
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-09-09 13:09:49.000000000
-
-## ❌ Abandoned Changes (1)
-
-### [Prevent whitespace in role group names and tidy up input](https://gerrit.openbmc.org/c/72463)
-- **Change #:** 72463
-- **Author:** Farah Rasheed
-- **Updated:** 2026-09-09 21:33:08.000000000
 
 ---
 
