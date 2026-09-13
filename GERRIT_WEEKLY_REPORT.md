@@ -1,8 +1,8 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-12 11:29:24 UTC
+**Generated:** 2026-09-13 12:33:35 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-10 to 2026-09-12 (2 days)
-**Total Changes:** 12
+**Period:** 2026-09-11 to 2026-09-13 (2 days)
+**Total Changes:** 11
 
 ---
 
@@ -14,7 +14,7 @@
 - **Changes:** +116 / -0 lines
 - **Updated:** 2026-09-11 01:12:10.000000000
 
-## 🔍 Open Changes Awaiting Review (11)
+## 🔍 Open Changes Awaiting Review (10)
 
 ### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
 - **Change #:** 91863
@@ -65,11 +65,6 @@
 - **Change #:** 92831
 - **Author:** Nishant Tiwari
 - **Updated:** 2026-09-11 06:44:06.000000000
-
-### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
-- **Change #:** 93394
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-10 05:41:42.000000000
 
 ---
 
