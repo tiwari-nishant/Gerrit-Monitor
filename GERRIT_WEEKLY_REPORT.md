@@ -1,12 +1,31 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-14 13:40:30 UTC
+**Generated:** 2026-09-15 12:28:39 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-12 to 2026-09-14 (2 days)
-**Total Changes:** 4
+**Period:** 2026-09-13 to 2026-09-15 (2 days)
+**Total Changes:** 7
 
 ---
 
-## 🔍 Open Changes Awaiting Review (4)
+## ✅ Merged Changes (2)
+
+### [Add Socket Firewall workflow for supply-chain checks](https://gerrit.openbmc.org/c/92831)
+- **Change #:** 92831
+- **Author:** Nishant Tiwari
+- **Changes:** +30 / -0 lines
+- **Updated:** 2026-09-15 06:30:20.000000000
+
+### [Revert policy selection on save error](https://gerrit.openbmc.org/c/93772)
+- **Change #:** 93772
+- **Author:** Vedangi Mittal
+- **Changes:** +10 / -14 lines
+- **Updated:** 2026-09-15 06:29:40.000000000
+
+## 🔍 Open Changes Awaiting Review (5)
+
+### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
+- **Change #:** 93490
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-09-15 07:02:25.000000000
 
 ### [Fix reversed expand chevron in the event log table](https://gerrit.openbmc.org/c/94475)
 - **Change #:** 94475
