@@ -1,8 +1,8 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-15 12:28:39 UTC
+**Generated:** 2026-09-16 12:26:20 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-13 to 2026-09-15 (2 days)
-**Total Changes:** 7
+**Period:** 2026-09-14 to 2026-09-16 (2 days)
+**Total Changes:** 9
 
 ---
 
@@ -20,17 +20,27 @@
 - **Changes:** +10 / -14 lines
 - **Updated:** 2026-09-15 06:29:40.000000000
 
-## 🔍 Open Changes Awaiting Review (5)
-
-### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
-- **Change #:** 93490
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-09-15 07:02:25.000000000
+## 🔍 Open Changes Awaiting Review (7)
 
 ### [Fix reversed expand chevron in the event log table](https://gerrit.openbmc.org/c/94475)
 - **Change #:** 94475
 - **Author:** BillChanJabil
-- **Updated:** 2026-09-14 05:33:10.000000000
+- **Updated:** 2026-09-16 06:44:51.000000000
+
+### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
+- **Change #:** 92370
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-09-16 05:49:18.000000000
+
+### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
+- **Change #:** 93394
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-09-16 05:48:59.000000000
+
+### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
+- **Change #:** 93490
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-09-16 05:45:57.000000000
 
 ### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
 - **Change #:** 91277
