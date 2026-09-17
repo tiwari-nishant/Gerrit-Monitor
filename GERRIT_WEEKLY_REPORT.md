@@ -1,12 +1,18 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-16 12:26:20 UTC
+**Generated:** 2026-09-17 12:26:16 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-14 to 2026-09-16 (2 days)
-**Total Changes:** 9
+**Period:** 2026-09-15 to 2026-09-17 (2 days)
+**Total Changes:** 13
 
 ---
 
-## ✅ Merged Changes (2)
+## ✅ Merged Changes (3)
+
+### [Fix reversed expand chevron in the event log table](https://gerrit.openbmc.org/c/94475)
+- **Change #:** 94475
+- **Author:** BillChanJabil
+- **Changes:** +2 / -4 lines
+- **Updated:** 2026-09-17 03:10:51.000000000
 
 ### [Add Socket Firewall workflow for supply-chain checks](https://gerrit.openbmc.org/c/92831)
 - **Change #:** 92831
@@ -20,42 +26,57 @@
 - **Changes:** +10 / -14 lines
 - **Updated:** 2026-09-15 06:29:40.000000000
 
-## 🔍 Open Changes Awaiting Review (7)
+## 🔍 Open Changes Awaiting Review (10)
 
-### [Fix reversed expand chevron in the event log table](https://gerrit.openbmc.org/c/94475)
-- **Change #:** 94475
+### [Refactor Redfish API client](https://gerrit.openbmc.org/c/91267)
+- **Change #:** 91267
+- **Author:** Jason Westover
+- **Updated:** 2026-09-17 09:23:35.000000000
+
+### [Sessions page - VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
+- **Change #:** 91253
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-09-17 09:10:02.000000000
+
+### [Register StatusIcon in the firmware version cards](https://gerrit.openbmc.org/c/94623)
+- **Change #:** 94623
 - **Author:** BillChanJabil
-- **Updated:** 2026-09-16 06:44:51.000000000
+- **Updated:** 2026-09-17 09:06:00.000000000
+
+### [Fix the missing status icon in the sensors table](https://gerrit.openbmc.org/c/94645)
+- **Change #:** 94645
+- **Author:** BillChanJabil
+- **Updated:** 2026-09-17 09:03:12.000000000
+
+### [Sort package.json dependencies alphabetically](https://gerrit.openbmc.org/c/91317)
+- **Change #:** 91317
+- **Author:** Jason Westover
+- **Updated:** 2026-09-17 08:51:35.000000000
+
+### [Fix missing json extension on Export All downloads](https://gerrit.openbmc.org/c/94637)
+- **Change #:** 94637
+- **Author:** BillChanJabil
+- **Updated:** 2026-09-17 07:57:58.000000000
 
 ### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
 - **Change #:** 92370
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-16 05:49:18.000000000
+- **Updated:** 2026-09-17 05:42:25.000000000
 
 ### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
 - **Change #:** 93394
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-16 05:48:59.000000000
+- **Updated:** 2026-09-17 05:41:59.000000000
+
+### [Lock table columns and fix Event Logs buttons](https://gerrit.openbmc.org/c/94432)
+- **Change #:** 94432
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-09-17 05:30:19.000000000
 
 ### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
 - **Change #:** 93490
 - **Author:** Nikhil Ashoka
 - **Updated:** 2026-09-16 05:45:57.000000000
-
-### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
-- **Change #:** 91277
-- **Author:** Jason Westover
-- **Updated:** 2026-09-14 03:22:40.000000000
-
-### [firmware: add update target dropdown to form](https://gerrit.openbmc.org/c/91863)
-- **Change #:** 91863
-- **Author:** Tan Siewert
-- **Updated:** 2026-09-14 03:03:19.000000000
-
-### [docs: Add Redfish-first data layer design](https://gerrit.openbmc.org/c/94472)
-- **Change #:** 94472
-- **Author:** Jason Westover
-- **Updated:** 2026-09-14 01:49:19.000000000
 
 ---
 
