@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-17 12:26:16 UTC
+**Generated:** 2026-09-18 12:05:04 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-15 to 2026-09-17 (2 days)
-**Total Changes:** 13
+**Period:** 2026-09-16 to 2026-09-18 (2 days)
+**Total Changes:** 11
 
 ---
 
-## ✅ Merged Changes (3)
+## ✅ Merged Changes (1)
 
 ### [Fix reversed expand chevron in the event log table](https://gerrit.openbmc.org/c/94475)
 - **Change #:** 94475
@@ -14,24 +14,27 @@
 - **Changes:** +2 / -4 lines
 - **Updated:** 2026-09-17 03:10:51.000000000
 
-### [Add Socket Firewall workflow for supply-chain checks](https://gerrit.openbmc.org/c/92831)
-- **Change #:** 92831
-- **Author:** Nishant Tiwari
-- **Changes:** +30 / -0 lines
-- **Updated:** 2026-09-15 06:30:20.000000000
-
-### [Revert policy selection on save error](https://gerrit.openbmc.org/c/93772)
-- **Change #:** 93772
-- **Author:** Vedangi Mittal
-- **Changes:** +10 / -14 lines
-- **Updated:** 2026-09-15 06:29:40.000000000
-
 ## 🔍 Open Changes Awaiting Review (10)
+
+### [Fix missing json extension on Export All downloads](https://gerrit.openbmc.org/c/94637)
+- **Change #:** 94637
+- **Author:** BillChanJabil
+- **Updated:** 2026-09-18 09:19:23.000000000
+
+### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
+- **Change #:** 93490
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-09-17 19:13:40.000000000
+
+### [Sort package.json dependencies alphabetically](https://gerrit.openbmc.org/c/91317)
+- **Change #:** 91317
+- **Author:** Jason Westover
+- **Updated:** 2026-09-17 18:48:34.000000000
 
 ### [Refactor Redfish API client](https://gerrit.openbmc.org/c/91267)
 - **Change #:** 91267
 - **Author:** Jason Westover
-- **Updated:** 2026-09-17 09:23:35.000000000
+- **Updated:** 2026-09-17 18:43:04.000000000
 
 ### [Sessions page - VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
 - **Change #:** 91253
@@ -48,16 +51,6 @@
 - **Author:** BillChanJabil
 - **Updated:** 2026-09-17 09:03:12.000000000
 
-### [Sort package.json dependencies alphabetically](https://gerrit.openbmc.org/c/91317)
-- **Change #:** 91317
-- **Author:** Jason Westover
-- **Updated:** 2026-09-17 08:51:35.000000000
-
-### [Fix missing json extension on Export All downloads](https://gerrit.openbmc.org/c/94637)
-- **Change #:** 94637
-- **Author:** BillChanJabil
-- **Updated:** 2026-09-17 07:57:58.000000000
-
 ### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
 - **Change #:** 92370
 - **Author:** Aravinth Sri Krishna Raja Raghavan
@@ -72,11 +65,6 @@
 - **Change #:** 94432
 - **Author:** Vedangi Mittal
 - **Updated:** 2026-09-17 05:30:19.000000000
-
-### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
-- **Change #:** 93490
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-09-16 05:45:57.000000000
 
 ---
 
