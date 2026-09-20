@@ -1,70 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-19 11:48:08 UTC
+**Generated:** 2026-09-20 12:02:26 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-17 to 2026-09-19 (2 days)
-**Total Changes:** 11
+**Period:** 2026-09-18 to 2026-09-20 (2 days)
+**Total Changes:** 1
 
 ---
 
-## ✅ Merged Changes (1)
-
-### [Fix reversed expand chevron in the event log table](https://gerrit.openbmc.org/c/94475)
-- **Change #:** 94475
-- **Author:** BillChanJabil
-- **Changes:** +2 / -4 lines
-- **Updated:** 2026-09-17 03:10:51.000000000
-
-## 🔍 Open Changes Awaiting Review (10)
+## 🔍 Open Changes Awaiting Review (1)
 
 ### [Fix missing json extension on Export All downloads](https://gerrit.openbmc.org/c/94637)
 - **Change #:** 94637
 - **Author:** BillChanJabil
 - **Updated:** 2026-09-18 09:19:23.000000000
-
-### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
-- **Change #:** 93490
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-09-17 19:13:40.000000000
-
-### [Sort package.json dependencies alphabetically](https://gerrit.openbmc.org/c/91317)
-- **Change #:** 91317
-- **Author:** Jason Westover
-- **Updated:** 2026-09-17 18:48:34.000000000
-
-### [Refactor Redfish API client](https://gerrit.openbmc.org/c/91267)
-- **Change #:** 91267
-- **Author:** Jason Westover
-- **Updated:** 2026-09-17 18:43:04.000000000
-
-### [Sessions page - VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
-- **Change #:** 91253
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-09-17 09:10:02.000000000
-
-### [Register StatusIcon in the firmware version cards](https://gerrit.openbmc.org/c/94623)
-- **Change #:** 94623
-- **Author:** BillChanJabil
-- **Updated:** 2026-09-17 09:06:00.000000000
-
-### [Fix the missing status icon in the sensors table](https://gerrit.openbmc.org/c/94645)
-- **Change #:** 94645
-- **Author:** BillChanJabil
-- **Updated:** 2026-09-17 09:03:12.000000000
-
-### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
-- **Change #:** 92370
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-17 05:42:25.000000000
-
-### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
-- **Change #:** 93394
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-17 05:41:59.000000000
-
-### [Lock table columns and fix Event Logs buttons](https://gerrit.openbmc.org/c/94432)
-- **Change #:** 94432
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-09-17 05:30:19.000000000
 
 ---
 
