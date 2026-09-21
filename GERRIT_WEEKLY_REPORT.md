@@ -1,17 +1,37 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-20 12:02:26 UTC
+**Generated:** 2026-09-21 13:39:48 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-18 to 2026-09-20 (2 days)
-**Total Changes:** 1
+**Period:** 2026-09-19 to 2026-09-21 (2 days)
+**Total Changes:** 5
 
 ---
 
-## 🔍 Open Changes Awaiting Review (1)
+## 🔍 Open Changes Awaiting Review (5)
+
+### [Security: Add noopener,noreferrer to SoL pop-out window](https://gerrit.openbmc.org/c/94726)
+- **Change #:** 94726
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-09-21 10:28:40.000000000
+
+### [Register StatusIcon in the firmware version cards](https://gerrit.openbmc.org/c/94623)
+- **Change #:** 94623
+- **Author:** BillChanJabil
+- **Updated:** 2026-09-21 08:10:01.000000000
 
 ### [Fix missing json extension on Export All downloads](https://gerrit.openbmc.org/c/94637)
 - **Change #:** 94637
 - **Author:** BillChanJabil
-- **Updated:** 2026-09-18 09:19:23.000000000
+- **Updated:** 2026-09-21 08:10:00.000000000
+
+### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
+- **Change #:** 93490
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-09-21 07:33:19.000000000
+
+### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
+- **Change #:** 93394
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-09-21 06:25:09.000000000
 
 ---
 
