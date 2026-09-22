@@ -1,12 +1,42 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-21 13:39:48 UTC
+**Generated:** 2026-09-22 12:22:56 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-19 to 2026-09-21 (2 days)
-**Total Changes:** 5
+**Period:** 2026-09-20 to 2026-09-22 (2 days)
+**Total Changes:** 9
 
 ---
 
-## 🔍 Open Changes Awaiting Review (5)
+## 🔍 Open Changes Awaiting Review (9)
+
+### [Show error toast on failed save](https://gerrit.openbmc.org/c/94783)
+- **Change #:** 94783
+- **Author:** Vivekanand Jha
+- **Updated:** 2026-09-22 11:30:35.000000000
+
+### [network: Show duplex mode on interface page](https://gerrit.openbmc.org/c/94781)
+- **Change #:** 94781
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-09-22 10:41:42.000000000
+
+### [Add asset tag edit functionality to overview page](https://gerrit.openbmc.org/c/92419)
+- **Change #:** 92419
+- **Author:** Nishant Tiwari
+- **Updated:** 2026-09-22 08:57:09.000000000
+
+### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
+- **Change #:** 92551
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-09-22 08:22:28.000000000
+
+### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
+- **Change #:** 93490
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-09-22 08:08:02.000000000
+
+### [Fix missing json extension on Export All downloads](https://gerrit.openbmc.org/c/94637)
+- **Change #:** 94637
+- **Author:** BillChanJabil
+- **Updated:** 2026-09-22 02:56:50.000000000
 
 ### [Security: Add noopener,noreferrer to SoL pop-out window](https://gerrit.openbmc.org/c/94726)
 - **Change #:** 94726
@@ -17,16 +47,6 @@
 - **Change #:** 94623
 - **Author:** BillChanJabil
 - **Updated:** 2026-09-21 08:10:01.000000000
-
-### [Fix missing json extension on Export All downloads](https://gerrit.openbmc.org/c/94637)
-- **Change #:** 94637
-- **Author:** BillChanJabil
-- **Updated:** 2026-09-21 08:10:00.000000000
-
-### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
-- **Change #:** 93490
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-09-21 07:33:19.000000000
 
 ### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
 - **Change #:** 93394
