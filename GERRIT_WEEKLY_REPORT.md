@@ -1,27 +1,37 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-22 12:22:56 UTC
+**Generated:** 2026-09-23 12:34:50 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-20 to 2026-09-22 (2 days)
-**Total Changes:** 9
+**Period:** 2026-09-21 to 2026-09-23 (2 days)
+**Total Changes:** 11
 
 ---
 
-## 🔍 Open Changes Awaiting Review (9)
-
-### [Show error toast on failed save](https://gerrit.openbmc.org/c/94783)
-- **Change #:** 94783
-- **Author:** Vivekanand Jha
-- **Updated:** 2026-09-22 11:30:35.000000000
+## 🔍 Open Changes Awaiting Review (11)
 
 ### [network: Show duplex mode on interface page](https://gerrit.openbmc.org/c/94781)
 - **Change #:** 94781
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-22 10:41:42.000000000
+- **Updated:** 2026-09-23 11:09:23.000000000
 
 ### [Add asset tag edit functionality to overview page](https://gerrit.openbmc.org/c/92419)
 - **Change #:** 92419
 - **Author:** Nishant Tiwari
-- **Updated:** 2026-09-22 08:57:09.000000000
+- **Updated:** 2026-09-23 08:41:21.000000000
+
+### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
+- **Change #:** 92370
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-09-23 07:47:55.000000000
+
+### [Show error toast on failed save](https://gerrit.openbmc.org/c/94783)
+- **Change #:** 94783
+- **Author:** Vivekanand Jha
+- **Updated:** 2026-09-23 06:09:42.000000000
+
+### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
+- **Change #:** 91086
+- **Author:** Nishant Tiwari
+- **Updated:** 2026-09-22 15:43:17.000000000
 
 ### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
 - **Change #:** 92551
