@@ -1,12 +1,32 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-23 12:34:50 UTC
+**Generated:** 2026-09-24 12:33:41 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-21 to 2026-09-23 (2 days)
-**Total Changes:** 11
+**Period:** 2026-09-22 to 2026-09-24 (2 days)
+**Total Changes:** 12
 
 ---
 
-## 🔍 Open Changes Awaiting Review (11)
+## 🔍 Open Changes Awaiting Review (10)
+
+### [Lock table columns and fix Event Logs buttons](https://gerrit.openbmc.org/c/94432)
+- **Change #:** 94432
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-09-24 12:33:26.000000000
+
+### [Show error toast on failed save](https://gerrit.openbmc.org/c/94783)
+- **Change #:** 94783
+- **Author:** Vivekanand Jha
+- **Updated:** 2026-09-24 09:39:49.000000000
+
+### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
+- **Change #:** 92370
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-09-24 08:19:37.000000000
+
+### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
+- **Change #:** 91277
+- **Author:** Jason Westover
+- **Updated:** 2026-09-24 07:07:23.000000000
 
 ### [network: Show duplex mode on interface page](https://gerrit.openbmc.org/c/94781)
 - **Change #:** 94781
@@ -17,16 +37,6 @@
 - **Change #:** 92419
 - **Author:** Nishant Tiwari
 - **Updated:** 2026-09-23 08:41:21.000000000
-
-### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
-- **Change #:** 92370
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-23 07:47:55.000000000
-
-### [Show error toast on failed save](https://gerrit.openbmc.org/c/94783)
-- **Change #:** 94783
-- **Author:** Vivekanand Jha
-- **Updated:** 2026-09-23 06:09:42.000000000
 
 ### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
 - **Change #:** 91086
@@ -48,20 +58,19 @@
 - **Author:** BillChanJabil
 - **Updated:** 2026-09-22 02:56:50.000000000
 
-### [Security: Add noopener,noreferrer to SoL pop-out window](https://gerrit.openbmc.org/c/94726)
-- **Change #:** 94726
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-21 10:28:40.000000000
+## 🚧 Work In Progress (1)
 
-### [Register StatusIcon in the firmware version cards](https://gerrit.openbmc.org/c/94623)
-- **Change #:** 94623
-- **Author:** BillChanJabil
-- **Updated:** 2026-09-21 08:10:01.000000000
-
-### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
-- **Change #:** 93394
+### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
+- **Change #:** 94886
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-21 06:25:09.000000000
+- **Updated:** 2026-09-24 05:49:35.000000000
+
+## ❌ Abandoned Changes (1)
+
+### [Add support for boot option](https://gerrit.openbmc.org/c/72491)
+- **Change #:** 72491
+- **Author:** seanzhangseu
+- **Updated:** 2026-09-23 18:46:46.000000000
 
 ---
 
