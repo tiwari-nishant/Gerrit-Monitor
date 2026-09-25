@@ -1,17 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-24 12:33:41 UTC
+**Generated:** 2026-09-25 12:35:02 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-22 to 2026-09-24 (2 days)
-**Total Changes:** 12
+**Period:** 2026-09-23 to 2026-09-25 (2 days)
+**Total Changes:** 8
 
 ---
 
-## 🔍 Open Changes Awaiting Review (10)
+## 🔍 Open Changes Awaiting Review (6)
 
 ### [Lock table columns and fix Event Logs buttons](https://gerrit.openbmc.org/c/94432)
 - **Change #:** 94432
 - **Author:** Vedangi Mittal
-- **Updated:** 2026-09-24 12:33:26.000000000
+- **Updated:** 2026-09-24 12:36:31.000000000
 
 ### [Show error toast on failed save](https://gerrit.openbmc.org/c/94783)
 - **Change #:** 94783
@@ -37,26 +37,6 @@
 - **Change #:** 92419
 - **Author:** Nishant Tiwari
 - **Updated:** 2026-09-23 08:41:21.000000000
-
-### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
-- **Change #:** 91086
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-09-22 15:43:17.000000000
-
-### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
-- **Change #:** 92551
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-09-22 08:22:28.000000000
-
-### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
-- **Change #:** 93490
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-09-22 08:08:02.000000000
-
-### [Fix missing json extension on Export All downloads](https://gerrit.openbmc.org/c/94637)
-- **Change #:** 94637
-- **Author:** BillChanJabil
-- **Updated:** 2026-09-22 02:56:50.000000000
 
 ## 🚧 Work In Progress (1)
 
