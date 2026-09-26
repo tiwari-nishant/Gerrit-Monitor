@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-25 12:35:02 UTC
+**Generated:** 2026-09-26 12:04:13 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-23 to 2026-09-25 (2 days)
-**Total Changes:** 8
+**Period:** 2026-09-24 to 2026-09-26 (2 days)
+**Total Changes:** 5
 
 ---
 
-## 🔍 Open Changes Awaiting Review (6)
+## 🔍 Open Changes Awaiting Review (4)
 
 ### [Lock table columns and fix Event Logs buttons](https://gerrit.openbmc.org/c/94432)
 - **Change #:** 94432
@@ -28,29 +28,12 @@
 - **Author:** Jason Westover
 - **Updated:** 2026-09-24 07:07:23.000000000
 
-### [network: Show duplex mode on interface page](https://gerrit.openbmc.org/c/94781)
-- **Change #:** 94781
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-23 11:09:23.000000000
-
-### [Add asset tag edit functionality to overview page](https://gerrit.openbmc.org/c/92419)
-- **Change #:** 92419
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-09-23 08:41:21.000000000
-
 ## 🚧 Work In Progress (1)
 
 ### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
 - **Change #:** 94886
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-09-24 05:49:35.000000000
-
-## ❌ Abandoned Changes (1)
-
-### [Add support for boot option](https://gerrit.openbmc.org/c/72491)
-- **Change #:** 72491
-- **Author:** seanzhangseu
-- **Updated:** 2026-09-23 18:46:46.000000000
 
 ---
 
