@@ -1,39 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-26 12:04:13 UTC
+**Generated:** 2026-09-27 12:48:14 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-24 to 2026-09-26 (2 days)
-**Total Changes:** 5
+**Period:** 2026-09-25 to 2026-09-27 (2 days)
+**Total Changes:** 1
 
 ---
 
-## 🔍 Open Changes Awaiting Review (4)
+## 🔍 Open Changes Awaiting Review (1)
 
-### [Lock table columns and fix Event Logs buttons](https://gerrit.openbmc.org/c/94432)
-- **Change #:** 94432
+### [Sessions page - VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
+- **Change #:** 91253
 - **Author:** Vedangi Mittal
-- **Updated:** 2026-09-24 12:36:31.000000000
-
-### [Show error toast on failed save](https://gerrit.openbmc.org/c/94783)
-- **Change #:** 94783
-- **Author:** Vivekanand Jha
-- **Updated:** 2026-09-24 09:39:49.000000000
-
-### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
-- **Change #:** 92370
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-24 08:19:37.000000000
-
-### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
-- **Change #:** 91277
-- **Author:** Jason Westover
-- **Updated:** 2026-09-24 07:07:23.000000000
-
-## 🚧 Work In Progress (1)
-
-### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
-- **Change #:** 94886
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-24 05:49:35.000000000
+- **Updated:** 2026-09-27 10:44:13.000000000
 
 ---
 
