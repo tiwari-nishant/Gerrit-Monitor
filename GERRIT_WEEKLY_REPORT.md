@@ -1,17 +1,74 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-27 12:48:14 UTC
+**Generated:** 2026-09-28 14:59:08 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-25 to 2026-09-27 (2 days)
-**Total Changes:** 1
+**Period:** 2026-09-26 to 2026-09-28 (2 days)
+**Total Changes:** 11
 
 ---
 
-## 🔍 Open Changes Awaiting Review (1)
+## ✅ Merged Changes (3)
+
+### [Add asset tag edit functionality to overview page](https://gerrit.openbmc.org/c/92419)
+- **Change #:** 92419
+- **Author:** Nishant Tiwari
+- **Changes:** +212 / -5 lines
+- **Updated:** 2026-09-28 10:42:29.000000000
+
+### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
+- **Change #:** 92551
+- **Author:** Nikhil Ashoka
+- **Changes:** +179 / -81 lines
+- **Updated:** 2026-09-28 08:33:30.000000000
+
+### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
+- **Change #:** 93490
+- **Author:** Nikhil Ashoka
+- **Changes:** +38 / -0 lines
+- **Updated:** 2026-09-28 08:33:12.000000000
+
+## 🔍 Open Changes Awaiting Review (7)
 
 ### [Sessions page - VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
 - **Change #:** 91253
 - **Author:** Vedangi Mittal
-- **Updated:** 2026-09-27 10:44:13.000000000
+- **Updated:** 2026-09-28 13:44:31.000000000
+
+### [Migrate PowerRestorePolicy to Vue Query](https://gerrit.openbmc.org/c/94972)
+- **Change #:** 94972
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-09-28 11:34:20.000000000
+
+### [Lock table columns and fix Event Logs buttons](https://gerrit.openbmc.org/c/94432)
+- **Change #:** 94432
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-09-28 11:34:14.000000000
+
+### [network: Show duplex mode on interface page](https://gerrit.openbmc.org/c/94781)
+- **Change #:** 94781
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-09-28 11:23:00.000000000
+
+### [Security: Add noopener,noreferrer to SoL pop-out window](https://gerrit.openbmc.org/c/94726)
+- **Change #:** 94726
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-09-28 11:22:45.000000000
+
+### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
+- **Change #:** 93394
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-09-28 11:22:06.000000000
+
+### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
+- **Change #:** 92370
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-09-28 11:21:36.000000000
+
+## 🚧 Work In Progress (1)
+
+### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
+- **Change #:** 94886
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-09-28 11:23:12.000000000
 
 ---
 
