@@ -1,7 +1,7 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-29 13:46:08 UTC
+**Generated:** 2026-09-30 13:21:28 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-27 to 2026-09-29 (2 days)
+**Period:** 2026-09-28 to 2026-09-30 (2 days)
 **Total Changes:** 11
 
 ---
@@ -26,7 +26,17 @@
 - **Changes:** +38 / -0 lines
 - **Updated:** 2026-09-28 08:33:12.000000000
 
-## 🔍 Open Changes Awaiting Review (7)
+## 🔍 Open Changes Awaiting Review (8)
+
+### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
+- **Change #:** 94886
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-09-30 11:37:53.000000000
+
+### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
+- **Change #:** 92370
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-09-30 07:21:32.000000000
 
 ### [Sessions page - VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
 - **Change #:** 91253
@@ -57,18 +67,6 @@
 - **Change #:** 93394
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-09-28 11:22:06.000000000
-
-### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
-- **Change #:** 92370
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-28 11:21:36.000000000
-
-## 🚧 Work In Progress (1)
-
-### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
-- **Change #:** 94886
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-28 11:23:12.000000000
 
 ---
 
