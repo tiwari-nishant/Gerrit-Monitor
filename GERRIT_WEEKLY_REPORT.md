@@ -1,72 +1,80 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-09-30 13:21:28 UTC
+**Generated:** 2026-10-01 14:14:31 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-28 to 2026-09-30 (2 days)
-**Total Changes:** 11
+**Period:** 2026-09-29 to 2026-10-01 (2 days)
+**Total Changes:** 13
 
 ---
 
-## ✅ Merged Changes (3)
-
-### [Add asset tag edit functionality to overview page](https://gerrit.openbmc.org/c/92419)
-- **Change #:** 92419
-- **Author:** Nishant Tiwari
-- **Changes:** +212 / -5 lines
-- **Updated:** 2026-09-28 10:42:29.000000000
+## ✅ Merged Changes (1)
 
 ### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
 - **Change #:** 92551
 - **Author:** Nikhil Ashoka
 - **Changes:** +179 / -81 lines
-- **Updated:** 2026-09-28 08:33:30.000000000
+- **Updated:** 2026-09-30 14:00:20.000000000
 
-### [Added automated security audit](https://gerrit.openbmc.org/c/93490)
-- **Change #:** 93490
-- **Author:** Nikhil Ashoka
-- **Changes:** +38 / -0 lines
-- **Updated:** 2026-09-28 08:33:12.000000000
-
-## 🔍 Open Changes Awaiting Review (8)
-
-### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
-- **Change #:** 94886
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-30 11:37:53.000000000
-
-### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
-- **Change #:** 92370
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-30 07:21:32.000000000
-
-### [Sessions page - VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
-- **Change #:** 91253
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-09-29 10:17:17.000000000
+## 🔍 Open Changes Awaiting Review (12)
 
 ### [Migrate PowerRestorePolicy to Vue Query](https://gerrit.openbmc.org/c/94972)
 - **Change #:** 94972
 - **Author:** Vedangi Mittal
-- **Updated:** 2026-09-28 11:34:20.000000000
+- **Updated:** 2026-10-01 03:52:55.000000000
 
-### [Lock table columns and fix Event Logs buttons](https://gerrit.openbmc.org/c/94432)
-- **Change #:** 94432
+### [Fix the missing status icon in the sensors table](https://gerrit.openbmc.org/c/94645)
+- **Change #:** 94645
+- **Author:** BillChanJabil
+- **Updated:** 2026-10-01 02:19:02.000000000
+
+### [Fix missing json extension on Export All downloads](https://gerrit.openbmc.org/c/94637)
+- **Change #:** 94637
+- **Author:** BillChanJabil
+- **Updated:** 2026-10-01 02:18:59.000000000
+
+### [Register StatusIcon in the firmware version cards](https://gerrit.openbmc.org/c/94623)
+- **Change #:** 94623
+- **Author:** BillChanJabil
+- **Updated:** 2026-10-01 02:18:58.000000000
+
+### [Sessions page - VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
+- **Change #:** 91253
 - **Author:** Vedangi Mittal
-- **Updated:** 2026-09-28 11:34:14.000000000
+- **Updated:** 2026-10-01 01:44:09.000000000
 
-### [network: Show duplex mode on interface page](https://gerrit.openbmc.org/c/94781)
-- **Change #:** 94781
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-28 11:23:00.000000000
+### [Expose the service manager URI](https://gerrit.openbmc.org/c/95088)
+- **Change #:** 95088
+- **Author:** Jason Westover
+- **Updated:** 2026-09-30 22:37:15.000000000
 
-### [Security: Add noopener,noreferrer to SoL pop-out window](https://gerrit.openbmc.org/c/94726)
-- **Change #:** 94726
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-28 11:22:45.000000000
+### [Fix reboot of the service manager](https://gerrit.openbmc.org/c/95081)
+- **Change #:** 95081
+- **Author:** Jason Westover
+- **Updated:** 2026-09-30 22:37:04.000000000
 
-### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
-- **Change #:** 93394
+### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
+- **Change #:** 94886
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-28 11:22:06.000000000
+- **Updated:** 2026-09-30 18:03:51.000000000
+
+### [Stop persisting sensitive Redfish GET bodies](https://gerrit.openbmc.org/c/95078)
+- **Change #:** 95078
+- **Author:** Jason Westover
+- **Updated:** 2026-09-30 16:16:46.000000000
+
+### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
+- **Change #:** 91277
+- **Author:** Jason Westover
+- **Updated:** 2026-09-30 16:16:39.000000000
+
+### [Refactor Redfish API client](https://gerrit.openbmc.org/c/91267)
+- **Change #:** 91267
+- **Author:** Jason Westover
+- **Updated:** 2026-09-30 16:16:37.000000000
+
+### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
+- **Change #:** 92370
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-09-30 15:00:25.000000000
 
 ---
 
