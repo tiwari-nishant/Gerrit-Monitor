@@ -1,20 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-02 13:36:49 UTC
+**Generated:** 2026-10-03 12:15:15 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-09-30 to 2026-10-02 (2 days)
-**Total Changes:** 13
+**Period:** 2026-10-01 to 2026-10-03 (2 days)
+**Total Changes:** 5
 
 ---
 
-## ✅ Merged Changes (1)
-
-### [Implemented Reboot BMC with TanStack Vue Query](https://gerrit.openbmc.org/c/92551)
-- **Change #:** 92551
-- **Author:** Nikhil Ashoka
-- **Changes:** +179 / -81 lines
-- **Updated:** 2026-09-30 14:00:20.000000000
-
-## 🔍 Open Changes Awaiting Review (12)
+## 🔍 Open Changes Awaiting Review (5)
 
 ### [Migrate PowerRestorePolicy to Vue Query](https://gerrit.openbmc.org/c/94972)
 - **Change #:** 94972
@@ -40,41 +32,6 @@
 - **Change #:** 91253
 - **Author:** Vedangi Mittal
 - **Updated:** 2026-10-01 01:44:09.000000000
-
-### [Expose the service manager URI](https://gerrit.openbmc.org/c/95088)
-- **Change #:** 95088
-- **Author:** Jason Westover
-- **Updated:** 2026-09-30 22:37:15.000000000
-
-### [Fix reboot of the service manager](https://gerrit.openbmc.org/c/95081)
-- **Change #:** 95081
-- **Author:** Jason Westover
-- **Updated:** 2026-09-30 22:37:04.000000000
-
-### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
-- **Change #:** 94886
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-30 18:03:51.000000000
-
-### [Stop persisting sensitive Redfish GET bodies](https://gerrit.openbmc.org/c/95078)
-- **Change #:** 95078
-- **Author:** Jason Westover
-- **Updated:** 2026-09-30 16:16:46.000000000
-
-### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
-- **Change #:** 91277
-- **Author:** Jason Westover
-- **Updated:** 2026-09-30 16:16:39.000000000
-
-### [Refactor Redfish API client](https://gerrit.openbmc.org/c/91267)
-- **Change #:** 91267
-- **Author:** Jason Westover
-- **Updated:** 2026-09-30 16:16:37.000000000
-
-### [Add Task Monitor page under Logs](https://gerrit.openbmc.org/c/92370)
-- **Change #:** 92370
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-09-30 15:00:25.000000000
 
 ---
 
