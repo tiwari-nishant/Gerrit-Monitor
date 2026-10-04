@@ -1,37 +1,10 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-03 12:15:15 UTC
+**Generated:** 2026-10-04 13:03:08 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-01 to 2026-10-03 (2 days)
-**Total Changes:** 5
+**Period:** 2026-10-02 to 2026-10-04 (2 days)
+**Total Changes:** 0
 
 ---
-
-## 🔍 Open Changes Awaiting Review (5)
-
-### [Migrate PowerRestorePolicy to Vue Query](https://gerrit.openbmc.org/c/94972)
-- **Change #:** 94972
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-10-01 03:52:55.000000000
-
-### [Fix the missing status icon in the sensors table](https://gerrit.openbmc.org/c/94645)
-- **Change #:** 94645
-- **Author:** BillChanJabil
-- **Updated:** 2026-10-01 02:19:02.000000000
-
-### [Fix missing json extension on Export All downloads](https://gerrit.openbmc.org/c/94637)
-- **Change #:** 94637
-- **Author:** BillChanJabil
-- **Updated:** 2026-10-01 02:18:59.000000000
-
-### [Register StatusIcon in the firmware version cards](https://gerrit.openbmc.org/c/94623)
-- **Change #:** 94623
-- **Author:** BillChanJabil
-- **Updated:** 2026-10-01 02:18:58.000000000
-
-### [Sessions page - VueQuery and Composition API](https://gerrit.openbmc.org/c/91253)
-- **Change #:** 91253
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-10-01 01:44:09.000000000
 
 ---
 
