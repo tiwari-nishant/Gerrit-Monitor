@@ -1,17 +1,27 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-05 15:35:11 UTC
+**Generated:** 2026-10-06 13:56:33 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-03 to 2026-10-05 (2 days)
-**Total Changes:** 1
+**Period:** 2026-10-04 to 2026-10-06 (2 days)
+**Total Changes:** 3
 
 ---
 
-## 🔍 Open Changes Awaiting Review (1)
+## 🔍 Open Changes Awaiting Review (3)
+
+### [Migrate PowerRestorePolicy to Vue Query](https://gerrit.openbmc.org/c/94972)
+- **Change #:** 94972
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-10-06 13:56:10.000000000
+
+### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
+- **Change #:** 94886
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-10-06 09:53:41.000000000
 
 ### [Add Tasks page under Logs](https://gerrit.openbmc.org/c/92370)
 - **Change #:** 92370
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-05 13:30:26.000000000
+- **Updated:** 2026-10-06 05:14:28.000000000
 
 ---
 
