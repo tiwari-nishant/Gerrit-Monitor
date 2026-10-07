@@ -1,17 +1,22 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-06 13:56:33 UTC
+**Generated:** 2026-10-07 14:13:53 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-04 to 2026-10-06 (2 days)
-**Total Changes:** 3
+**Period:** 2026-10-05 to 2026-10-07 (2 days)
+**Total Changes:** 4
 
 ---
 
-## 🔍 Open Changes Awaiting Review (3)
+## 🔍 Open Changes Awaiting Review (4)
+
+### [Overview: Show active interface in network card](https://gerrit.openbmc.org/c/95322)
+- **Change #:** 95322
+- **Author:** Vijaysankar Ravi
+- **Updated:** 2026-10-07 11:31:04.000000000
 
 ### [Migrate PowerRestorePolicy to Vue Query](https://gerrit.openbmc.org/c/94972)
 - **Change #:** 94972
 - **Author:** Vedangi Mittal
-- **Updated:** 2026-10-06 13:56:10.000000000
+- **Updated:** 2026-10-06 13:57:07.000000000
 
 ### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
 - **Change #:** 94886
