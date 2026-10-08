@@ -1,8 +1,8 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-07 14:13:53 UTC
+**Generated:** 2026-10-08 14:23:30 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-05 to 2026-10-07 (2 days)
-**Total Changes:** 4
+**Period:** 2026-10-06 to 2026-10-08 (2 days)
+**Total Changes:** 5
 
 ---
 
@@ -11,7 +11,7 @@
 ### [Overview: Show active interface in network card](https://gerrit.openbmc.org/c/95322)
 - **Change #:** 95322
 - **Author:** Vijaysankar Ravi
-- **Updated:** 2026-10-07 11:31:04.000000000
+- **Updated:** 2026-10-08 10:48:55.000000000
 
 ### [Migrate PowerRestorePolicy to Vue Query](https://gerrit.openbmc.org/c/94972)
 - **Change #:** 94972
@@ -27,6 +27,13 @@
 - **Change #:** 92370
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-10-06 05:14:28.000000000
+
+## ❌ Abandoned Changes (1)
+
+### [Show error toast on failed save](https://gerrit.openbmc.org/c/94783)
+- **Change #:** 94783
+- **Author:** Vivekanand Jha
+- **Updated:** 2026-10-08 07:08:43.000000000
 
 ---
 
