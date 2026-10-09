@@ -1,34 +1,34 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-08 14:23:30 UTC
+**Generated:** 2026-10-09 14:09:12 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-06 to 2026-10-08 (2 days)
+**Period:** 2026-10-07 to 2026-10-09 (2 days)
 **Total Changes:** 5
 
 ---
 
-## 🔍 Open Changes Awaiting Review (4)
-
-### [Overview: Show active interface in network card](https://gerrit.openbmc.org/c/95322)
-- **Change #:** 95322
-- **Author:** Vijaysankar Ravi
-- **Updated:** 2026-10-08 10:48:55.000000000
-
-### [Migrate PowerRestorePolicy to Vue Query](https://gerrit.openbmc.org/c/94972)
-- **Change #:** 94972
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-10-06 13:57:07.000000000
+## 🔍 Open Changes Awaiting Review (3)
 
 ### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
 - **Change #:** 94886
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-06 09:53:41.000000000
+- **Updated:** 2026-10-09 11:05:30.000000000
 
-### [Add Tasks page under Logs](https://gerrit.openbmc.org/c/92370)
-- **Change #:** 92370
+### [Fix identify LED toggle error handling](https://gerrit.openbmc.org/c/95475)
+- **Change #:** 95475
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-06 05:14:28.000000000
+- **Updated:** 2026-10-09 11:03:34.000000000
 
-## ❌ Abandoned Changes (1)
+### [Overview: Show active interface in network card](https://gerrit.openbmc.org/c/95322)
+- **Change #:** 95322
+- **Author:** Vijaysankar Ravi
+- **Updated:** 2026-10-08 15:15:37.000000000
+
+## ❌ Abandoned Changes (2)
+
+### [Poll firmware update task, show the progress on loading bar](https://gerrit.openbmc.org/c/73618)
+- **Change #:** 73618
+- **Author:** Jackie14
+- **Updated:** 2026-10-09 08:39:43.000000000
 
 ### [Show error toast on failed save](https://gerrit.openbmc.org/c/94783)
 - **Change #:** 94783
