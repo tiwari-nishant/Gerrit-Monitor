@@ -1,27 +1,72 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-09 14:09:12 UTC
+**Generated:** 2026-10-10 13:18:08 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-07 to 2026-10-09 (2 days)
-**Total Changes:** 5
+**Period:** 2026-10-08 to 2026-10-10 (2 days)
+**Total Changes:** 14
 
 ---
 
-## 🔍 Open Changes Awaiting Review (3)
+## 🔍 Open Changes Awaiting Review (12)
 
-### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
-- **Change #:** 94886
+### [Sensors: Add multi-chassis support with per-chassis tab](https://gerrit.openbmc.org/c/95491)
+- **Change #:** 95491
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-10-10 05:23:07.000000000
+
+### [Refactor Redfish API client](https://gerrit.openbmc.org/c/91267)
+- **Change #:** 91267
+- **Author:** Jason Westover
+- **Updated:** 2026-10-10 04:15:07.000000000
+
+### [Add openapi-ts codegen tooling scaffold](https://gerrit.openbmc.org/c/91407)
+- **Change #:** 91407
+- **Author:** Jason Westover
+- **Updated:** 2026-10-10 04:15:04.000000000
+
+### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
+- **Change #:** 91277
+- **Author:** Jason Westover
+- **Updated:** 2026-10-10 04:15:02.000000000
+
+### [Sort package.json dependencies alphabetically](https://gerrit.openbmc.org/c/91317)
+- **Change #:** 91317
+- **Author:** Jason Westover
+- **Updated:** 2026-10-10 03:28:45.000000000
+
+### [Register StatusIcon in the firmware version cards](https://gerrit.openbmc.org/c/94623)
+- **Change #:** 94623
+- **Author:** BillChanJabil
+- **Updated:** 2026-10-10 01:32:26.000000000
+
+### [Fix missing json extension on Export All downloads](https://gerrit.openbmc.org/c/94637)
+- **Change #:** 94637
+- **Author:** BillChanJabil
+- **Updated:** 2026-10-10 01:27:35.000000000
+
+### [Fix the missing status icon in the sensors table](https://gerrit.openbmc.org/c/94645)
+- **Change #:** 94645
+- **Author:** BillChanJabil
+- **Updated:** 2026-10-10 01:18:11.000000000
+
+### [Add Tasks page under Logs](https://gerrit.openbmc.org/c/92370)
+- **Change #:** 92370
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-09 11:05:30.000000000
+- **Updated:** 2026-10-10 00:33:17.000000000
 
 ### [Fix identify LED toggle error handling](https://gerrit.openbmc.org/c/95475)
 - **Change #:** 95475
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-09 11:03:34.000000000
+- **Updated:** 2026-10-09 22:36:44.000000000
+
+### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
+- **Change #:** 94886
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-10-09 22:28:01.000000000
 
 ### [Overview: Show active interface in network card](https://gerrit.openbmc.org/c/95322)
 - **Change #:** 95322
 - **Author:** Vijaysankar Ravi
-- **Updated:** 2026-10-08 15:15:37.000000000
+- **Updated:** 2026-10-09 20:16:38.000000000
 
 ## ❌ Abandoned Changes (2)
 
