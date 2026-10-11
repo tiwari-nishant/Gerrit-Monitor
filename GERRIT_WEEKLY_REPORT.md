@@ -1,8 +1,8 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-10 13:18:08 UTC
+**Generated:** 2026-10-11 13:47:05 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-08 to 2026-10-10 (2 days)
-**Total Changes:** 14
+**Period:** 2026-10-09 to 2026-10-11 (2 days)
+**Total Changes:** 13
 
 ---
 
@@ -68,17 +68,12 @@
 - **Author:** Vijaysankar Ravi
 - **Updated:** 2026-10-09 20:16:38.000000000
 
-## ❌ Abandoned Changes (2)
+## ❌ Abandoned Changes (1)
 
 ### [Poll firmware update task, show the progress on loading bar](https://gerrit.openbmc.org/c/73618)
 - **Change #:** 73618
 - **Author:** Jackie14
 - **Updated:** 2026-10-09 08:39:43.000000000
-
-### [Show error toast on failed save](https://gerrit.openbmc.org/c/94783)
-- **Change #:** 94783
-- **Author:** Vivekanand Jha
-- **Updated:** 2026-10-08 07:08:43.000000000
 
 ---
 
