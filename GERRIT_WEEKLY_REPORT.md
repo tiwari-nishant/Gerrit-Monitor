@@ -1,17 +1,27 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-11 13:47:05 UTC
+**Generated:** 2026-10-12 16:31:01 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-09 to 2026-10-11 (2 days)
-**Total Changes:** 13
+**Period:** 2026-10-10 to 2026-10-12 (2 days)
+**Total Changes:** 11
 
 ---
 
-## 🔍 Open Changes Awaiting Review (12)
+## 🔍 Open Changes Awaiting Review (10)
 
-### [Sensors: Add multi-chassis support with per-chassis tab](https://gerrit.openbmc.org/c/95491)
-- **Change #:** 95491
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-10-10 05:23:07.000000000
+### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
+- **Change #:** 94886
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-10-12 15:08:22.000000000
+
+### [Expose the service manager URI](https://gerrit.openbmc.org/c/95088)
+- **Change #:** 95088
+- **Author:** Jason Westover
+- **Updated:** 2026-10-12 14:22:44.000000000
+
+### [Sort package.json dependencies alphabetically](https://gerrit.openbmc.org/c/91317)
+- **Change #:** 91317
+- **Author:** Jason Westover
+- **Updated:** 2026-10-12 13:48:28.000000000
 
 ### [Refactor Redfish API client](https://gerrit.openbmc.org/c/91267)
 - **Change #:** 91267
@@ -27,11 +37,6 @@
 - **Change #:** 91277
 - **Author:** Jason Westover
 - **Updated:** 2026-10-10 04:15:02.000000000
-
-### [Sort package.json dependencies alphabetically](https://gerrit.openbmc.org/c/91317)
-- **Change #:** 91317
-- **Author:** Jason Westover
-- **Updated:** 2026-10-10 03:28:45.000000000
 
 ### [Register StatusIcon in the firmware version cards](https://gerrit.openbmc.org/c/94623)
 - **Change #:** 94623
@@ -53,27 +58,12 @@
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-10-10 00:33:17.000000000
 
-### [Fix identify LED toggle error handling](https://gerrit.openbmc.org/c/95475)
-- **Change #:** 95475
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-09 22:36:44.000000000
+## 🚧 Work In Progress (1)
 
-### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
-- **Change #:** 94886
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-09 22:28:01.000000000
-
-### [Overview: Show active interface in network card](https://gerrit.openbmc.org/c/95322)
-- **Change #:** 95322
-- **Author:** Vijaysankar Ravi
-- **Updated:** 2026-10-09 20:16:38.000000000
-
-## ❌ Abandoned Changes (1)
-
-### [Poll firmware update task, show the progress on loading bar](https://gerrit.openbmc.org/c/73618)
-- **Change #:** 73618
-- **Author:** Jackie14
-- **Updated:** 2026-10-09 08:39:43.000000000
+### [Sensors: Add multi-chassis support with per-chassis tab](https://gerrit.openbmc.org/c/95491)
+- **Change #:** 95491
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-10-12 14:19:56.000000000
 
 ---
 
