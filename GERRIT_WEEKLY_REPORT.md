@@ -1,62 +1,61 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-12 16:31:01 UTC
+**Generated:** 2026-10-13 14:48:47 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-10 to 2026-10-12 (2 days)
-**Total Changes:** 11
+**Period:** 2026-10-11 to 2026-10-13 (2 days)
+**Total Changes:** 10
 
 ---
 
-## 🔍 Open Changes Awaiting Review (10)
+## ✅ Merged Changes (2)
 
 ### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
 - **Change #:** 94886
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-12 15:08:22.000000000
-
-### [Expose the service manager URI](https://gerrit.openbmc.org/c/95088)
-- **Change #:** 95088
-- **Author:** Jason Westover
-- **Updated:** 2026-10-12 14:22:44.000000000
+- **Changes:** +325 / -159 lines
+- **Updated:** 2026-10-13 05:37:03.000000000
 
 ### [Sort package.json dependencies alphabetically](https://gerrit.openbmc.org/c/91317)
 - **Change #:** 91317
 - **Author:** Jason Westover
-- **Updated:** 2026-10-12 13:48:28.000000000
+- **Changes:** +22 / -22 lines
+- **Updated:** 2026-10-12 18:02:03.000000000
 
-### [Refactor Redfish API client](https://gerrit.openbmc.org/c/91267)
-- **Change #:** 91267
-- **Author:** Jason Westover
-- **Updated:** 2026-10-10 04:15:07.000000000
-
-### [Add openapi-ts codegen tooling scaffold](https://gerrit.openbmc.org/c/91407)
-- **Change #:** 91407
-- **Author:** Jason Westover
-- **Updated:** 2026-10-10 04:15:04.000000000
-
-### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
-- **Change #:** 91277
-- **Author:** Jason Westover
-- **Updated:** 2026-10-10 04:15:02.000000000
-
-### [Register StatusIcon in the firmware version cards](https://gerrit.openbmc.org/c/94623)
-- **Change #:** 94623
-- **Author:** BillChanJabil
-- **Updated:** 2026-10-10 01:32:26.000000000
-
-### [Fix missing json extension on Export All downloads](https://gerrit.openbmc.org/c/94637)
-- **Change #:** 94637
-- **Author:** BillChanJabil
-- **Updated:** 2026-10-10 01:27:35.000000000
+## 🔍 Open Changes Awaiting Review (7)
 
 ### [Fix the missing status icon in the sensors table](https://gerrit.openbmc.org/c/94645)
 - **Change #:** 94645
 - **Author:** BillChanJabil
-- **Updated:** 2026-10-10 01:18:11.000000000
+- **Updated:** 2026-10-13 10:32:33.000000000
 
-### [Add Tasks page under Logs](https://gerrit.openbmc.org/c/92370)
-- **Change #:** 92370
+### [Expose the service manager URI](https://gerrit.openbmc.org/c/95088)
+- **Change #:** 95088
+- **Author:** Jason Westover
+- **Updated:** 2026-10-13 10:07:00.000000000
+
+### [Overview: Show active interface in network card](https://gerrit.openbmc.org/c/95322)
+- **Change #:** 95322
+- **Author:** Vijaysankar Ravi
+- **Updated:** 2026-10-13 07:51:54.000000000
+
+### [Pin Node and npm to the OpenBMC recipe](https://gerrit.openbmc.org/c/95592)
+- **Change #:** 95592
+- **Author:** Jason Westover
+- **Updated:** 2026-10-13 07:38:55.000000000
+
+### [Fix identify LED toggle error handling](https://gerrit.openbmc.org/c/95475)
+- **Change #:** 95475
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-10 00:33:17.000000000
+- **Updated:** 2026-10-13 06:00:26.000000000
+
+### [Build the style guide with VitePress](https://gerrit.openbmc.org/c/95595)
+- **Change #:** 95595
+- **Author:** Jason Westover
+- **Updated:** 2026-10-12 22:55:34.000000000
+
+### [Close the lint gaps left by change 94886](https://gerrit.openbmc.org/c/95590)
+- **Change #:** 95590
+- **Author:** Jason Westover
+- **Updated:** 2026-10-12 20:17:11.000000000
 
 ## 🚧 Work In Progress (1)
 
