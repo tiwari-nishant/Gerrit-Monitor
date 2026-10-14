@@ -1,12 +1,24 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-13 14:48:47 UTC
+**Generated:** 2026-10-14 12:39:45 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-11 to 2026-10-13 (2 days)
-**Total Changes:** 10
+**Period:** 2026-10-12 to 2026-10-14 (2 days)
+**Total Changes:** 12
 
 ---
 
-## ✅ Merged Changes (2)
+## ✅ Merged Changes (4)
+
+### [Fix identify LED toggle error handling](https://gerrit.openbmc.org/c/95475)
+- **Change #:** 95475
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Changes:** +4 / -4 lines
+- **Updated:** 2026-10-14 07:15:23.000000000
+
+### [Overview: Show active interface in network card](https://gerrit.openbmc.org/c/95322)
+- **Change #:** 95322
+- **Author:** Vijaysankar Ravi
+- **Changes:** +26 / -11 lines
+- **Updated:** 2026-10-14 05:18:21.000000000
 
 ### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
 - **Change #:** 94886
@@ -22,30 +34,30 @@
 
 ## 🔍 Open Changes Awaiting Review (7)
 
-### [Fix the missing status icon in the sensors table](https://gerrit.openbmc.org/c/94645)
-- **Change #:** 94645
-- **Author:** BillChanJabil
-- **Updated:** 2026-10-13 10:32:33.000000000
+### [Fix reboot of the service manager](https://gerrit.openbmc.org/c/95081)
+- **Change #:** 95081
+- **Author:** Jason Westover
+- **Updated:** 2026-10-14 09:41:03.000000000
+
+### [Overview: Add unit tests for network card](https://gerrit.openbmc.org/c/95768)
+- **Change #:** 95768
+- **Author:** Vijaysankar Ravi
+- **Updated:** 2026-10-14 09:04:15.000000000
 
 ### [Expose the service manager URI](https://gerrit.openbmc.org/c/95088)
 - **Change #:** 95088
 - **Author:** Jason Westover
-- **Updated:** 2026-10-13 10:07:00.000000000
+- **Updated:** 2026-10-14 05:12:45.000000000
 
-### [Overview: Show active interface in network card](https://gerrit.openbmc.org/c/95322)
-- **Change #:** 95322
-- **Author:** Vijaysankar Ravi
-- **Updated:** 2026-10-13 07:51:54.000000000
-
-### [Pin Node and npm to the OpenBMC recipe](https://gerrit.openbmc.org/c/95592)
+### [Fail CI if npm rewrites package-lock.json](https://gerrit.openbmc.org/c/95592)
 - **Change #:** 95592
 - **Author:** Jason Westover
-- **Updated:** 2026-10-13 07:38:55.000000000
+- **Updated:** 2026-10-13 23:33:12.000000000
 
-### [Fix identify LED toggle error handling](https://gerrit.openbmc.org/c/95475)
-- **Change #:** 95475
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-13 06:00:26.000000000
+### [Fix the missing status icon in the sensors table](https://gerrit.openbmc.org/c/94645)
+- **Change #:** 94645
+- **Author:** BillChanJabil
+- **Updated:** 2026-10-13 10:32:33.000000000
 
 ### [Build the style guide with VitePress](https://gerrit.openbmc.org/c/95595)
 - **Change #:** 95595
