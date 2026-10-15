@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-14 12:39:45 UTC
+**Generated:** 2026-10-15 12:28:22 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-12 to 2026-10-14 (2 days)
-**Total Changes:** 12
+**Period:** 2026-10-13 to 2026-10-15 (2 days)
+**Total Changes:** 11
 
 ---
 
-## ✅ Merged Changes (4)
+## ✅ Merged Changes (3)
 
 ### [Fix identify LED toggle error handling](https://gerrit.openbmc.org/c/95475)
 - **Change #:** 95475
@@ -26,18 +26,32 @@
 - **Changes:** +325 / -159 lines
 - **Updated:** 2026-10-13 05:37:03.000000000
 
-### [Sort package.json dependencies alphabetically](https://gerrit.openbmc.org/c/91317)
-- **Change #:** 91317
-- **Author:** Jason Westover
-- **Changes:** +22 / -22 lines
-- **Updated:** 2026-10-12 18:02:03.000000000
+## 🔍 Open Changes Awaiting Review (8)
 
-## 🔍 Open Changes Awaiting Review (7)
+### [Fix the missing status icon in the sensors table](https://gerrit.openbmc.org/c/94645)
+- **Change #:** 94645
+- **Author:** BillChanJabil
+- **Updated:** 2026-10-15 05:27:19.000000000
+
+### [Build the style guide with VitePress](https://gerrit.openbmc.org/c/95595)
+- **Change #:** 95595
+- **Author:** Jason Westover
+- **Updated:** 2026-10-14 17:54:55.000000000
+
+### [Close the lint gaps left by change 94886](https://gerrit.openbmc.org/c/95590)
+- **Change #:** 95590
+- **Author:** Jason Westover
+- **Updated:** 2026-10-14 17:46:50.000000000
 
 ### [Fix reboot of the service manager](https://gerrit.openbmc.org/c/95081)
 - **Change #:** 95081
 - **Author:** Jason Westover
-- **Updated:** 2026-10-14 09:41:03.000000000
+- **Updated:** 2026-10-14 16:50:02.000000000
+
+### [docs: Add Redfish-first data layer design](https://gerrit.openbmc.org/c/94472)
+- **Change #:** 94472
+- **Author:** Jason Westover
+- **Updated:** 2026-10-14 16:14:15.000000000
 
 ### [Overview: Add unit tests for network card](https://gerrit.openbmc.org/c/95768)
 - **Change #:** 95768
@@ -53,28 +67,6 @@
 - **Change #:** 95592
 - **Author:** Jason Westover
 - **Updated:** 2026-10-13 23:33:12.000000000
-
-### [Fix the missing status icon in the sensors table](https://gerrit.openbmc.org/c/94645)
-- **Change #:** 94645
-- **Author:** BillChanJabil
-- **Updated:** 2026-10-13 10:32:33.000000000
-
-### [Build the style guide with VitePress](https://gerrit.openbmc.org/c/95595)
-- **Change #:** 95595
-- **Author:** Jason Westover
-- **Updated:** 2026-10-12 22:55:34.000000000
-
-### [Close the lint gaps left by change 94886](https://gerrit.openbmc.org/c/95590)
-- **Change #:** 95590
-- **Author:** Jason Westover
-- **Updated:** 2026-10-12 20:17:11.000000000
-
-## 🚧 Work In Progress (1)
-
-### [Sensors: Add multi-chassis support with per-chassis tab](https://gerrit.openbmc.org/c/95491)
-- **Change #:** 95491
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-10-12 14:19:56.000000000
 
 ---
 
