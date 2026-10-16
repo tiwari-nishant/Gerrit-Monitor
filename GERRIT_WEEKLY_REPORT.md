@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-15 12:28:22 UTC
+**Generated:** 2026-10-16 12:06:23 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-13 to 2026-10-15 (2 days)
-**Total Changes:** 11
+**Period:** 2026-10-14 to 2026-10-16 (2 days)
+**Total Changes:** 9
 
 ---
 
-## ✅ Merged Changes (3)
+## ✅ Merged Changes (2)
 
 ### [Fix identify LED toggle error handling](https://gerrit.openbmc.org/c/95475)
 - **Change #:** 95475
@@ -20,13 +20,7 @@
 - **Changes:** +26 / -11 lines
 - **Updated:** 2026-10-14 05:18:21.000000000
 
-### [Restore ESLint recommended and Prettier rules](https://gerrit.openbmc.org/c/94886)
-- **Change #:** 94886
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Changes:** +325 / -159 lines
-- **Updated:** 2026-10-13 05:37:03.000000000
-
-## 🔍 Open Changes Awaiting Review (8)
+## 🔍 Open Changes Awaiting Review (7)
 
 ### [Fix the missing status icon in the sensors table](https://gerrit.openbmc.org/c/94645)
 - **Change #:** 94645
@@ -62,11 +56,6 @@
 - **Change #:** 95088
 - **Author:** Jason Westover
 - **Updated:** 2026-10-14 05:12:45.000000000
-
-### [Fail CI if npm rewrites package-lock.json](https://gerrit.openbmc.org/c/95592)
-- **Change #:** 95592
-- **Author:** Jason Westover
-- **Updated:** 2026-10-13 23:33:12.000000000
 
 ---
 
