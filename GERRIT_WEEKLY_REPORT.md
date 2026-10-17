@@ -1,61 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-16 12:06:23 UTC
+**Generated:** 2026-10-17 11:24:01 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-14 to 2026-10-16 (2 days)
-**Total Changes:** 9
+**Period:** 2026-10-15 to 2026-10-17 (2 days)
+**Total Changes:** 1
 
 ---
 
-## ✅ Merged Changes (2)
-
-### [Fix identify LED toggle error handling](https://gerrit.openbmc.org/c/95475)
-- **Change #:** 95475
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Changes:** +4 / -4 lines
-- **Updated:** 2026-10-14 07:15:23.000000000
-
-### [Overview: Show active interface in network card](https://gerrit.openbmc.org/c/95322)
-- **Change #:** 95322
-- **Author:** Vijaysankar Ravi
-- **Changes:** +26 / -11 lines
-- **Updated:** 2026-10-14 05:18:21.000000000
-
-## 🔍 Open Changes Awaiting Review (7)
+## 🔍 Open Changes Awaiting Review (1)
 
 ### [Fix the missing status icon in the sensors table](https://gerrit.openbmc.org/c/94645)
 - **Change #:** 94645
 - **Author:** BillChanJabil
 - **Updated:** 2026-10-15 05:27:19.000000000
-
-### [Build the style guide with VitePress](https://gerrit.openbmc.org/c/95595)
-- **Change #:** 95595
-- **Author:** Jason Westover
-- **Updated:** 2026-10-14 17:54:55.000000000
-
-### [Close the lint gaps left by change 94886](https://gerrit.openbmc.org/c/95590)
-- **Change #:** 95590
-- **Author:** Jason Westover
-- **Updated:** 2026-10-14 17:46:50.000000000
-
-### [Fix reboot of the service manager](https://gerrit.openbmc.org/c/95081)
-- **Change #:** 95081
-- **Author:** Jason Westover
-- **Updated:** 2026-10-14 16:50:02.000000000
-
-### [docs: Add Redfish-first data layer design](https://gerrit.openbmc.org/c/94472)
-- **Change #:** 94472
-- **Author:** Jason Westover
-- **Updated:** 2026-10-14 16:14:15.000000000
-
-### [Overview: Add unit tests for network card](https://gerrit.openbmc.org/c/95768)
-- **Change #:** 95768
-- **Author:** Vijaysankar Ravi
-- **Updated:** 2026-10-14 09:04:15.000000000
-
-### [Expose the service manager URI](https://gerrit.openbmc.org/c/95088)
-- **Change #:** 95088
-- **Author:** Jason Westover
-- **Updated:** 2026-10-14 05:12:45.000000000
 
 ---
 
