@@ -1,17 +1,10 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-17 11:24:01 UTC
+**Generated:** 2026-10-18 11:56:55 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-15 to 2026-10-17 (2 days)
-**Total Changes:** 1
+**Period:** 2026-10-16 to 2026-10-18 (2 days)
+**Total Changes:** 0
 
 ---
-
-## 🔍 Open Changes Awaiting Review (1)
-
-### [Fix the missing status icon in the sensors table](https://gerrit.openbmc.org/c/94645)
-- **Change #:** 94645
-- **Author:** BillChanJabil
-- **Updated:** 2026-10-15 05:27:19.000000000
 
 ---
 
