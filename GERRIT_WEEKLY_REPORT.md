@@ -1,10 +1,40 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-18 11:56:55 UTC
+**Generated:** 2026-10-19 14:22:25 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-16 to 2026-10-18 (2 days)
-**Total Changes:** 0
+**Period:** 2026-10-17 to 2026-10-19 (2 days)
+**Total Changes:** 5
 
 ---
+
+## ✅ Merged Changes (1)
+
+### [Fix the missing status icon in the sensors table](https://gerrit.openbmc.org/c/94645)
+- **Change #:** 94645
+- **Author:** BillChanJabil
+- **Changes:** +3 / -2 lines
+- **Updated:** 2026-10-19 06:48:13.000000000
+
+## 🔍 Open Changes Awaiting Review (4)
+
+### [Support zh-CN Chinese language](https://gerrit.openbmc.org/c/74330)
+- **Change #:** 74330
+- **Author:** Jackie14
+- **Updated:** 2026-10-19 13:42:23.000000000
+
+### [Add Chinese translation](https://gerrit.openbmc.org/c/92930)
+- **Change #:** 92930
+- **Author:** SKYCATV587
+- **Updated:** 2026-10-19 13:41:06.000000000
+
+### [Register StatusIcon in the firmware version cards](https://gerrit.openbmc.org/c/94623)
+- **Change #:** 94623
+- **Author:** BillChanJabil
+- **Updated:** 2026-10-19 09:26:38.000000000
+
+### [Make Export All downloads valid .json files](https://gerrit.openbmc.org/c/94637)
+- **Change #:** 94637
+- **Author:** BillChanJabil
+- **Updated:** 2026-10-19 09:25:33.000000000
 
 ---
 
