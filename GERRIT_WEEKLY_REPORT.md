@@ -1,8 +1,8 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-20 12:33:00 UTC
+**Generated:** 2026-10-21 12:43:51 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-18 to 2026-10-20 (2 days)
-**Total Changes:** 5
+**Period:** 2026-10-19 to 2026-10-21 (2 days)
+**Total Changes:** 6
 
 ---
 
@@ -14,12 +14,22 @@
 - **Changes:** +3 / -2 lines
 - **Updated:** 2026-10-19 06:48:13.000000000
 
-## 🔍 Open Changes Awaiting Review (4)
+## 🔍 Open Changes Awaiting Review (5)
 
 ### [Support zh-CN Chinese language](https://gerrit.openbmc.org/c/74330)
 - **Change #:** 74330
 - **Author:** Jackie14
-- **Updated:** 2026-10-19 13:42:23.000000000
+- **Updated:** 2026-10-21 06:14:33.000000000
+
+### [build: Move @vue/vue3-jest to devDependencies](https://gerrit.openbmc.org/c/96071)
+- **Change #:** 96071
+- **Author:** Jason Westover
+- **Updated:** 2026-10-20 17:15:41.000000000
+
+### [Make Export All downloads valid .json files](https://gerrit.openbmc.org/c/94637)
+- **Change #:** 94637
+- **Author:** BillChanJabil
+- **Updated:** 2026-10-20 16:08:18.000000000
 
 ### [Add Chinese translation](https://gerrit.openbmc.org/c/92930)
 - **Change #:** 92930
@@ -30,11 +40,6 @@
 - **Change #:** 94623
 - **Author:** BillChanJabil
 - **Updated:** 2026-10-19 09:26:38.000000000
-
-### [Make Export All downloads valid .json files](https://gerrit.openbmc.org/c/94637)
-- **Change #:** 94637
-- **Author:** BillChanJabil
-- **Updated:** 2026-10-19 09:25:33.000000000
 
 ---
 
