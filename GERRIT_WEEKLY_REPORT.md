@@ -1,20 +1,52 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-21 12:43:51 UTC
+**Generated:** 2026-10-22 12:47:40 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-19 to 2026-10-21 (2 days)
-**Total Changes:** 6
+**Period:** 2026-10-20 to 2026-10-22 (2 days)
+**Total Changes:** 13
 
 ---
 
-## ✅ Merged Changes (1)
+## 🔍 Open Changes Awaiting Review (11)
 
-### [Fix the missing status icon in the sensors table](https://gerrit.openbmc.org/c/94645)
-- **Change #:** 94645
-- **Author:** BillChanJabil
-- **Changes:** +3 / -2 lines
-- **Updated:** 2026-10-19 06:48:13.000000000
+### [Overview: Add unit tests for network card](https://gerrit.openbmc.org/c/95768)
+- **Change #:** 95768
+- **Author:** Vijaysankar Ravi
+- **Updated:** 2026-10-22 11:14:33.000000000
 
-## 🔍 Open Changes Awaiting Review (5)
+### [docs: Update webui-vue offline build/SBOM design](https://gerrit.openbmc.org/c/96124)
+- **Change #:** 96124
+- **Author:** Jason Westover
+- **Updated:** 2026-10-21 19:00:44.000000000
+
+### [Check Redfish privileges for firmware and power](https://gerrit.openbmc.org/c/87156)
+- **Change #:** 87156
+- **Author:** Jason Westover
+- **Updated:** 2026-10-21 17:41:28.000000000
+
+### [Stop persisting sensitive Redfish GET bodies](https://gerrit.openbmc.org/c/95078)
+- **Change #:** 95078
+- **Author:** Jason Westover
+- **Updated:** 2026-10-21 16:36:02.000000000
+
+### [Add openapi-ts codegen tooling scaffold](https://gerrit.openbmc.org/c/91407)
+- **Change #:** 91407
+- **Author:** Jason Westover
+- **Updated:** 2026-10-21 16:29:54.000000000
+
+### [Refactor Redfish API client](https://gerrit.openbmc.org/c/91267)
+- **Change #:** 91267
+- **Author:** Jason Westover
+- **Updated:** 2026-10-21 16:24:48.000000000
+
+### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
+- **Change #:** 91277
+- **Author:** Jason Westover
+- **Updated:** 2026-10-21 16:24:33.000000000
+
+### [Fix reboot of the service manager](https://gerrit.openbmc.org/c/95081)
+- **Change #:** 95081
+- **Author:** Jason Westover
+- **Updated:** 2026-10-21 16:13:59.000000000
 
 ### [Support zh-CN Chinese language](https://gerrit.openbmc.org/c/74330)
 - **Change #:** 74330
@@ -31,15 +63,17 @@
 - **Author:** BillChanJabil
 - **Updated:** 2026-10-20 16:08:18.000000000
 
-### [Add Chinese translation](https://gerrit.openbmc.org/c/92930)
-- **Change #:** 92930
-- **Author:** SKYCATV587
-- **Updated:** 2026-10-19 13:41:06.000000000
+## ❌ Abandoned Changes (2)
 
-### [Register StatusIcon in the firmware version cards](https://gerrit.openbmc.org/c/94623)
-- **Change #:** 94623
-- **Author:** BillChanJabil
-- **Updated:** 2026-10-19 09:26:38.000000000
+### [build: Generate OSS license manifest and SBOM](https://gerrit.openbmc.org/c/91792)
+- **Change #:** 91792
+- **Author:** Jason Westover
+- **Updated:** 2026-10-21 19:02:23.000000000
+
+### [build: Move @vue/vue3-jest to devDependencies](https://gerrit.openbmc.org/c/91791)
+- **Change #:** 91791
+- **Author:** Jason Westover
+- **Updated:** 2026-10-21 16:39:38.000000000
 
 ---
 
