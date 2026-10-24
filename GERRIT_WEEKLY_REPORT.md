@@ -1,12 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-23 12:26:05 UTC
+**Generated:** 2026-10-24 11:51:20 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-21 to 2026-10-23 (2 days)
-**Total Changes:** 12
+**Period:** 2026-10-22 to 2026-10-24 (2 days)
+**Total Changes:** 4
 
 ---
 
-## 🔍 Open Changes Awaiting Review (10)
+## 🔍 Open Changes Awaiting Review (4)
+
+### [docs: Update webui-vue offline build/SBOM design](https://gerrit.openbmc.org/c/96124)
+- **Change #:** 96124
+- **Author:** Jason Westover
+- **Updated:** 2026-10-23 14:14:43.000000000
 
 ### [build: Move @vue/vue3-jest to devDependencies](https://gerrit.openbmc.org/c/96071)
 - **Change #:** 96071
@@ -22,53 +27,6 @@
 - **Change #:** 95078
 - **Author:** Jason Westover
 - **Updated:** 2026-10-23 08:14:05.000000000
-
-### [docs: Update webui-vue offline build/SBOM design](https://gerrit.openbmc.org/c/96124)
-- **Change #:** 96124
-- **Author:** Jason Westover
-- **Updated:** 2026-10-23 07:31:44.000000000
-
-### [Check Redfish privileges for firmware and power](https://gerrit.openbmc.org/c/87156)
-- **Change #:** 87156
-- **Author:** Jason Westover
-- **Updated:** 2026-10-21 17:41:28.000000000
-
-### [Add openapi-ts codegen tooling scaffold](https://gerrit.openbmc.org/c/91407)
-- **Change #:** 91407
-- **Author:** Jason Westover
-- **Updated:** 2026-10-21 16:29:54.000000000
-
-### [Refactor Redfish API client](https://gerrit.openbmc.org/c/91267)
-- **Change #:** 91267
-- **Author:** Jason Westover
-- **Updated:** 2026-10-21 16:24:48.000000000
-
-### [Add useAuthStore seam for the auth store](https://gerrit.openbmc.org/c/91277)
-- **Change #:** 91277
-- **Author:** Jason Westover
-- **Updated:** 2026-10-21 16:24:33.000000000
-
-### [Fix reboot of the service manager](https://gerrit.openbmc.org/c/95081)
-- **Change #:** 95081
-- **Author:** Jason Westover
-- **Updated:** 2026-10-21 16:13:59.000000000
-
-### [Support zh-CN Chinese language](https://gerrit.openbmc.org/c/74330)
-- **Change #:** 74330
-- **Author:** Jackie14
-- **Updated:** 2026-10-21 06:14:33.000000000
-
-## ❌ Abandoned Changes (2)
-
-### [build: Generate OSS license manifest and SBOM](https://gerrit.openbmc.org/c/91792)
-- **Change #:** 91792
-- **Author:** Jason Westover
-- **Updated:** 2026-10-21 19:02:23.000000000
-
-### [build: Move @vue/vue3-jest to devDependencies](https://gerrit.openbmc.org/c/91791)
-- **Change #:** 91791
-- **Author:** Jason Westover
-- **Updated:** 2026-10-21 16:39:38.000000000
 
 ---
 
