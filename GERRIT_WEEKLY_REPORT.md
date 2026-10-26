@@ -1,32 +1,10 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-25 12:21:25 UTC
+**Generated:** 2026-10-26 13:55:33 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-23 to 2026-10-25 (2 days)
-**Total Changes:** 4
+**Period:** 2026-10-24 to 2026-10-26 (2 days)
+**Total Changes:** 0
 
 ---
-
-## 🔍 Open Changes Awaiting Review (4)
-
-### [docs: Update webui-vue offline build/SBOM design](https://gerrit.openbmc.org/c/96124)
-- **Change #:** 96124
-- **Author:** Jason Westover
-- **Updated:** 2026-10-23 14:14:43.000000000
-
-### [build: Move @vue/vue3-jest to devDependencies](https://gerrit.openbmc.org/c/96071)
-- **Change #:** 96071
-- **Author:** Jason Westover
-- **Updated:** 2026-10-23 10:28:22.000000000
-
-### [Overview: Add unit tests for network card](https://gerrit.openbmc.org/c/95768)
-- **Change #:** 95768
-- **Author:** Vijaysankar Ravi
-- **Updated:** 2026-10-23 10:27:09.000000000
-
-### [Stop persisting sensitive Redfish GET bodies](https://gerrit.openbmc.org/c/95078)
-- **Change #:** 95078
-- **Author:** Jason Westover
-- **Updated:** 2026-10-23 08:14:05.000000000
 
 ---
 
