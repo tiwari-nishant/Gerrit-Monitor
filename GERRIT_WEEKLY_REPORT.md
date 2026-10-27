@@ -1,10 +1,27 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-26 13:55:33 UTC
+**Generated:** 2026-10-27 12:59:32 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-24 to 2026-10-26 (2 days)
-**Total Changes:** 0
+**Period:** 2026-10-25 to 2026-10-27 (2 days)
+**Total Changes:** 3
 
 ---
+
+## 🔍 Open Changes Awaiting Review (3)
+
+### [Add design for webui-vue AI code-review skill](https://gerrit.openbmc.org/c/96315)
+- **Change #:** 96315
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-10-27 07:19:09.000000000
+
+### [docs: Update webui-vue offline build/SBOM design](https://gerrit.openbmc.org/c/96124)
+- **Change #:** 96124
+- **Author:** Jason Westover
+- **Updated:** 2026-10-27 05:38:49.000000000
+
+### [Sensors: Add multi-chassis support with per-chassis tab](https://gerrit.openbmc.org/c/95491)
+- **Change #:** 95491
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-10-26 14:22:49.000000000
 
 ---
 
