@@ -1,12 +1,47 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-27 12:59:32 UTC
+**Generated:** 2026-10-28 13:50:21 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-25 to 2026-10-27 (2 days)
-**Total Changes:** 3
+**Period:** 2026-10-26 to 2026-10-28 (2 days)
+**Total Changes:** 9
 
 ---
 
-## 🔍 Open Changes Awaiting Review (3)
+## 🔍 Open Changes Awaiting Review (9)
+
+### [Sensors: Add multi-chassis support with per-chassis tab](https://gerrit.openbmc.org/c/95491)
+- **Change #:** 95491
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-10-28 13:35:00.000000000
+
+### [Added Power page tests and a shared query error state](https://gerrit.openbmc.org/c/96400)
+- **Change #:** 96400
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-10-28 13:15:22.000000000
+
+### [Build the style guide with VitePress](https://gerrit.openbmc.org/c/95595)
+- **Change #:** 95595
+- **Author:** Jason Westover
+- **Updated:** 2026-10-28 12:57:12.000000000
+
+### [Close the lint gaps left by change 94886](https://gerrit.openbmc.org/c/95590)
+- **Change #:** 95590
+- **Author:** Jason Westover
+- **Updated:** 2026-10-28 12:17:03.000000000
+
+### [Fix reboot of the service manager](https://gerrit.openbmc.org/c/95081)
+- **Change #:** 95081
+- **Author:** Jason Westover
+- **Updated:** 2026-10-28 11:28:31.000000000
+
+### [docs: Add Redfish-first data layer design](https://gerrit.openbmc.org/c/94472)
+- **Change #:** 94472
+- **Author:** Jason Westover
+- **Updated:** 2026-10-28 10:03:53.000000000
+
+### [Make Export All downloads valid .json files](https://gerrit.openbmc.org/c/94637)
+- **Change #:** 94637
+- **Author:** BillChanJabil
+- **Updated:** 2026-10-28 02:09:05.000000000
 
 ### [Add design for webui-vue AI code-review skill](https://gerrit.openbmc.org/c/96315)
 - **Change #:** 96315
@@ -17,11 +52,6 @@
 - **Change #:** 96124
 - **Author:** Jason Westover
 - **Updated:** 2026-10-27 05:38:49.000000000
-
-### [Sensors: Add multi-chassis support with per-chassis tab](https://gerrit.openbmc.org/c/95491)
-- **Change #:** 95491
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-10-26 14:22:49.000000000
 
 ---
 
