@@ -1,12 +1,32 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-28 13:50:21 UTC
+**Generated:** 2026-10-29 13:56:50 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-26 to 2026-10-28 (2 days)
-**Total Changes:** 9
+**Period:** 2026-10-27 to 2026-10-29 (2 days)
+**Total Changes:** 13
 
 ---
 
-## 🔍 Open Changes Awaiting Review (9)
+## 🔍 Open Changes Awaiting Review (13)
+
+### [Add Tasks page under Logs](https://gerrit.openbmc.org/c/92370)
+- **Change #:** 92370
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-10-29 12:52:38.000000000
+
+### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
+- **Change #:** 93394
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-10-29 06:08:54.000000000
+
+### [Security: Add noopener,noreferrer to SoL pop-out window](https://gerrit.openbmc.org/c/94726)
+- **Change #:** 94726
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-10-29 06:08:42.000000000
+
+### [network: Show duplex mode on interface page](https://gerrit.openbmc.org/c/94781)
+- **Change #:** 94781
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-10-29 06:08:29.000000000
 
 ### [Sensors: Add multi-chassis support with per-chassis tab](https://gerrit.openbmc.org/c/95491)
 - **Change #:** 95491
