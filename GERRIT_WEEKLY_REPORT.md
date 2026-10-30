@@ -1,12 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-29 13:56:50 UTC
+**Generated:** 2026-10-30 13:51:27 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-27 to 2026-10-29 (2 days)
-**Total Changes:** 13
+**Period:** 2026-10-28 to 2026-10-30 (2 days)
+**Total Changes:** 11
 
 ---
 
-## 🔍 Open Changes Awaiting Review (13)
+## 🔍 Open Changes Awaiting Review (11)
+
+### [network: Show duplex mode on interface page](https://gerrit.openbmc.org/c/94781)
+- **Change #:** 94781
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-10-30 09:02:06.000000000
 
 ### [Add Tasks page under Logs](https://gerrit.openbmc.org/c/92370)
 - **Change #:** 92370
@@ -22,11 +27,6 @@
 - **Change #:** 94726
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-10-29 06:08:42.000000000
-
-### [network: Show duplex mode on interface page](https://gerrit.openbmc.org/c/94781)
-- **Change #:** 94781
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-29 06:08:29.000000000
 
 ### [Sensors: Add multi-chassis support with per-chassis tab](https://gerrit.openbmc.org/c/95491)
 - **Change #:** 95491
@@ -62,16 +62,6 @@
 - **Change #:** 94637
 - **Author:** BillChanJabil
 - **Updated:** 2026-10-28 02:09:05.000000000
-
-### [Add design for webui-vue AI code-review skill](https://gerrit.openbmc.org/c/96315)
-- **Change #:** 96315
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-27 07:19:09.000000000
-
-### [docs: Update webui-vue offline build/SBOM design](https://gerrit.openbmc.org/c/96124)
-- **Change #:** 96124
-- **Author:** Jason Westover
-- **Updated:** 2026-10-27 05:38:49.000000000
 
 ---
 
