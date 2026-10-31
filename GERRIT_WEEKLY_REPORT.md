@@ -1,67 +1,49 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-30 13:51:27 UTC
+**Generated:** 2026-10-31 13:20:38 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-28 to 2026-10-30 (2 days)
-**Total Changes:** 11
+**Period:** 2026-10-29 to 2026-10-31 (2 days)
+**Total Changes:** 7
 
 ---
 
-## 🔍 Open Changes Awaiting Review (11)
+## 🔍 Open Changes Awaiting Review (6)
 
-### [network: Show duplex mode on interface page](https://gerrit.openbmc.org/c/94781)
-- **Change #:** 94781
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-30 09:02:06.000000000
+### [Resolve collection members using schema types](https://gerrit.openbmc.org/c/96595)
+- **Change #:** 96595
+- **Author:** Jason Westover
+- **Updated:** 2026-10-30 20:30:43.000000000
+
+### [Sensors: Add multi-chassis support with per-chassis tab](https://gerrit.openbmc.org/c/95491)
+- **Change #:** 95491
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-10-30 19:11:04.000000000
 
 ### [Add Tasks page under Logs](https://gerrit.openbmc.org/c/92370)
 - **Change #:** 92370
 - **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-29 12:52:38.000000000
+- **Updated:** 2026-10-30 16:31:00.000000000
+
+### [Security: Add noopener,noreferrer to SoL pop-out window](https://gerrit.openbmc.org/c/94726)
+- **Change #:** 94726
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-10-30 16:15:48.000000000
+
+### [network: Show duplex mode on interface page](https://gerrit.openbmc.org/c/94781)
+- **Change #:** 94781
+- **Author:** Aravinth Sri Krishna Raja Raghavan
+- **Updated:** 2026-10-30 15:11:58.000000000
 
 ### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
 - **Change #:** 93394
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-10-29 06:08:54.000000000
 
-### [Security: Add noopener,noreferrer to SoL pop-out window](https://gerrit.openbmc.org/c/94726)
-- **Change #:** 94726
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-29 06:08:42.000000000
+## ❌ Abandoned Changes (1)
 
-### [Sensors: Add multi-chassis support with per-chassis tab](https://gerrit.openbmc.org/c/95491)
-- **Change #:** 95491
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-10-28 13:35:00.000000000
-
-### [Added Power page tests and a shared query error state](https://gerrit.openbmc.org/c/96400)
-- **Change #:** 96400
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-10-28 13:15:22.000000000
-
-### [Build the style guide with VitePress](https://gerrit.openbmc.org/c/95595)
-- **Change #:** 95595
+### [Resolve collection members using schema types](https://gerrit.openbmc.org/c/96593)
+- **Change #:** 96593
 - **Author:** Jason Westover
-- **Updated:** 2026-10-28 12:57:12.000000000
-
-### [Close the lint gaps left by change 94886](https://gerrit.openbmc.org/c/95590)
-- **Change #:** 95590
-- **Author:** Jason Westover
-- **Updated:** 2026-10-28 12:17:03.000000000
-
-### [Fix reboot of the service manager](https://gerrit.openbmc.org/c/95081)
-- **Change #:** 95081
-- **Author:** Jason Westover
-- **Updated:** 2026-10-28 11:28:31.000000000
-
-### [docs: Add Redfish-first data layer design](https://gerrit.openbmc.org/c/94472)
-- **Change #:** 94472
-- **Author:** Jason Westover
-- **Updated:** 2026-10-28 10:03:53.000000000
-
-### [Make Export All downloads valid .json files](https://gerrit.openbmc.org/c/94637)
-- **Change #:** 94637
-- **Author:** BillChanJabil
-- **Updated:** 2026-10-28 02:09:05.000000000
+- **Updated:** 2026-10-30 20:40:10.000000000
 
 ---
 
