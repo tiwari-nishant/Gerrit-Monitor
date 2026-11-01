@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-10-31 13:20:38 UTC
+**Generated:** 2026-11-01 14:03:26 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-29 to 2026-10-31 (2 days)
-**Total Changes:** 7
+**Period:** 2026-10-30 to 2026-11-01 (2 days)
+**Total Changes:** 6
 
 ---
 
-## 🔍 Open Changes Awaiting Review (6)
+## 🔍 Open Changes Awaiting Review (5)
 
 ### [Resolve collection members using schema types](https://gerrit.openbmc.org/c/96595)
 - **Change #:** 96595
@@ -32,11 +32,6 @@
 - **Change #:** 94781
 - **Author:** Aravinth Sri Krishna Raja Raghavan
 - **Updated:** 2026-10-30 15:11:58.000000000
-
-### [Add AI PR review agent for webui-vue](https://gerrit.openbmc.org/c/93394)
-- **Change #:** 93394
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-29 06:08:54.000000000
 
 ## ❌ Abandoned Changes (1)
 
