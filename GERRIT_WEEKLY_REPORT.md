@@ -1,44 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-11-01 14:03:26 UTC
+**Generated:** 2026-11-02 16:50:45 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-30 to 2026-11-01 (2 days)
-**Total Changes:** 6
+**Period:** 2026-10-31 to 2026-11-02 (2 days)
+**Total Changes:** 1
 
 ---
 
-## 🔍 Open Changes Awaiting Review (5)
-
-### [Resolve collection members using schema types](https://gerrit.openbmc.org/c/96595)
-- **Change #:** 96595
-- **Author:** Jason Westover
-- **Updated:** 2026-10-30 20:30:43.000000000
-
-### [Sensors: Add multi-chassis support with per-chassis tab](https://gerrit.openbmc.org/c/95491)
-- **Change #:** 95491
-- **Author:** Nikhil Ashoka
-- **Updated:** 2026-10-30 19:11:04.000000000
-
-### [Add Tasks page under Logs](https://gerrit.openbmc.org/c/92370)
-- **Change #:** 92370
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-30 16:31:00.000000000
-
-### [Security: Add noopener,noreferrer to SoL pop-out window](https://gerrit.openbmc.org/c/94726)
-- **Change #:** 94726
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-30 16:15:48.000000000
-
-### [network: Show duplex mode on interface page](https://gerrit.openbmc.org/c/94781)
-- **Change #:** 94781
-- **Author:** Aravinth Sri Krishna Raja Raghavan
-- **Updated:** 2026-10-30 15:11:58.000000000
-
 ## ❌ Abandoned Changes (1)
 
-### [Resolve collection members using schema types](https://gerrit.openbmc.org/c/96593)
-- **Change #:** 96593
-- **Author:** Jason Westover
-- **Updated:** 2026-10-30 20:40:10.000000000
+### [Add support for SimpleUpdate in firmware update](https://gerrit.openbmc.org/c/73116)
+- **Change #:** 73116
+- **Author:** Jackie14
+- **Updated:** 2026-11-02 00:08:18.000000000
 
 ---
 
