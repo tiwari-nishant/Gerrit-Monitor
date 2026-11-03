@@ -1,10 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-11-02 16:50:45 UTC
+**Generated:** 2026-11-03 14:51:39 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-10-31 to 2026-11-02 (2 days)
-**Total Changes:** 1
+**Period:** 2026-11-01 to 2026-11-03 (2 days)
+**Total Changes:** 2
 
 ---
+
+## 🔍 Open Changes Awaiting Review (1)
+
+### [Fail CI if npm rewrites package-lock.json](https://gerrit.openbmc.org/c/95592)
+- **Change #:** 95592
+- **Author:** Jason Westover
+- **Updated:** 2026-11-03 07:03:31.000000000
 
 ## ❌ Abandoned Changes (1)
 
