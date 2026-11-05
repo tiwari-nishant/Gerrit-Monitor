@@ -1,8 +1,8 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-11-04 15:08:14 UTC
+**Generated:** 2026-11-05 15:11:21 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-11-02 to 2026-11-04 (2 days)
-**Total Changes:** 2
+**Period:** 2026-11-03 to 2026-11-05 (2 days)
+**Total Changes:** 1
 
 ---
 
@@ -12,13 +12,6 @@
 - **Change #:** 95592
 - **Author:** Jason Westover
 - **Updated:** 2026-11-03 07:03:31.000000000
-
-## ❌ Abandoned Changes (1)
-
-### [Add support for SimpleUpdate in firmware update](https://gerrit.openbmc.org/c/73116)
-- **Change #:** 73116
-- **Author:** Jackie14
-- **Updated:** 2026-11-02 00:08:18.000000000
 
 ---
 
