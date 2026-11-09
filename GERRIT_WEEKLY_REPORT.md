@@ -1,17 +1,10 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-11-08 14:05:05 UTC
+**Generated:** 2026-11-09 17:11:04 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-11-06 to 2026-11-08 (2 days)
-**Total Changes:** 1
+**Period:** 2026-11-07 to 2026-11-09 (2 days)
+**Total Changes:** 0
 
 ---
-
-## 🔍 Open Changes Awaiting Review (1)
-
-### [Dumps: Show size in GB, MB or KB based on magnitude](https://gerrit.openbmc.org/c/96820)
-- **Change #:** 96820
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-11-06 06:48:02.000000000
 
 ---
 
