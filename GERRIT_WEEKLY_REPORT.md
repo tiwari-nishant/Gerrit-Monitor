@@ -1,10 +1,17 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-11-09 17:11:04 UTC
+**Generated:** 2026-11-10 15:25:33 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-11-07 to 2026-11-09 (2 days)
-**Total Changes:** 0
+**Period:** 2026-11-08 to 2026-11-10 (2 days)
+**Total Changes:** 1
 
 ---
+
+## 🔍 Open Changes Awaiting Review (1)
+
+### [Sensors: Add multi-chassis support with per-chassis tab](https://gerrit.openbmc.org/c/95491)
+- **Change #:** 95491
+- **Author:** Nikhil Ashoka
+- **Updated:** 2026-11-10 06:10:24.000000000
 
 ---
 
