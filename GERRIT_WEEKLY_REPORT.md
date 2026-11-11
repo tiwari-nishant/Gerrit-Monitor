@@ -1,12 +1,32 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-11-10 15:25:33 UTC
+**Generated:** 2026-11-11 14:55:59 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-11-08 to 2026-11-10 (2 days)
-**Total Changes:** 1
+**Period:** 2026-11-09 to 2026-11-11 (2 days)
+**Total Changes:** 5
 
 ---
 
-## 🔍 Open Changes Awaiting Review (1)
+## 🔍 Open Changes Awaiting Review (5)
+
+### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
+- **Change #:** 91086
+- **Author:** Nishant Tiwari
+- **Updated:** 2026-11-11 14:04:53.000000000
+
+### [webui-vue: Fix EventLog attachment download](https://gerrit.openbmc.org/c/97114)
+- **Change #:** 97114
+- **Author:** meghan1006
+- **Updated:** 2026-11-11 13:37:50.000000000
+
+### [webui-vue: Fix EventLog attachment download](https://gerrit.openbmc.org/c/97112)
+- **Change #:** 97112
+- **Author:** meghan1006
+- **Updated:** 2026-11-11 13:26:53.000000000
+
+### [Fix EventLog attachment download after bmcweb JSON change](https://gerrit.openbmc.org/c/97111)
+- **Change #:** 97111
+- **Author:** meghan1006
+- **Updated:** 2026-11-11 13:24:37.000000000
 
 ### [Sensors: Add multi-chassis support with per-chassis tab](https://gerrit.openbmc.org/c/95491)
 - **Change #:** 95491
