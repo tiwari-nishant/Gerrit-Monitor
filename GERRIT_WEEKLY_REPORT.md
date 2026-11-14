@@ -1,32 +1,10 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-11-13 15:07:03 UTC
+**Generated:** 2026-11-14 13:57:20 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-11-11 to 2026-11-13 (2 days)
-**Total Changes:** 4
+**Period:** 2026-11-12 to 2026-11-14 (2 days)
+**Total Changes:** 0
 
 ---
-
-## 🔍 Open Changes Awaiting Review (4)
-
-### [Updated Reboot BMC Notification Messages](https://gerrit.openbmc.org/c/91086)
-- **Change #:** 91086
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-11-11 17:47:55.000000000
-
-### [webui-vue: Fix EventLog attachment download](https://gerrit.openbmc.org/c/97114)
-- **Change #:** 97114
-- **Author:** meghan1006
-- **Updated:** 2026-11-11 13:37:50.000000000
-
-### [webui-vue: Fix EventLog attachment download](https://gerrit.openbmc.org/c/97112)
-- **Change #:** 97112
-- **Author:** meghan1006
-- **Updated:** 2026-11-11 13:26:53.000000000
-
-### [Fix EventLog attachment download after bmcweb JSON change](https://gerrit.openbmc.org/c/97111)
-- **Change #:** 97111
-- **Author:** meghan1006
-- **Updated:** 2026-11-11 13:24:37.000000000
 
 ---
 
