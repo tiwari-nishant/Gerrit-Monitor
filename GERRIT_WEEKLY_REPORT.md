@@ -1,17 +1,22 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-11-16 16:46:13 UTC
+**Generated:** 2026-11-17 16:42:35 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-11-14 to 2026-11-16 (2 days)
-**Total Changes:** 1
+**Period:** 2026-11-15 to 2026-11-17 (2 days)
+**Total Changes:** 2
 
 ---
 
-## 🔍 Open Changes Awaiting Review (1)
+## 🔍 Open Changes Awaiting Review (2)
 
 ### [Overview: Add unit tests for network card](https://gerrit.openbmc.org/c/95768)
 - **Change #:** 95768
 - **Author:** Vijaysankar Ravi
-- **Updated:** 2026-11-16 05:14:52.000000000
+- **Updated:** 2026-11-17 05:39:54.000000000
+
+### [Dumps: Show size in GB, MB or KB based on magnitude](https://gerrit.openbmc.org/c/96820)
+- **Change #:** 96820
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-11-16 18:57:43.000000000
 
 ---
 
