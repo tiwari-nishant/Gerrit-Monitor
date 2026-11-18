@@ -1,22 +1,42 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-11-17 16:42:35 UTC
+**Generated:** 2026-11-18 16:12:30 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-11-15 to 2026-11-17 (2 days)
-**Total Changes:** 2
+**Period:** 2026-11-16 to 2026-11-18 (2 days)
+**Total Changes:** 6
 
 ---
 
-## 🔍 Open Changes Awaiting Review (2)
+## 🔍 Open Changes Awaiting Review (6)
+
+### [Add Traditional Chinese (zh-TW) locale](https://gerrit.openbmc.org/c/97431)
+- **Change #:** 97431
+- **Author:** mjieyu404-arch
+- **Updated:** 2026-11-18 15:23:51.000000000
+
+### [Dumps: Show size in GB, MB or KB based on magnitude](https://gerrit.openbmc.org/c/96820)
+- **Change #:** 96820
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-11-18 12:05:47.000000000
+
+### [Fix EventLog attachment download after bmcweb JSON change](https://gerrit.openbmc.org/c/97111)
+- **Change #:** 97111
+- **Author:** meghan1006
+- **Updated:** 2026-11-18 05:28:33.000000000
+
+### [webui-vue: Fix EventLog attachment download](https://gerrit.openbmc.org/c/97114)
+- **Change #:** 97114
+- **Author:** meghan1006
+- **Updated:** 2026-11-18 05:27:42.000000000
+
+### [webui-vue: Fix EventLog attachment download](https://gerrit.openbmc.org/c/97112)
+- **Change #:** 97112
+- **Author:** meghan1006
+- **Updated:** 2026-11-18 05:27:14.000000000
 
 ### [Overview: Add unit tests for network card](https://gerrit.openbmc.org/c/95768)
 - **Change #:** 95768
 - **Author:** Vijaysankar Ravi
 - **Updated:** 2026-11-17 05:39:54.000000000
-
-### [Dumps: Show size in GB, MB or KB based on magnitude](https://gerrit.openbmc.org/c/96820)
-- **Change #:** 96820
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-11-16 18:57:43.000000000
 
 ---
 
