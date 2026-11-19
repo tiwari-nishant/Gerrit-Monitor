@@ -1,22 +1,27 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-11-18 16:12:30 UTC
+**Generated:** 2026-11-19 16:19:59 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-11-16 to 2026-11-18 (2 days)
-**Total Changes:** 6
+**Period:** 2026-11-17 to 2026-11-19 (2 days)
+**Total Changes:** 7
 
 ---
 
-## 🔍 Open Changes Awaiting Review (6)
+## 🔍 Open Changes Awaiting Review (7)
+
+### [Fix policy toggles not reverting on error](https://gerrit.openbmc.org/c/97534)
+- **Change #:** 97534
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-11-19 16:18:20.000000000
+
+### [Dumps: Show size in GB, MB, KB or bytes](https://gerrit.openbmc.org/c/96820)
+- **Change #:** 96820
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-11-19 05:47:12.000000000
 
 ### [Add Traditional Chinese (zh-TW) locale](https://gerrit.openbmc.org/c/97431)
 - **Change #:** 97431
 - **Author:** mjieyu404-arch
 - **Updated:** 2026-11-18 15:23:51.000000000
-
-### [Dumps: Show size in GB, MB or KB based on magnitude](https://gerrit.openbmc.org/c/96820)
-- **Change #:** 96820
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-11-18 12:05:47.000000000
 
 ### [Fix EventLog attachment download after bmcweb JSON change](https://gerrit.openbmc.org/c/97111)
 - **Change #:** 97111
