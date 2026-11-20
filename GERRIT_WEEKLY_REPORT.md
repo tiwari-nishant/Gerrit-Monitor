@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-11-19 16:19:59 UTC
+**Generated:** 2026-11-20 15:55:25 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-11-17 to 2026-11-19 (2 days)
-**Total Changes:** 7
+**Period:** 2026-11-18 to 2026-11-20 (2 days)
+**Total Changes:** 6
 
 ---
 
-## 🔍 Open Changes Awaiting Review (7)
+## 🔍 Open Changes Awaiting Review (6)
 
 ### [Fix policy toggles not reverting on error](https://gerrit.openbmc.org/c/97534)
 - **Change #:** 97534
@@ -37,11 +37,6 @@
 - **Change #:** 97112
 - **Author:** meghan1006
 - **Updated:** 2026-11-18 05:27:14.000000000
-
-### [Overview: Add unit tests for network card](https://gerrit.openbmc.org/c/95768)
-- **Change #:** 95768
-- **Author:** Vijaysankar Ravi
-- **Updated:** 2026-11-17 05:39:54.000000000
 
 ---
 
