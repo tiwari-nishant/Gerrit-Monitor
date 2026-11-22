@@ -1,32 +1,32 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-11-21 15:06:25 UTC
+**Generated:** 2026-11-22 15:03:39 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-11-19 to 2026-11-21 (2 days)
+**Period:** 2026-11-20 to 2026-11-22 (2 days)
 **Total Changes:** 4
 
 ---
 
 ## 🔍 Open Changes Awaiting Review (4)
 
+### [Fix policy toggles not reverting on error](https://gerrit.openbmc.org/c/97534)
+- **Change #:** 97534
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-11-22 14:11:43.000000000
+
+### [Dumps: Show size in GB, MB, KB or bytes](https://gerrit.openbmc.org/c/96820)
+- **Change #:** 96820
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-11-22 13:45:20.000000000
+
 ### [Fail CI if npm rewrites package-lock.json](https://gerrit.openbmc.org/c/95592)
 - **Change #:** 95592
 - **Author:** Jason Westover
 - **Updated:** 2026-11-20 21:06:56.000000000
 
-### [Dumps: Show size in GB, MB, KB or bytes](https://gerrit.openbmc.org/c/96820)
-- **Change #:** 96820
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-11-20 21:05:18.000000000
-
 ### [Add Traditional Chinese (zh-TW) locale](https://gerrit.openbmc.org/c/97431)
 - **Change #:** 97431
 - **Author:** mjieyu404-arch
 - **Updated:** 2026-11-20 21:04:56.000000000
-
-### [Fix policy toggles not reverting on error](https://gerrit.openbmc.org/c/97534)
-- **Change #:** 97534
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-11-19 16:18:20.000000000
 
 ---
 
