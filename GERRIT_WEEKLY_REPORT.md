@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-11-22 15:03:39 UTC
+**Generated:** 2026-11-23 18:59:24 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-11-20 to 2026-11-22 (2 days)
+**Period:** 2026-11-21 to 2026-11-23 (2 days)
 **Total Changes:** 4
 
 ---
 
-## 🔍 Open Changes Awaiting Review (4)
+## 🔍 Open Changes Awaiting Review (2)
 
 ### [Fix policy toggles not reverting on error](https://gerrit.openbmc.org/c/97534)
 - **Change #:** 97534
@@ -18,15 +18,17 @@
 - **Author:** Vedangi Mittal
 - **Updated:** 2026-11-22 13:45:20.000000000
 
-### [Fail CI if npm rewrites package-lock.json](https://gerrit.openbmc.org/c/95592)
-- **Change #:** 95592
-- **Author:** Jason Westover
-- **Updated:** 2026-11-20 21:06:56.000000000
+## ❌ Abandoned Changes (2)
 
-### [Add Traditional Chinese (zh-TW) locale](https://gerrit.openbmc.org/c/97431)
-- **Change #:** 97431
-- **Author:** mjieyu404-arch
-- **Updated:** 2026-11-20 21:04:56.000000000
+### [Fix EventLog attachment download after bmcweb JSON change](https://gerrit.openbmc.org/c/97111)
+- **Change #:** 97111
+- **Author:** meghan1006
+- **Updated:** 2026-11-23 12:10:16.000000000
+
+### [webui-vue: Fix EventLog attachment download](https://gerrit.openbmc.org/c/97114)
+- **Change #:** 97114
+- **Author:** meghan1006
+- **Updated:** 2026-11-23 10:47:33.000000000
 
 ---
 
