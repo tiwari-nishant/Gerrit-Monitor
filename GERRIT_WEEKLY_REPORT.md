@@ -1,12 +1,22 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-11-23 18:59:24 UTC
+**Generated:** 2026-11-24 18:39:53 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-11-21 to 2026-11-23 (2 days)
-**Total Changes:** 4
+**Period:** 2026-11-22 to 2026-11-24 (2 days)
+**Total Changes:** 6
 
 ---
 
-## 🔍 Open Changes Awaiting Review (2)
+## 🔍 Open Changes Awaiting Review (4)
+
+### [Remove unused ServerLedStore module](https://gerrit.openbmc.org/c/97668)
+- **Change #:** 97668
+- **Author:** Nishant Tiwari
+- **Updated:** 2026-11-24 12:30:17.000000000
+
+### [Lock table columns and fix Event Logs buttons](https://gerrit.openbmc.org/c/94432)
+- **Change #:** 94432
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-11-24 08:07:21.000000000
 
 ### [Fix policy toggles not reverting on error](https://gerrit.openbmc.org/c/97534)
 - **Change #:** 97534
