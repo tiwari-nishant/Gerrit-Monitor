@@ -1,32 +1,32 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-11-24 18:39:53 UTC
+**Generated:** 2026-11-25 17:48:54 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-11-22 to 2026-11-24 (2 days)
+**Period:** 2026-11-23 to 2026-11-25 (2 days)
 **Total Changes:** 6
 
 ---
 
 ## 🔍 Open Changes Awaiting Review (4)
 
+### [Migrate factory reset to Vue Query and TypeScript](https://gerrit.openbmc.org/c/97704)
+- **Change #:** 97704
+- **Author:** Nishant Tiwari
+- **Updated:** 2026-11-25 15:31:00.000000000
+
+### [Make Export All downloads valid .json files](https://gerrit.openbmc.org/c/94637)
+- **Change #:** 94637
+- **Author:** BillChanJabil
+- **Updated:** 2026-11-25 07:27:00.000000000
+
 ### [Remove unused ServerLedStore module](https://gerrit.openbmc.org/c/97668)
 - **Change #:** 97668
 - **Author:** Nishant Tiwari
-- **Updated:** 2026-11-24 12:30:17.000000000
+- **Updated:** 2026-11-25 07:15:53.000000000
 
 ### [Lock table columns and fix Event Logs buttons](https://gerrit.openbmc.org/c/94432)
 - **Change #:** 94432
 - **Author:** Vedangi Mittal
 - **Updated:** 2026-11-24 08:07:21.000000000
-
-### [Fix policy toggles not reverting on error](https://gerrit.openbmc.org/c/97534)
-- **Change #:** 97534
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-11-22 14:11:43.000000000
-
-### [Dumps: Show size in GB, MB, KB or bytes](https://gerrit.openbmc.org/c/96820)
-- **Change #:** 96820
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-11-22 13:45:20.000000000
 
 ## ❌ Abandoned Changes (2)
 
