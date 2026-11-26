@@ -1,12 +1,27 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-11-25 17:48:54 UTC
+**Generated:** 2026-11-26 17:32:42 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-11-23 to 2026-11-25 (2 days)
-**Total Changes:** 6
+**Period:** 2026-11-24 to 2026-11-26 (2 days)
+**Total Changes:** 7
 
 ---
 
-## 🔍 Open Changes Awaiting Review (4)
+## 🔍 Open Changes Awaiting Review (6)
+
+### [Fix policy toggles not reverting on error](https://gerrit.openbmc.org/c/97534)
+- **Change #:** 97534
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-11-26 13:28:39.000000000
+
+### [Lock table columns and fix Event Logs buttons](https://gerrit.openbmc.org/c/94432)
+- **Change #:** 94432
+- **Author:** Vedangi Mittal
+- **Updated:** 2026-11-26 12:13:35.000000000
+
+### [Overview: Add unit tests for network card](https://gerrit.openbmc.org/c/95768)
+- **Change #:** 95768
+- **Author:** Vijaysankar Ravi
+- **Updated:** 2026-11-26 02:45:23.000000000
 
 ### [Migrate factory reset to Vue Query and TypeScript](https://gerrit.openbmc.org/c/97704)
 - **Change #:** 97704
@@ -23,22 +38,12 @@
 - **Author:** Nishant Tiwari
 - **Updated:** 2026-11-25 07:15:53.000000000
 
-### [Lock table columns and fix Event Logs buttons](https://gerrit.openbmc.org/c/94432)
-- **Change #:** 94432
-- **Author:** Vedangi Mittal
-- **Updated:** 2026-11-24 08:07:21.000000000
+## ❌ Abandoned Changes (1)
 
-## ❌ Abandoned Changes (2)
-
-### [Fix EventLog attachment download after bmcweb JSON change](https://gerrit.openbmc.org/c/97111)
-- **Change #:** 97111
-- **Author:** meghan1006
-- **Updated:** 2026-11-23 12:10:16.000000000
-
-### [webui-vue: Fix EventLog attachment download](https://gerrit.openbmc.org/c/97114)
-- **Change #:** 97114
-- **Author:** meghan1006
-- **Updated:** 2026-11-23 10:47:33.000000000
+### [Fix ip delete issue](https://gerrit.openbmc.org/c/76038)
+- **Change #:** 76038
+- **Author:** seanzhangseu
+- **Updated:** 2026-11-26 08:05:37.000000000
 
 ---
 
