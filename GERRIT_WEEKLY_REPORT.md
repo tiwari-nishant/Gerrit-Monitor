@@ -1,12 +1,12 @@
 # 📊 Weekly Gerrit Activity Report
-**Generated:** 2026-11-27 17:14:59 UTC
+**Generated:** 2026-11-28 15:58:08 UTC
 **Project:** [openbmc/webui-vue](https://gerrit.openbmc.org/q/project:openbmc/webui-vue)
-**Period:** 2026-11-25 to 2026-11-27 (2 days)
-**Total Changes:** 7
+**Period:** 2026-11-26 to 2026-11-28 (2 days)
+**Total Changes:** 4
 
 ---
 
-## 🔍 Open Changes Awaiting Review (6)
+## 🔍 Open Changes Awaiting Review (3)
 
 ### [Fix policy toggles not reverting on error](https://gerrit.openbmc.org/c/97534)
 - **Change #:** 97534
@@ -22,21 +22,6 @@
 - **Change #:** 95768
 - **Author:** Vijaysankar Ravi
 - **Updated:** 2026-11-26 02:45:23.000000000
-
-### [Migrate factory reset to Vue Query and TypeScript](https://gerrit.openbmc.org/c/97704)
-- **Change #:** 97704
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-11-25 15:31:00.000000000
-
-### [Make Export All downloads valid .json files](https://gerrit.openbmc.org/c/94637)
-- **Change #:** 94637
-- **Author:** BillChanJabil
-- **Updated:** 2026-11-25 07:27:00.000000000
-
-### [Remove unused ServerLedStore module](https://gerrit.openbmc.org/c/97668)
-- **Change #:** 97668
-- **Author:** Nishant Tiwari
-- **Updated:** 2026-11-25 07:15:53.000000000
 
 ## ❌ Abandoned Changes (1)
 
